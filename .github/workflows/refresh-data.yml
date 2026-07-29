@@ -1,0 +1,42 @@
+name: Refresh IAE & Nominations
+
+# "Knopfdruck"-Trigger: manuell im GitHub UI unter Actions > Refresh IAE & Nominations > Run workflow
+# Optional: läuft auch täglich automatisch.
+on:
+  workflow_dispatch:
+    inputs:
+      storefront:
+        description: "Huxley storefront ID (z.B. 143443 = Germany)"
+        required: false
+        default: "143443"
+  schedule:
+    - cron: "0 5 * * *"   # täglich 05:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch Nominations & IAE from Huxley
+        env:
+          HUXLEY_STOREFRONT: ${{ github.event.inputs.storefront || '143443' }}
+        run: |
+          python3 scripts/fetch_editorial_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "editorial-crm-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/nominations.json data/iae.json
+          git diff --cached --quiet || git commit -m "chore: refresh IAE & Nominations [skip ci]"
+          git push

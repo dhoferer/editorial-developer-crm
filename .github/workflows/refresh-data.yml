@@ -38,5 +38,13 @@ jobs:
           git config user.name "editorial-crm-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/nominations.json data/iae.json
-          git diff --cached --quiet || git commit -m "chore: refresh IAE & Nominations [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh IAE & Nominations [skip ci]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push failed (attempt $i), retrying after rebase..."
+            sleep $((RANDOM % 5 + 2))
+          done

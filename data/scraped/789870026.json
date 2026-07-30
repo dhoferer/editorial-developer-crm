@@ -1,0 +1,29 @@
+{
+  "appName": "Jodel: Hyperlocal Community",
+  "adamId": "789870026",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/789870026/513610173/iap",
+  "iae_events": [
+    {"title": "World Cup on Jodel", "eventId": "6781641570"},
+    {"title": "كأس العالم 2026 🇸🇦", "eventId": "6779145001"},
+    {"title": "World Cup on Jodel (2)", "eventId": "6777916078"},
+    {"title": "Eid al-Adha", "eventId": "6773327382"},
+    {"title": "Ice Hockey World Championship", "eventId": "6768891918"},
+    {"title": "Eurovision on Jodel", "eventId": "6766782148"},
+    {"title": "Eurovision on Jodel (2)", "eventId": "6766781226"},
+    {"title": "Celebrate Easter together", "eventId": "6761457086"},
+    {"title": "Best of JodelZoo", "eventId": "6760830445"},
+    {"title": "أجواء العيد في يودل", "eventId": "6760813842"},
+    {"title": "Jalkapallon MM-kisat Jodelissa", "eventId": "6779656773"},
+    {"title": "World Cup on Jodel (3)", "eventId": "6779567281"},
+    {"title": "World Cup on Jodel (4)", "eventId": "6778433113"},
+    {"title": "B2S - Kevätlukukausi 2026", "eventId": "6757463860"},
+    {"title": "Gingerbread house competition", "eventId": "6756060570"},
+    {"title": "Alue- ja kuntavaalit 2025", "eventId": "6743744285"},
+    {"title": "World Cup on Jodel (5)", "eventId": "6781627900"},
+    {"title": "Jalkapallon MM-kisat Jodelissa (2)", "eventId": "6781609613"}
+  ],
+  "nominations": [
+    {"title": "FI_Back2School2025", "url": "https://huxley.itunes.apple.com/v2/nominations/ac7d6148-d7b2-446d-865a-e2d1bbcff2f8"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

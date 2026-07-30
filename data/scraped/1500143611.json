@@ -1,0 +1,20 @@
+{
+  "appName": "Yuno - General knowledge",
+  "adamId": "1500143611",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/1500143611/512973444/iap",
+  "iae_events": [
+    {"title": "Der Ring des Nibelungen", "eventId": "6761537126"},
+    {"title": "The Apollo Program", "eventId": "6761536523"},
+    {"title": "The Voyages of Columbus", "eventId": "6760185256"},
+    {"title": "Die Deutsche Revolution 1848", "eventId": "6760187514"},
+    {"title": "Ein Kaiser im Spiegelsaal", "eventId": "6757809822"},
+    {"title": "Back to School with Yuno", "eventId": "6748736381"},
+    {"title": "Back to School bei Yuno", "eventId": "6748736482"},
+    {"title": "The American Revolution", "eventId": "6747803083"},
+    {"title": "Die Amerikanische Revolution", "eventId": "6747810700"}
+  ],
+  "nominations": [
+    {"title": "NEW: Yuno Quests (On Screen Gameplay)", "url": "https://huxley.itunes.apple.com/v2/nominations/217876d8-50c2-4b51-b013-695923e239eb"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

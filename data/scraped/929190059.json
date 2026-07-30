@@ -1,0 +1,32 @@
+{
+  "appName": "WOW",
+  "adamId": "929190059",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/929190059/511635280/iap",
+  "iae_events": [
+    {"title": "Like A Complete Unknown", "eventId": "6794338590"},
+    {"title": "Die Unfassbaren 3", "eventId": "6784177864"},
+    {"title": "Chicago P.D.", "eventId": "6786178525"},
+    {"title": "Formel 1 Grand Prix Österreich", "eventId": "6781213073"},
+    {"title": "Dracula - Die Auferstehung", "eventId": "6776157609"},
+    {"title": "Formel 1 Grand Prix Monaco", "eventId": "6776152857"},
+    {"title": "Matlock", "eventId": "6767160260"},
+    {"title": "Chicago Fire und Chicago Med", "eventId": "6767161972"},
+    {"title": "Bayern gegen Köln", "eventId": "6768949905"},
+    {"title": "Stuttgart gegen Leverkusen", "eventId": "6767166765"},
+    {"title": "Boston Blue", "eventId": "6762356178"},
+    {"title": "Frankfurt vs. Hamburg", "eventId": "6762348274"},
+    {"title": "Diese Ochsenknechts", "eventId": "6761118350"},
+    {"title": "Chicago P.D. (2)", "eventId": "6784175545"},
+    {"title": "FC St. Pauli gegen 1. FC Köln", "eventId": "6761128078"},
+    {"title": "Stream die besten Serien", "eventId": "6761527820"},
+    {"title": "Die Gangster Gang 2", "eventId": "6761051693"}
+  ],
+  "nominations": [
+    {"title": "Bundesliga | Start of Season 2026", "url": "https://huxley.itunes.apple.com/v2/nominations/b962b3ac-24f8-4322-b87e-cbf328432354"},
+    {"title": "House of the Dragon 3", "url": "https://huxley.itunes.apple.com/v2/nominations/dba91b02-1141-4d46-a636-f5f806abe9f4"},
+    {"title": "Euphoria Staffel 3", "url": "https://huxley.itunes.apple.com/v2/nominations/6355c009-95c9-4ede-af24-88de5cfa5712"},
+    {"title": "Black Week Offer 2025", "url": "https://huxley.itunes.apple.com/v2/nominations/658b53cc-4402-42c6-9f25-908f208f1d51"},
+    {"title": "Anora", "url": "https://huxley.itunes.apple.com/v2/nominations/2165d601-e158-4a92-932e-ce7ecf46159c"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

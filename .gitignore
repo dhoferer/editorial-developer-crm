@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .env
+.huxley-browser-profile/
+vendor/

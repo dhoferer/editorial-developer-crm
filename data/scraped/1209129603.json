@@ -1,0 +1,19 @@
+{
+  "appName": "calimoto Motorcycle Navigation",
+  "adamId": "1209129603",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/1209129603/513317738/iap",
+  "iae_events": [
+    {"title": "New: Group Rides", "eventId": "6795071378"},
+    {"title": "Major routing update", "eventId": "6789056467"},
+    {"title": "Season Start: Hit the Curves!", "eventId": "6760181803"},
+    {"title": "Avoid Closed Roads", "eventId": "6751570139"},
+    {"title": "See Road Closures on the Map", "eventId": "6745164043"},
+    {"title": "Saisonstart: Zeit für Kurven!", "eventId": "6744023550"},
+    {"title": "New: Group Rides (2)", "eventId": "6793922866"},
+    {"title": "10 years of calimoto", "eventId": "6776185553"}
+  ],
+  "nominations": [
+    {"title": "TomTom2", "url": "https://huxley.itunes.apple.com/v2/nominations/c7521533-be76-472e-b105-26ac8189e4e4"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

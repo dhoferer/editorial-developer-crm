@@ -1,0 +1,20 @@
+{
+  "appName": "Splash - Impostor Game",
+  "adamId": "6744290388",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/6744290388/514244729/iap",
+  "iae_events": [
+    {"title": "New Year with Splash", "eventId": "6754917761"},
+    {"title": "Merry Splashmas", "eventId": "6754914036"},
+    {"title": "Spooky Deals", "eventId": "6754604457"},
+    {"title": "Splash House: Live aus Malle", "eventId": "6748921901"},
+    {"title": "Werewolves now in Splash", "eventId": "6747491863"},
+    {"title": "Game nights just got better", "eventId": "6762445250"}
+  ],
+  "nominations": [
+    {"title": "Splash World Cup 2026", "url": "https://huxley.itunes.apple.com/v2/nominations/9f69668a-060a-407e-8053-fa7396b2df7b"},
+    {"title": "Bonjour, Hola, Ciao! Splash adds 3 New Languages", "url": "https://huxley.itunes.apple.com/v2/nominations/14893107-6d9e-4c21-9b2c-9d383956ffd8"},
+    {"title": "Back to School Fun with Splash", "url": "https://huxley.itunes.apple.com/v2/nominations/07b3b559-f319-46ce-b811-651deafb801e"},
+    {"title": "Liquid Glass x Splash", "url": "https://huxley.itunes.apple.com/v2/nominations/f45a9214-4ede-416e-9ff3-6ae8c85aee21"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

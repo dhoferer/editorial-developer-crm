@@ -1,0 +1,32 @@
+{
+  "appName": "Blinkist: Book Summaries Daily",
+  "adamId": "568839295",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/568839295/514143859/iap",
+  "iae_events": [
+    {"title": "Late-Summer Learning Sprint", "eventId": "6782928482"},
+    {"title": "Scroll Less Rest More", "eventId": "6782921507"},
+    {"title": "Do Not Disturb: Reading!", "eventId": "6773243487"},
+    {"title": "Morning Routine Challenge", "eventId": "6782931484"},
+    {"title": "Stories of Latin America", "eventId": "6778345765"},
+    {"title": "Back to Learning with Blinkist", "eventId": "6778337129"},
+    {"title": "Learning on the Go", "eventId": "6782924246"},
+    {"title": "Prime Days on Blinkist", "eventId": "6773250459"},
+    {"title": "What Makes a Great Dad?", "eventId": "6760771794"},
+    {"title": "Proud Voices, Powerful Stories", "eventId": "6760768230"},
+    {"title": "Modern Mom's Toolkit", "eventId": "6760764551"},
+    {"title": "Mental Health Starts at Work", "eventId": "6760764043"},
+    {"title": "Own Your Attention Span", "eventId": "6760400056"},
+    {"title": "Bloom Without the Burnout", "eventId": "6760399657"}
+  ],
+  "nominations": [
+    {"title": "Back to Routine Challenge", "url": "https://huxley.itunes.apple.com/v2/nominations/0dc135db-f6eb-4b60-9d45-55c8154add22"},
+    {"title": "Learning Sprint", "url": "https://huxley.itunes.apple.com/v2/nominations/08b2ce20-cf93-4517-a38a-e5c1fa1aede1"},
+    {"title": "Reset Your Mind", "url": "https://huxley.itunes.apple.com/v2/nominations/eb73569b-6d98-49f0-8658-80d8489646b5"},
+    {"title": "Learning on the Go", "url": "https://huxley.itunes.apple.com/v2/nominations/44262cbe-5ebb-4649-bb2f-1bb608bd10c6"},
+    {"title": "Back To School 2026", "url": "https://huxley.itunes.apple.com/v2/nominations/b52754c0-e53c-482d-b9ae-b030ca75957f"},
+    {"title": "Cyber Week Special", "url": "https://huxley.itunes.apple.com/v2/nominations/9a6cfe6f-75c2-46e4-bb73-536da6f60ef9"},
+    {"title": "Why EQ Beats IQ", "url": "https://huxley.itunes.apple.com/v2/nominations/e444d3c6-a72d-45c4-8260-74f7ddf42e53"},
+    {"title": "Think Fast and Slow", "url": "https://huxley.itunes.apple.com/v2/nominations/f4cab3b7-249e-4091-b063-e8546c0700a1"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

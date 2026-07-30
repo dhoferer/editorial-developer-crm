@@ -1,0 +1,11 @@
+{
+  "appName": "Ivy: Processed Food Scanner",
+  "adamId": "6642701963",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/6642701963/514456610/iap",
+  "iae_events": [
+    {"title": "Allergens & Diet Preferences", "eventId": "6760385247"},
+    {"title": "Pesticides & Microplastics", "eventId": "6746376735"}
+  ],
+  "nominations": [],
+  "note": "Keine Nominations sichtbar (leere Tabelle)."
+}

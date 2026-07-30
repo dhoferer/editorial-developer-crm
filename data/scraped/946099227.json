@@ -1,0 +1,29 @@
+{
+  "appName": "AI Calorie Tracker by Yazio",
+  "adamId": "946099227",
+  "nominations": [
+    {"title": "IAE Influencer Event / Summer made Easy", "url": "https://huxley.itunes.apple.com/v2/nominations/217f15c3-e59b-40a2-836e-c881ef57172d"},
+    {"title": "BBQ Event 2026", "url": "https://huxley.itunes.apple.com/v2/nominations/0bc3b22c-9e5d-4cd1-9da7-35c96a74421a"},
+    {"title": "Easter Event 2026", "url": "https://huxley.itunes.apple.com/v2/nominations/3f8e6231-5aa8-4fca-974f-a8ae01f443b5"},
+    {"title": "New Year's 2025/2026", "url": "https://huxley.itunes.apple.com/v2/nominations/71dfa38f-4c62-48d0-9702-a8b6d4d82aa1"},
+    {"title": "Immune System Boosting Recipes 2025", "url": "https://huxley.itunes.apple.com/v2/nominations/c212fbb4-3e79-415a-a326-610100abfda0"}
+  ],
+  "iae_events": [
+    {"title": "Hydrated and happy", "eventId": "6771821698", "url": "https://huxley.itunes.apple.com/v2/jump/event/6771821698"},
+    {"title": "Vitamin D-licious", "eventId": "6768640629", "url": "https://huxley.itunes.apple.com/v2/jump/event/6768640629"},
+    {"title": "Cozy season snacks", "eventId": "6773683955", "url": "https://huxley.itunes.apple.com/v2/jump/event/6773683955"},
+    {"title": "Brand-new deliciousness", "eventId": "6773667313", "url": "https://huxley.itunes.apple.com/v2/jump/event/6773667313"},
+    {"title": "Back to school with flavor", "eventId": "6771825945", "url": "https://huxley.itunes.apple.com/v2/jump/event/6771825945"},
+    {"title": "Summer recipes for Ferragosto", "eventId": "6771825347", "url": "https://huxley.itunes.apple.com/v2/jump/event/6771825347"},
+    {"title": "Summer made simple", "eventId": "6768569670", "url": "https://huxley.itunes.apple.com/v2/jump/event/6768569670"},
+    {"title": "From the heart", "eventId": "6760765373", "url": "https://huxley.itunes.apple.com/v2/jump/event/6760765373"},
+    {"title": "Strawberry season", "eventId": "6759600891", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759600891"},
+    {"title": "More than burgers and brats", "eventId": "6759562789", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759562789"},
+    {"title": "From the heart", "eventId": "6760764704", "url": "https://huxley.itunes.apple.com/v2/jump/event/6760764704"},
+    {"title": "Did someone say protein?", "eventId": "6759563421", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759563421"},
+    {"title": "Plant-based goodness", "eventId": "6759561832", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759561832"},
+    {"title": "Wedding prep recipes", "eventId": "6759453301", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759453301"},
+    {"title": "Eggs-quisite Easter recipes", "eventId": "6759451680", "url": "https://huxley.itunes.apple.com/v2/jump/event/6759451680"}
+  ],
+  "note": "Liste ggf. unvollständig (Tabelle war paginiert/truncated), aber repräsentativ für aktive & vergangene Events."
+}

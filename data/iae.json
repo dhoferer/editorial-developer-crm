@@ -1,107 +1,727 @@
 {
-  "6737470910": {
-    "appName": "Emma: Learn Languages",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/6737470910/143443/iap/events"
-    }
-  },
-  "1454762989": {
-    "appName": "Instories: AI Photo & Video",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1454762989/143443/iap/events"
-    }
+  "929190059": {
+    "appName": "WOW",
+    "data": [
+      {
+        "title": "Like A Complete Unknown",
+        "eventId": "6794338590"
+      },
+      {
+        "title": "Die Unfassbaren 3",
+        "eventId": "6784177864"
+      },
+      {
+        "title": "Chicago P.D.",
+        "eventId": "6786178525"
+      },
+      {
+        "title": "Formel 1 Grand Prix Österreich",
+        "eventId": "6781213073"
+      },
+      {
+        "title": "Dracula - Die Auferstehung",
+        "eventId": "6776157609"
+      },
+      {
+        "title": "Formel 1 Grand Prix Monaco",
+        "eventId": "6776152857"
+      },
+      {
+        "title": "Matlock",
+        "eventId": "6767160260"
+      },
+      {
+        "title": "Chicago Fire und Chicago Med",
+        "eventId": "6767161972"
+      },
+      {
+        "title": "Bayern gegen Köln",
+        "eventId": "6768949905"
+      },
+      {
+        "title": "Stuttgart gegen Leverkusen",
+        "eventId": "6767166765"
+      },
+      {
+        "title": "Boston Blue",
+        "eventId": "6762356178"
+      },
+      {
+        "title": "Frankfurt vs. Hamburg",
+        "eventId": "6762348274"
+      },
+      {
+        "title": "Diese Ochsenknechts",
+        "eventId": "6761118350"
+      },
+      {
+        "title": "Chicago P.D. (2)",
+        "eventId": "6784175545"
+      },
+      {
+        "title": "FC St. Pauli gegen 1. FC Köln",
+        "eventId": "6761128078"
+      },
+      {
+        "title": "Stream die besten Serien",
+        "eventId": "6761527820"
+      },
+      {
+        "title": "Die Gangster Gang 2",
+        "eventId": "6761051693"
+      }
+    ]
   },
   "1569413444": {
     "appName": "Finary: Budget & Money Tracker",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1569413444/143443/iap/events"
-    }
-  },
-  "929190059": {
-    "appName": "WOW",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/929190059/143443/iap/events"
-    }
-  },
-  "1595390736": {
-    "appName": "Instinct: Casual Dating App",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1595390736/143443/iap/events"
-    }
-  },
-  "6751030141": {
-    "appName": "Astra AI: Study & Exam Prep",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/6751030141/143443/iap/events"
-    }
-  },
-  "829587759": {
-    "appName": "Babbel - Language Learning",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/829587759/143443/iap/events"
-    }
-  },
-  "6642701963": {
-    "appName": "Ivy: Processed Food Scanner",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/6642701963/143443/iap/events"
-    }
-  },
-  "789870026": {
-    "appName": "Jodel: Hyperlocal Community",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/789870026/143443/iap/events"
-    }
-  },
-  "1661308505": {
-    "appName": "ChatOn AI - Chat Bot Assistant",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1661308505/143443/iap/events"
-    }
-  },
-  "946099227": {
-    "appName": "AI Calorie Tracker by Yazio",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/946099227/143443/iap/events"
-    }
-  },
-  "568839295": {
-    "appName": "Blinkist: Book Summaries Daily",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/568839295/143443/iap/events"
-    }
+    "data": [
+      {
+        "title": "Financial Resolutions 2026",
+        "eventId": "6757338098"
+      },
+      {
+        "title": "Introducing Widgets",
+        "eventId": "6756426849"
+      },
+      {
+        "title": "Launch of Finary Life",
+        "eventId": "6742660911"
+      },
+      {
+        "title": "Subscription scanner",
+        "eventId": "6739423300"
+      },
+      {
+        "title": "Votre budget, repensé",
+        "eventId": "6738773694"
+      },
+      {
+        "title": "Track your loans",
+        "eventId": "6639607712"
+      },
+      {
+        "title": "New on Cashflow!",
+        "eventId": "6477695647"
+      },
+      {
+        "title": "Smart Rules",
+        "eventId": "6477203280"
+      },
+      {
+        "title": "Cashflow-Analysis",
+        "eventId": "6474862173"
+      },
+      {
+        "title": "Finary Wrapped is here!",
+        "eventId": "6474664025"
+      },
+      {
+        "title": "Explore Finary Invest",
+        "eventId": "6469730823"
+      },
+      {
+        "title": "Finary Predict",
+        "eventId": "6445037896"
+      },
+      {
+        "title": "Finary for Families is here",
+        "eventId": "6443327581"
+      },
+      {
+        "title": "Asset-Based View",
+        "eventId": "6787730933"
+      },
+      {
+        "title": "Goals",
+        "eventId": "6782211897"
+      }
+    ]
   },
   "1500143611": {
     "appName": "Yuno - General knowledge",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1500143611/143443/iap/events"
-    }
+    "data": [
+      {
+        "title": "Der Ring des Nibelungen",
+        "eventId": "6761537126"
+      },
+      {
+        "title": "The Apollo Program",
+        "eventId": "6761536523"
+      },
+      {
+        "title": "The Voyages of Columbus",
+        "eventId": "6760185256"
+      },
+      {
+        "title": "Die Deutsche Revolution 1848",
+        "eventId": "6760187514"
+      },
+      {
+        "title": "Ein Kaiser im Spiegelsaal",
+        "eventId": "6757809822"
+      },
+      {
+        "title": "Back to School with Yuno",
+        "eventId": "6748736381"
+      },
+      {
+        "title": "Back to School bei Yuno",
+        "eventId": "6748736482"
+      },
+      {
+        "title": "The American Revolution",
+        "eventId": "6747803083"
+      },
+      {
+        "title": "Die Amerikanische Revolution",
+        "eventId": "6747810700"
+      }
+    ]
+  },
+  "568839295": {
+    "appName": "Blinkist: Book Summaries Daily",
+    "data": [
+      {
+        "title": "Late-Summer Learning Sprint",
+        "eventId": "6782928482"
+      },
+      {
+        "title": "Scroll Less Rest More",
+        "eventId": "6782921507"
+      },
+      {
+        "title": "Do Not Disturb: Reading!",
+        "eventId": "6773243487"
+      },
+      {
+        "title": "Morning Routine Challenge",
+        "eventId": "6782931484"
+      },
+      {
+        "title": "Stories of Latin America",
+        "eventId": "6778345765"
+      },
+      {
+        "title": "Back to Learning with Blinkist",
+        "eventId": "6778337129"
+      },
+      {
+        "title": "Learning on the Go",
+        "eventId": "6782924246"
+      },
+      {
+        "title": "Prime Days on Blinkist",
+        "eventId": "6773250459"
+      },
+      {
+        "title": "What Makes a Great Dad?",
+        "eventId": "6760771794"
+      },
+      {
+        "title": "Proud Voices, Powerful Stories",
+        "eventId": "6760768230"
+      },
+      {
+        "title": "Modern Mom's Toolkit",
+        "eventId": "6760764551"
+      },
+      {
+        "title": "Mental Health Starts at Work",
+        "eventId": "6760764043"
+      },
+      {
+        "title": "Own Your Attention Span",
+        "eventId": "6760400056"
+      },
+      {
+        "title": "Bloom Without the Burnout",
+        "eventId": "6760399657"
+      }
+    ]
   },
   "1209129603": {
     "appName": "calimoto Motorcycle Navigation",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/1209129603/143443/iap/events"
-    }
+    "data": [
+      {
+        "title": "New: Group Rides",
+        "eventId": "6795071378"
+      },
+      {
+        "title": "Major routing update",
+        "eventId": "6789056467"
+      },
+      {
+        "title": "Season Start: Hit the Curves!",
+        "eventId": "6760181803"
+      },
+      {
+        "title": "Avoid Closed Roads",
+        "eventId": "6751570139"
+      },
+      {
+        "title": "See Road Closures on the Map",
+        "eventId": "6745164043"
+      },
+      {
+        "title": "Saisonstart: Zeit für Kurven!",
+        "eventId": "6744023550"
+      },
+      {
+        "title": "New: Group Rides (2)",
+        "eventId": "6793922866"
+      },
+      {
+        "title": "10 years of calimoto",
+        "eventId": "6776185553"
+      }
+    ]
+  },
+  "789870026": {
+    "appName": "Jodel: Hyperlocal Community",
+    "data": [
+      {
+        "title": "World Cup on Jodel",
+        "eventId": "6781641570"
+      },
+      {
+        "title": "كأس العالم 2026 🇸🇦",
+        "eventId": "6779145001"
+      },
+      {
+        "title": "World Cup on Jodel (2)",
+        "eventId": "6777916078"
+      },
+      {
+        "title": "Eid al-Adha",
+        "eventId": "6773327382"
+      },
+      {
+        "title": "Ice Hockey World Championship",
+        "eventId": "6768891918"
+      },
+      {
+        "title": "Eurovision on Jodel",
+        "eventId": "6766782148"
+      },
+      {
+        "title": "Eurovision on Jodel (2)",
+        "eventId": "6766781226"
+      },
+      {
+        "title": "Celebrate Easter together",
+        "eventId": "6761457086"
+      },
+      {
+        "title": "Best of JodelZoo",
+        "eventId": "6760830445"
+      },
+      {
+        "title": "أجواء العيد في يودل",
+        "eventId": "6760813842"
+      },
+      {
+        "title": "Jalkapallon MM-kisat Jodelissa",
+        "eventId": "6779656773"
+      },
+      {
+        "title": "World Cup on Jodel (3)",
+        "eventId": "6779567281"
+      },
+      {
+        "title": "World Cup on Jodel (4)",
+        "eventId": "6778433113"
+      },
+      {
+        "title": "B2S - Kevätlukukausi 2026",
+        "eventId": "6757463860"
+      },
+      {
+        "title": "Gingerbread house competition",
+        "eventId": "6756060570"
+      },
+      {
+        "title": "Alue- ja kuntavaalit 2025",
+        "eventId": "6743744285"
+      },
+      {
+        "title": "World Cup on Jodel (5)",
+        "eventId": "6781627900"
+      },
+      {
+        "title": "Jalkapallon MM-kisat Jodelissa (2)",
+        "eventId": "6781609613"
+      }
+    ]
+  },
+  "6737470910": {
+    "appName": "Emma: Learn Languages",
+    "data": [
+      {
+        "title": "4 new languages available",
+        "eventId": "6760754171"
+      }
+    ]
+  },
+  "1661308505": {
+    "appName": "ChatOn AI - Chat Bot Assistant",
+    "data": [
+      {
+        "title": "Your new Image Lab",
+        "eventId": "6781240362"
+      },
+      {
+        "title": "Halloween Treats from ChatOn",
+        "eventId": "6753937857"
+      },
+      {
+        "title": "Back to School with ChatOn",
+        "eventId": "6749578579"
+      },
+      {
+        "title": "Feel United This Pride Month",
+        "eventId": "6745876832"
+      },
+      {
+        "title": "Christmas Cheer with ChatOn",
+        "eventId": "6738580067"
+      },
+      {
+        "title": "Thanksgiving Joy in ChatOn",
+        "eventId": "6737475386"
+      },
+      {
+        "title": "Halloween fun awaits in ChatOn",
+        "eventId": "6737128805"
+      },
+      {
+        "title": "Claude 3 Haiku in ChatOn",
+        "eventId": "6702019203"
+      },
+      {
+        "title": "Get Back-to-School Ready",
+        "eventId": "6651850825"
+      },
+      {
+        "title": "Good AI Chat by ChatOn",
+        "eventId": "6446678533"
+      },
+      {
+        "title": "Good Chatbot powered by AI",
+        "eventId": "6446678442"
+      },
+      {
+        "title": "Feel United This Pride Month (2)",
+        "eventId": "6741581332"
+      },
+      {
+        "title": "DeepSeek Now in ChatOn",
+        "eventId": "6741111145"
+      },
+      {
+        "title": "Claude 3.5 Sonnet in ChatOn",
+        "eventId": "6738651245"
+      },
+      {
+        "title": "The Virtual Assistant - ChatOn",
+        "eventId": "6446678280"
+      },
+      {
+        "title": "The GPT-powered AI Chatbot",
+        "eventId": "6446626509"
+      },
+      {
+        "title": "Good AI Chat powered by GPT",
+        "eventId": "6446626336"
+      }
+    ]
+  },
+  "1595390736": {
+    "appName": "Instinct: Casual Dating App",
+    "data": []
+  },
+  "6751030141": {
+    "appName": "Astra AI: Study & Exam Prep",
+    "data": [
+      {
+        "title": "Focus Mode",
+        "eventId": "6787064870"
+      },
+      {
+        "title": "AI Exam Study Plan",
+        "eventId": "6763461094"
+      },
+      {
+        "title": "AI Oral Exam Practice",
+        "eventId": "6776347972"
+      }
+    ]
+  },
+  "1454762989": {
+    "appName": "Instories: AI Photo & Video",
+    "data": [
+      {
+        "title": "Summer Sale Templates Pack",
+        "eventId": "6776987908"
+      },
+      {
+        "title": "Create AI-Powered Transitions",
+        "eventId": "6772135409"
+      },
+      {
+        "title": "Get a Stadium Cam Video",
+        "eventId": "6768893266"
+      },
+      {
+        "title": "Get a Stadium Cam Video (2)",
+        "eventId": "6768546750"
+      },
+      {
+        "title": "Mother's Day",
+        "eventId": "6766896622"
+      },
+      {
+        "title": "AI Cutouts & Effects",
+        "eventId": "6763537498"
+      },
+      {
+        "title": "AI Stories from Product Photos",
+        "eventId": "6762447241"
+      },
+      {
+        "title": "Easter Content AI Studio",
+        "eventId": "6761471567"
+      },
+      {
+        "title": "Women's Day Creative Hub",
+        "eventId": "6759791027"
+      },
+      {
+        "title": "Chinese New Year Portraits",
+        "eventId": "6759241877"
+      },
+      {
+        "title": "World Cup Live Cam Template",
+        "eventId": "6788476717"
+      },
+      {
+        "title": "Empire State Viral Template",
+        "eventId": "6787162697"
+      },
+      {
+        "title": "AI Carousel Maker — One Prompt",
+        "eventId": "6777047420"
+      },
+      {
+        "title": "Quick Edit — Style Yourself",
+        "eventId": "6775425110"
+      }
+    ]
+  },
+  "6642701963": {
+    "appName": "Ivy: Processed Food Scanner",
+    "data": [
+      {
+        "title": "Allergens & Diet Preferences",
+        "eventId": "6760385247"
+      },
+      {
+        "title": "Pesticides & Microplastics",
+        "eventId": "6746376735"
+      }
+    ]
+  },
+  "946099227": {
+    "appName": "AI Calorie Tracker by Yazio",
+    "data": [
+      {
+        "title": "Hydrated and happy",
+        "eventId": "6771821698",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6771821698"
+      },
+      {
+        "title": "Vitamin D-licious",
+        "eventId": "6768640629",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6768640629"
+      },
+      {
+        "title": "Cozy season snacks",
+        "eventId": "6773683955",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6773683955"
+      },
+      {
+        "title": "Brand-new deliciousness",
+        "eventId": "6773667313",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6773667313"
+      },
+      {
+        "title": "Back to school with flavor",
+        "eventId": "6771825945",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6771825945"
+      },
+      {
+        "title": "Summer recipes for Ferragosto",
+        "eventId": "6771825347",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6771825347"
+      },
+      {
+        "title": "Summer made simple",
+        "eventId": "6768569670",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6768569670"
+      },
+      {
+        "title": "From the heart",
+        "eventId": "6760765373",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6760765373"
+      },
+      {
+        "title": "Strawberry season",
+        "eventId": "6759600891",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759600891"
+      },
+      {
+        "title": "More than burgers and brats",
+        "eventId": "6759562789",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759562789"
+      },
+      {
+        "title": "From the heart",
+        "eventId": "6760764704",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6760764704"
+      },
+      {
+        "title": "Did someone say protein?",
+        "eventId": "6759563421",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759563421"
+      },
+      {
+        "title": "Plant-based goodness",
+        "eventId": "6759561832",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759561832"
+      },
+      {
+        "title": "Wedding prep recipes",
+        "eventId": "6759453301",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759453301"
+      },
+      {
+        "title": "Eggs-quisite Easter recipes",
+        "eventId": "6759451680",
+        "url": "https://huxley.itunes.apple.com/v2/jump/event/6759451680"
+      }
+    ]
+  },
+  "829587759": {
+    "appName": "Babbel - Language Learning",
+    "data": [
+      {
+        "title": "The Language of Women's Rights",
+        "eventId": "6759739394"
+      },
+      {
+        "title": "Celebrate Mother Language Day",
+        "eventId": "6759396201"
+      },
+      {
+        "title": "A Day to Celebrate",
+        "eventId": "6757864277"
+      },
+      {
+        "title": "Introducing: Babbel Speak",
+        "eventId": "6752663469"
+      },
+      {
+        "title": "Learn a new language for work",
+        "eventId": "6749900510"
+      },
+      {
+        "title": "Celebrate Spanish Language Day",
+        "eventId": "6743316519"
+      },
+      {
+        "title": "Celebrate French Language Day!",
+        "eventId": "6742448787"
+      },
+      {
+        "title": "Celebrate Women's Day",
+        "eventId": "6742491895"
+      },
+      {
+        "title": "Celebrate Mother Language Day! (2)",
+        "eventId": "6741683113"
+      },
+      {
+        "title": "New: Streak Freeze",
+        "eventId": "6739583246"
+      },
+      {
+        "title": "Start 2026 with a new language",
+        "eventId": "6756322130"
+      },
+      {
+        "title": "Invest in a new language.",
+        "eventId": "6754891719"
+      },
+      {
+        "title": "Celebrate Mother Language Day! (3)",
+        "eventId": "6740995119"
+      },
+      {
+        "title": "Start your '25 learning streak",
+        "eventId": "6738967321"
+      },
+      {
+        "title": "Start your '25 learning streak (2)",
+        "eventId": "6738582073"
+      },
+      {
+        "title": "Improve your Business English",
+        "eventId": "6566189766"
+      },
+      {
+        "title": "Feliz Carnaval... em português",
+        "eventId": "6476885433"
+      },
+      {
+        "title": "Feliz Carnaval... em inglês!",
+        "eventId": "6476885348"
+      },
+      {
+        "title": "Draft",
+        "eventId": "6442676300"
+      },
+      {
+        "title": "Save 65%? Now you're talking!",
+        "eventId": "6470649656"
+      }
+    ]
   },
   "6744290388": {
     "appName": "Splash - Impostor Game",
-    "data": {
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "url": "https://huxley.itunes.apple.com/v2/detail/6744290388/143443/iap/events"
-    }
+    "data": [
+      {
+        "title": "New Year with Splash",
+        "eventId": "6754917761"
+      },
+      {
+        "title": "Merry Splashmas",
+        "eventId": "6754914036"
+      },
+      {
+        "title": "Spooky Deals",
+        "eventId": "6754604457"
+      },
+      {
+        "title": "Splash House: Live aus Malle",
+        "eventId": "6748921901"
+      },
+      {
+        "title": "Werewolves now in Splash",
+        "eventId": "6747491863"
+      },
+      {
+        "title": "Game nights just got better",
+        "eventId": "6762445250"
+      }
+    ]
   }
 }

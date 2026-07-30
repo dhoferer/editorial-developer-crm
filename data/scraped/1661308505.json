@@ -1,0 +1,32 @@
+{
+  "appName": "ChatOn AI - Chat Bot Assistant",
+  "adamId": "1661308505",
+  "detailUrl": "https://huxley.itunes.apple.com/v2/detail/1661308505/514866964/iap",
+  "iae_events": [
+    {"title": "Your new Image Lab", "eventId": "6781240362"},
+    {"title": "Halloween Treats from ChatOn", "eventId": "6753937857"},
+    {"title": "Back to School with ChatOn", "eventId": "6749578579"},
+    {"title": "Feel United This Pride Month", "eventId": "6745876832"},
+    {"title": "Christmas Cheer with ChatOn", "eventId": "6738580067"},
+    {"title": "Thanksgiving Joy in ChatOn", "eventId": "6737475386"},
+    {"title": "Halloween fun awaits in ChatOn", "eventId": "6737128805"},
+    {"title": "Claude 3 Haiku in ChatOn", "eventId": "6702019203"},
+    {"title": "Get Back-to-School Ready", "eventId": "6651850825"},
+    {"title": "Good AI Chat by ChatOn", "eventId": "6446678533"},
+    {"title": "Good Chatbot powered by AI", "eventId": "6446678442"},
+    {"title": "Feel United This Pride Month (2)", "eventId": "6741581332"},
+    {"title": "DeepSeek Now in ChatOn", "eventId": "6741111145"},
+    {"title": "Claude 3.5 Sonnet in ChatOn", "eventId": "6738651245"},
+    {"title": "The Virtual Assistant - ChatOn", "eventId": "6446678280"},
+    {"title": "The GPT-powered AI Chatbot", "eventId": "6446626509"},
+    {"title": "Good AI Chat powered by GPT", "eventId": "6446626336"}
+  ],
+  "nominations": [
+    {"title": "Halloween In-App Event", "url": "https://huxley.itunes.apple.com/v2/nominations/b8fd6edc-2424-44ea-9968-0e8f2bb1d423"},
+    {"title": "Back to School", "url": "https://huxley.itunes.apple.com/v2/nominations/5d0c8c83-e0b6-4fcd-bf51-a036bec0cb44"},
+    {"title": "Pride Month with ChatOn", "url": "https://huxley.itunes.apple.com/v2/nominations/5c79778f-a8c3-4e6e-bea3-528e4375af78"},
+    {"title": "Voice Chat", "url": "https://huxley.itunes.apple.com/v2/nominations/4c807894-31d9-49c4-97f7-3744d1e811b5"},
+    {"title": "Christmas In-App Event", "url": "https://huxley.itunes.apple.com/v2/nominations/ceeab091-a3b8-46b3-a40c-dd744c05e017"}
+  ],
+  "note": "IAE- und Nominations-Listen ggf. paginiert/unvollständig (nur erste Seiten gesehen)."
+}

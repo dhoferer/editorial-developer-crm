@@ -104,6 +104,88 @@
     font-size: 11px;
     color: var(--muted);
   }
+  .status-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .status-dot.green { background: var(--green); box-shadow: 0 0 6px rgba(63,185,80,0.6); }
+  .status-dot.yellow { background: var(--yellow); box-shadow: 0 0 6px rgba(210,153,34,0.6); }
+  .status-dot.red { background: var(--red); box-shadow: 0 0 6px rgba(248,81,73,0.6); }
+  .status-dot.grey { background: var(--muted); }
+  .status-cell { display: flex; align-items: center; }
+  .meeting-overdue { color: var(--red); font-weight: 600; }
+  .meeting-soon { color: var(--yellow); font-weight: 600; }
+  .crm-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px 20px;
+    margin: 14px 0;
+    font-size: 13px;
+  }
+  .crm-grid .field label {
+    display: block;
+    color: var(--muted);
+    font-size: 11px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .crm-grid select, .crm-grid input[type="date"], .crm-grid input[type="text"] {
+    width: 100%;
+    background: #0d1117;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 7px 8px;
+    border-radius: 6px;
+    font-size: 13px;
+  }
+  .update-log {
+    max-height: 220px;
+    overflow-y: auto;
+    margin-top: 10px;
+  }
+  .update-entry {
+    border-left: 2px solid var(--accent);
+    padding: 6px 10px;
+    margin-bottom: 8px;
+    background: #0d1117;
+    border-radius: 0 6px 6px 0;
+  }
+  .update-entry .meta {
+    color: var(--muted);
+    font-size: 11px;
+    margin-bottom: 3px;
+  }
+  .update-form {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+  }
+  .update-form textarea {
+    flex: 1;
+    background: #0d1117;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 13px;
+    resize: vertical;
+    min-height: 44px;
+  }
+  .save-hint {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 6px;
+  }
+  .toolbar-actions {
+    display: flex;
+    gap: 8px;
+    margin: 10px 0 0;
+  }
   /* Modal */
   .overlay {
     display: none;
@@ -185,7 +267,14 @@
       <option value="Showstopper">Showstopper</option>
       <option value="SLP">SLP</option>
     </select>
+    <select id="filterStatus">
+      <option value="">Alle Status</option>
+      <option value="green">🟢 Grün</option>
+      <option value="yellow">🟡 Gelb</option>
+      <option value="red">🔴 Rot</option>
+    </select>
     <button class="secondary" onclick="openRefreshHelp()">🔄 IAE & Nominations aktualisieren</button>
+    <button class="secondary" onclick="exportCrmNotes()">💾 CRM-Notizen exportieren</button>
   </div>
 </header>
 
@@ -197,8 +286,9 @@
         <th data-key="developerName">Developer</th>
         <th data-key="eamCategory">Kategorie</th>
         <th data-key="businessManager">Business Manager</th>
-        <th data-key="levelOfAttention">Attention</th>
-        <th data-key="top100Markets">Top100 Markets</th>
+        <th data-key="status">Status</th>
+        <th data-key="lastMeeting">Letztes Meeting</th>
+        <th data-key="nextMeeting">Nächstes Meeting</th>
         <th data-key="euCurrent90D">EU 90D Billings</th>
         <th data-key="euChangeYoY">YoY</th>
         <th data-key="peakValue">Performance-Peak</th>
@@ -220,6 +310,45 @@
     <h2 id="modalTitle"></h2>
     <div class="grid2" id="modalMeta"></div>
 
+    <div class="section-title">📋 CRM — Kommunikation & Meetings</div>
+    <div class="crm-grid">
+      <div class="field">
+        <label>Kommunikationsstatus</label>
+        <select id="crmStatus" onchange="saveCrmField('communicationStatus', this.value)">
+          <option value="green">🟢 Grün</option>
+          <option value="yellow">🟡 Gelb</option>
+          <option value="red">🔴 Rot</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Letztes Meeting</label>
+        <input type="date" id="crmLastMeeting" onchange="saveCrmField('lastMeeting', this.value)" />
+      </div>
+      <div class="field">
+        <label>Nächstes Meeting</label>
+        <input type="date" id="crmNextMeeting" onchange="saveCrmField('nextMeeting', this.value)" />
+      </div>
+      <div class="field">
+        <label>Ansprechpartner</label>
+        <input type="text" id="crmContactPerson" onchange="saveCrmField('contactPerson', this.value)" placeholder="Name" />
+      </div>
+      <div class="field">
+        <label>Kontakt E-Mail</label>
+        <input type="text" id="crmContactEmail" onchange="saveCrmField('contactEmail', this.value)" placeholder="name@developer.com" />
+      </div>
+    </div>
+
+    <div class="section-title">📝 Update-Log</div>
+    <div class="update-log" id="updateLog"></div>
+    <div class="update-form">
+      <textarea id="newUpdateText" placeholder="Neues Update eintragen…"></textarea>
+      <button onclick="addUpdate()">Speichern</button>
+    </div>
+    <div class="save-hint">
+      Änderungen werden lokal (im Browser) gespeichert. Klicke oben auf „💾 CRM-Notizen exportieren“,
+      um die aktuellen Notizen als <code>crm_notes.json</code> herunterzuladen und ins Repo zu committen.
+    </div>
+
     <div class="section-title">Performance (12 Monate) — Peak markiert</div>
     <div class="chart-wrap"><canvas id="perfChart"></canvas></div>
     <div id="peakInfo" class="peak-tag"></div>
@@ -239,13 +368,45 @@ let series = {};
 let dates = [];
 let nominations = {};
 let iae = {};
+let crmNotes = {};
 let chartInstance = null;
 let sortKey = null, sortAsc = true;
+let currentAdamId = null;
+
+const CRM_STORAGE_KEY = 'editorial_crm_notes_v1';
 
 async function loadJSON(path) {
   const res = await fetch(path);
   if (!res.ok) return null;
   return res.json();
+}
+
+function loadCrmNotes(baseline) {
+  // localStorage overrides win over the committed baseline (local edits).
+  try {
+    const stored = JSON.parse(localStorage.getItem(CRM_STORAGE_KEY) || '{}');
+    return Object.assign({}, baseline || {}, stored);
+  } catch (e) {
+    return baseline || {};
+  }
+}
+
+function persistCrmNotes() {
+  localStorage.setItem(CRM_STORAGE_KEY, JSON.stringify(crmNotes));
+}
+
+function getCrmEntry(adamId) {
+  if (!crmNotes[adamId]) {
+    crmNotes[adamId] = { communicationStatus: 'grey', lastMeeting: '', nextMeeting: '', contactPerson: '', contactEmail: '', updates: [] };
+  }
+  return crmNotes[adamId];
+}
+
+function daysUntil(dateStr) {
+  if (!dateStr) return null;
+  const target = new Date(dateStr);
+  const now = new Date();
+  return Math.ceil((target - now) / (1000 * 60 * 60 * 24));
 }
 
 async function init() {
@@ -255,17 +416,24 @@ async function init() {
   dates = await loadJSON('data/performance_dates.json') || [];
   nominations = await loadJSON('data/nominations.json') || {};
   iae = await loadJSON('data/iae.json') || {};
+  const crmBaseline = await loadJSON('data/crm_notes.json') || {};
+  crmNotes = loadCrmNotes(crmBaseline);
 
-  // attach peak info to developer rows
+  // attach peak info + CRM info to developer rows
   developers.forEach(d => {
     const p = peaks[d.appName];
     d.peakValue = p ? p.peak_value : null;
     d.peakDate = p ? p.peak_date : null;
+    const crm = getCrmEntry(d.adamId);
+    d.status = crm.communicationStatus || 'grey';
+    d.lastMeeting = crm.lastMeeting || '';
+    d.nextMeeting = crm.nextMeeting || '';
   });
 
   render();
   document.getElementById('search').addEventListener('input', render);
   document.getElementById('filterCategory').addEventListener('change', render);
+  document.getElementById('filterStatus').addEventListener('change', render);
   document.querySelectorAll('th[data-key]').forEach(th => {
     th.addEventListener('click', () => {
       const key = th.getAttribute('data-key');
@@ -286,13 +454,33 @@ function fmtPct(v) {
   return `<span class="${cls}">${v >= 0 ? '+' : ''}${v.toFixed(1)}%</span>`;
 }
 
+function fmtDate(v) {
+  if (!v) return '—';
+  const d = new Date(v);
+  if (isNaN(d)) return v;
+  return d.toLocaleDateString('de-DE', {day: '2-digit', month: '2-digit', year: 'numeric'});
+}
+
+function fmtMeetingCell(v, kind) {
+  if (!v) return '<span class="peak-tag">—</span>';
+  const label = fmtDate(v);
+  if (kind === 'next') {
+    const d = daysUntil(v);
+    if (d !== null && d < 0) return `<span class="meeting-overdue">${label} ⚠️</span>`;
+    if (d !== null && d <= 14) return `<span class="meeting-soon">${label}</span>`;
+  }
+  return label;
+}
+
 function render() {
   const q = document.getElementById('search').value.toLowerCase();
   const cat = document.getElementById('filterCategory').value;
+  const statusFilter = document.getElementById('filterStatus').value;
   let rows = developers.filter(d => {
     const matchesQ = !q || d.appName.toLowerCase().includes(q) || d.developerName.toLowerCase().includes(q);
     const matchesCat = !cat || d.eamCategory === cat;
-    return matchesQ && matchesCat;
+    const matchesStatus = !statusFilter || d.status === statusFilter;
+    return matchesQ && matchesCat && matchesStatus;
   });
 
   if (sortKey) {
@@ -315,8 +503,9 @@ function render() {
       <td>${d.developerName}</td>
       <td><span class="badge ${d.eamCategory === 'Showstopper' ? 'showstopper' : 'slp'}">${d.eamCategory}</span></td>
       <td>${d.businessManager}</td>
-      <td><span class="badge ${d.levelOfAttention.toLowerCase()}">${d.levelOfAttention}</span></td>
-      <td>${d.top100Markets || '—'}</td>
+      <td><span class="status-cell"><span class="status-dot ${d.status}"></span>${d.status === 'grey' ? 'unbekannt' : d.status}</span></td>
+      <td>${fmtMeetingCell(d.lastMeeting, 'last')}</td>
+      <td>${fmtMeetingCell(d.nextMeeting, 'next')}</td>
       <td>${fmtMoney(d.euCurrent90D)}</td>
       <td>${fmtPct(d.euChangeYoY)}</td>
       <td>${d.peakValue ? fmtMoney(d.peakValue) + ' <span class="peak-tag">(' + d.peakDate + ')</span>' : '—'}</td>
@@ -324,9 +513,76 @@ function render() {
   `).join('');
 }
 
+function renderUpdateLog(crm) {
+  const updates = (crm.updates || []).slice().sort((a, b) => new Date(b.date) - new Date(a.date));
+  const el = document.getElementById('updateLog');
+  if (!updates.length) {
+    el.innerHTML = '<div class="peak-tag">Noch keine Updates erfasst.</div>';
+    return;
+  }
+  el.innerHTML = updates.map(u => `
+    <div class="update-entry">
+      <div class="meta">${fmtDate(u.date)} · ${u.author || 'Unbekannt'}</div>
+      <div>${u.note}</div>
+    </div>
+  `).join('');
+}
+
+function saveCrmField(field, value) {
+  if (!currentAdamId) return;
+  const crm = getCrmEntry(currentAdamId);
+  crm[field] = value;
+  persistCrmNotes();
+  // Sync table-level fields on the developer object + re-render table
+  const d = developers.find(x => x.adamId === currentAdamId);
+  if (d) {
+    if (field === 'communicationStatus') d.status = value;
+    if (field === 'lastMeeting') d.lastMeeting = value;
+    if (field === 'nextMeeting') d.nextMeeting = value;
+  }
+  render();
+}
+
+function addUpdate() {
+  if (!currentAdamId) return;
+  const textarea = document.getElementById('newUpdateText');
+  const note = textarea.value.trim();
+  if (!note) return;
+  const crm = getCrmEntry(currentAdamId);
+  crm.updates = crm.updates || [];
+  crm.updates.push({
+    date: new Date().toISOString().slice(0, 10),
+    author: 'Dominik Hoferer',
+    note: note
+  });
+  persistCrmNotes();
+  textarea.value = '';
+  renderUpdateLog(crm);
+}
+
+function exportCrmNotes() {
+  const blob = new Blob([JSON.stringify(crmNotes, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'crm_notes.json';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  alert(
+    "crm_notes.json wurde heruntergeladen.\n\n" +
+    "Um die Änderungen dauerhaft ins CRM zu übernehmen:\n" +
+    "1. Datei nach data/crm_notes.json im Repo verschieben (überschreiben)\n" +
+    "2. git add data/crm_notes.json && git commit -m \"chore: update CRM notes\" && git push\n\n" +
+    "Bis dahin bleiben deine Änderungen lokal in diesem Browser gespeichert (localStorage)."
+  );
+}
+
 function openModal(adamId) {
   const d = developers.find(x => x.adamId === adamId);
   if (!d) return;
+  currentAdamId = adamId;
   document.getElementById('modalTitle').textContent = d.appName + ' — ' + d.developerName;
   document.getElementById('modalMeta').innerHTML = `
     <div><span class="label">Adam ID</span><br>${d.adamId}</div>
@@ -341,6 +597,15 @@ function openModal(adamId) {
     <div><span class="label">EU % Change YoY</span><br>${fmtPct(d.euChangeYoY)}</div>
     <div><span class="label">Editorial DRI</span><br>${d.editorialDRI}</div>
   `;
+
+  // CRM fields
+  const crm = getCrmEntry(adamId);
+  document.getElementById('crmStatus').value = crm.communicationStatus || 'grey';
+  document.getElementById('crmLastMeeting').value = crm.lastMeeting || '';
+  document.getElementById('crmNextMeeting').value = crm.nextMeeting || '';
+  document.getElementById('crmContactPerson').value = crm.contactPerson || '';
+  document.getElementById('crmContactEmail').value = crm.contactEmail || '';
+  renderUpdateLog(crm);
 
   // Chart
   const s = series[d.appName];

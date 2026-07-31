@@ -1,7 +1,13 @@
 name: Refresh IAE & Nominations
 
+# ⚠️ PAUSIERT (siehe Kommentar unten) — NICHT wieder aktivieren, bevor das Skript
+# auf die neue Huxley GraphQL-API (huxley.itunes.apple.com/api-web/v4/search/services)
+# umgestellt ist. Das alte Playwright-Scroll-Scraping (scripts/fetch_editorial_data.py)
+# liefert nur ~30 dünne Nominations-Items und hat bereits einmal die reichhaltigen
+# 160-Item-GraphQL-Daten in data/nominations.json überschrieben.
+#
 # "Knopfdruck"-Trigger: manuell im GitHub UI unter Actions > Refresh IAE & Nominations > Run workflow
-# Optional: läuft auch täglich automatisch.
+# Automatischer täglicher Cron ist ausgeschaltet, bis die Umstellung fertig ist.
 on:
   workflow_dispatch:
     inputs:
@@ -9,8 +15,8 @@ on:
         description: "Huxley storefront ID (z.B. 143443 = Germany)"
         required: false
         default: "143443"
-  schedule:
-    - cron: "0 5 * * *"   # täglich 05:00 UTC
+  # schedule:
+  #   - cron: "0 5 * * *"   # täglich 05:00 UTC — DEAKTIVIERT, siehe Hinweis oben
 
 permissions:
   contents: write

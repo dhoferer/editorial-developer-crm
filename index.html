@@ -186,6 +186,116 @@
     gap: 8px;
     margin: 10px 0 0;
   }
+  .nom-card {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    background: #0d1117;
+    position: relative;
+  }
+  .nom-card.new { border-color: var(--accent); box-shadow: 0 0 0 1px rgba(47,129,247,0.3); }
+  .nom-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .nom-title { font-weight: 700; font-size: 14px; }
+  .nom-meta {
+    font-size: 11px;
+    color: var(--muted);
+    margin: 4px 0 8px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .nom-desc {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+    max-height: 4.5em;
+    overflow: hidden;
+    position: relative;
+  }
+  .nom-desc.expanded { max-height: none; }
+  .nom-desc-toggle {
+    font-size: 12px;
+    color: var(--accent);
+    cursor: pointer;
+    margin-top: 4px;
+    display: inline-block;
+  }
+  .nom-actions {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .nom-actions button {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 4px 8px;
+    font-size: 12px;
+    border-radius: 6px;
+  }
+  .nom-actions button.active {
+    color: var(--yellow);
+    border-color: var(--yellow);
+  }
+  .nom-actions button.reminder-active {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+  .new-badge {
+    display: inline-block;
+    background: var(--accent);
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-left: 6px;
+  }
+  .type-badge {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.06);
+    color: var(--muted);
+  }
+  /* Timetable */
+  .timetable-overlay { z-index: 60; }
+  .timetable-modal {
+    max-width: 1100px;
+  }
+  .timetable-toolbar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .timetable-group {
+    margin-top: 18px;
+  }
+  .timetable-group-label {
+    font-size: 12px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 4px;
+  }
+  .timetable-app-name {
+    font-size: 11px;
+    color: var(--accent);
+    font-weight: 600;
+  }
   /* Modal */
   .overlay {
     display: none;
@@ -274,6 +384,7 @@
       <option value="red">🔴 Rot</option>
     </select>
     <button class="secondary" onclick="openRefreshHelp()">🔄 IAE & Nominations aktualisieren</button>
+    <button class="secondary" onclick="openTimetable()">🗓️ Nominations-Timetable</button>
     <button class="secondary" onclick="exportCrmNotes()">💾 CRM-Notizen exportieren</button>
   </div>
 </header>
@@ -354,10 +465,29 @@
     <div id="peakInfo" class="peak-tag"></div>
 
     <div class="section-title">📅 Nominations (Roadmaps) <span class="status-pill" id="nomStatus"></span></div>
-    <pre class="json-block" id="nomBlock">Noch nicht geladen — auf „IAE & Nominations aktualisieren“ klicken bzw. GitHub Action ausführen.</pre>
+    <div id="nomCards"></div>
 
     <div class="section-title">🎯 In-App Events (IAE) <span class="status-pill" id="iaeStatus"></span></div>
     <pre class="json-block" id="iaeBlock">Noch nicht geladen — auf „IAE & Nominations aktualisieren“ klicken bzw. GitHub Action ausführen.</pre>
+  </div>
+</div>
+
+<!-- Timetable Overlay -->
+<div class="overlay timetable-overlay" id="timetableOverlay">
+  <div class="modal timetable-modal">
+    <button class="close" onclick="closeTimetable()">✕</button>
+    <h2>🗓️ Nominations-Timetable</h2>
+    <div class="timetable-toolbar">
+      <input type="text" id="timetableSearch" placeholder="App / Nomination suchen…" />
+      <select id="timetableAppFilter"><option value="">Alle Apps</option></select>
+      <select id="timetableBookmarkFilter">
+        <option value="">Alle</option>
+        <option value="bookmarked">⭐ Nur Bookmarks</option>
+        <option value="reminder">🔔 Nur mit Erinnerung</option>
+        <option value="new">🆕 Nur Neue</option>
+      </select>
+    </div>
+    <div id="timetableContent"></div>
   </div>
 </div>
 
@@ -374,12 +504,246 @@ let sortKey = null, sortAsc = true;
 let currentAdamId = null;
 
 const CRM_STORAGE_KEY = 'editorial_crm_notes_v1';
+const NOM_STORAGE_KEY = 'editorial_nom_state_v1';
+const NEW_THRESHOLD_DAYS = 14;
+
+let nomState = {}; // { [nominationId]: { bookmarked: bool, reminderDate: string, seen: bool } }
 
 async function loadJSON(path) {
   const res = await fetch(path);
   if (!res.ok) return null;
   return res.json();
 }
+
+function loadNomState() {
+  try {
+    return JSON.parse(localStorage.getItem(NOM_STORAGE_KEY) || '{}');
+  } catch (e) {
+    return {};
+  }
+}
+
+function persistNomState() {
+  localStorage.setItem(NOM_STORAGE_KEY, JSON.stringify(nomState));
+}
+
+function getNomState(nomId) {
+  if (!nomState[nomId]) {
+    nomState[nomId] = { bookmarked: false, reminderDate: '', seen: false };
+  }
+  return nomState[nomId];
+}
+
+function toggleBookmark(nomId) {
+  const s = getNomState(nomId);
+  s.bookmarked = !s.bookmarked;
+  persistNomState();
+  refreshOpenViews();
+}
+
+function setReminder(nomId, dateStr) {
+  const s = getNomState(nomId);
+  s.reminderDate = dateStr;
+  persistNomState();
+  refreshOpenViews();
+}
+
+function markSeen(nomId) {
+  const s = getNomState(nomId);
+  if (!s.seen) {
+    s.seen = true;
+    persistNomState();
+  }
+}
+
+function isNewNomination(nom) {
+  const s = getNomState(nom.id);
+  if (s.seen) return false;
+  if (!nom.submittedDate) return false;
+  const days = (Date.now() - new Date(nom.submittedDate)) / (1000 * 60 * 60 * 24);
+  return days <= NEW_THRESHOLD_DAYS;
+}
+
+function refreshOpenViews() {
+  if (currentAdamId && document.getElementById('overlay').classList.contains('open')) {
+    renderNominationCards(currentAdamId);
+  }
+  if (document.getElementById('timetableOverlay').classList.contains('open')) {
+    renderTimetable();
+  }
+}
+
+function fmtDateTime(v) {
+  if (!v) return '—';
+  const d = new Date(v);
+  if (isNaN(d)) return v;
+  return d.toLocaleDateString('de-DE', {day: '2-digit', month: '2-digit', year: 'numeric'});
+}
+
+function nomTypeLabel(type) {
+  const map = {
+    'NEW_CONTENT': 'Neuer Inhalt',
+    'APP_ENHANCEMENTS': 'App-Verbesserung',
+  };
+  return map[type] || type || '—';
+}
+
+function renderNominationCards(adamId) {
+  const nom = nominations[adamId];
+  const container = document.getElementById('nomCards');
+  const list = (nom && nom.data) || [];
+  if (!list.length) {
+    container.innerHTML = '<div class="peak-tag">Keine Nominations vorhanden.</div>';
+    return;
+  }
+  const sorted = list.slice().sort((a, b) => new Date(b.publishStartDate || 0) - new Date(a.publishStartDate || 0));
+  container.innerHTML = sorted.map(n => renderNomCard(n)).join('');
+  sorted.forEach(n => markSeen(n.id));
+}
+
+function renderNomCard(n) {
+  const s = getNomState(n.id);
+  const isNew = isNewNomination(n);
+  const descId = 'desc-' + n.id;
+  const desc = n.description || 'Keine Beschreibung verfügbar.';
+  return `
+    <div class="nom-card ${isNew ? 'new' : ''}">
+      <div class="nom-card-header">
+        <div>
+          <span class="nom-title">${n.title}</span>
+          ${isNew ? '<span class="new-badge">Neu</span>' : ''}
+        </div>
+        <div class="nom-actions">
+          <button class="${s.bookmarked ? 'active' : ''}" onclick="toggleBookmark('${n.id}')" title="Bookmark">⭐</button>
+          <button class="${s.reminderDate ? 'reminder-active' : ''}" onclick="promptReminder('${n.id}')" title="Erinnerung setzen">🔔</button>
+          <a href="${n.url}" target="_blank" rel="noopener"><button title="Zur Huxley-Detailseite">🔗</button></a>
+        </div>
+      </div>
+      <div class="nom-meta">
+        <span class="type-badge">${nomTypeLabel(n.type)}</span>
+        <span>📢 Publish: <strong>${fmtDateTime(n.publishStartDate)}</strong></span>
+        <span>📝 Eingereicht: ${fmtDateTime(n.submittedDate)}</span>
+        ${s.reminderDate ? `<span>🔔 Erinnerung: <strong>${fmtDateTime(s.reminderDate)}</strong></span>` : ''}
+      </div>
+      <div class="nom-desc" id="${descId}">${desc}</div>
+      ${desc.length > 220 ? `<span class="nom-desc-toggle" onclick="toggleDesc('${descId}')">Mehr anzeigen</span>` : ''}
+    </div>
+  `;
+}
+
+function toggleDesc(id) {
+  const el = document.getElementById(id);
+  el.classList.toggle('expanded');
+  event.target.textContent = el.classList.contains('expanded') ? 'Weniger anzeigen' : 'Mehr anzeigen';
+}
+
+function promptReminder(nomId) {
+  const current = getNomState(nomId).reminderDate || '';
+  const input = prompt('Erinnerungsdatum eingeben (JJJJ-MM-TT), leer lassen zum Entfernen:', current);
+  if (input === null) return;
+  setReminder(nomId, input.trim());
+}
+
+function getAllNominationsFlat() {
+  const out = [];
+  Object.keys(nominations).forEach(adamId => {
+    const entry = nominations[adamId];
+    (entry.data || []).forEach(n => {
+      out.push(Object.assign({}, n, { adamId, appName: entry.appName }));
+    });
+  });
+  return out;
+}
+
+function openTimetable() {
+  const select = document.getElementById('timetableAppFilter');
+  if (select.options.length <= 1) {
+    const appNames = Array.from(new Set(Object.values(nominations).map(v => v.appName))).sort();
+    appNames.forEach(name => {
+      const opt = document.createElement('option');
+      opt.value = name;
+      opt.textContent = name;
+      select.appendChild(opt);
+    });
+    document.getElementById('timetableSearch').addEventListener('input', renderTimetable);
+    document.getElementById('timetableAppFilter').addEventListener('change', renderTimetable);
+    document.getElementById('timetableBookmarkFilter').addEventListener('change', renderTimetable);
+  }
+  renderTimetable();
+  document.getElementById('timetableOverlay').classList.add('open');
+}
+
+function closeTimetable() {
+  document.getElementById('timetableOverlay').classList.remove('open');
+}
+
+function renderTimetable() {
+  const q = document.getElementById('timetableSearch').value.toLowerCase();
+  const appFilter = document.getElementById('timetableAppFilter').value;
+  const bmFilter = document.getElementById('timetableBookmarkFilter').value;
+
+  let all = getAllNominationsFlat();
+  all = all.filter(n => {
+    const matchesQ = !q || n.title.toLowerCase().includes(q) || n.appName.toLowerCase().includes(q);
+    const matchesApp = !appFilter || n.appName === appFilter;
+    const s = getNomState(n.id);
+    let matchesBm = true;
+    if (bmFilter === 'bookmarked') matchesBm = s.bookmarked;
+    if (bmFilter === 'reminder') matchesBm = !!s.reminderDate;
+    if (bmFilter === 'new') matchesBm = isNewNomination(n);
+    return matchesQ && matchesApp && matchesBm;
+  });
+
+  all.sort((a, b) => new Date(a.publishStartDate || '9999') - new Date(b.publishStartDate || '9999'));
+
+  // group by month
+  const groups = {};
+  all.forEach(n => {
+    const d = n.publishStartDate ? new Date(n.publishStartDate) : null;
+    const key = d ? d.toLocaleDateString('de-DE', {month: 'long', year: 'numeric'}) : 'Ohne Datum';
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(n);
+  });
+
+  const container = document.getElementById('timetableContent');
+  if (!all.length) {
+    container.innerHTML = '<div class="peak-tag">Keine Nominations gefunden.</div>';
+    return;
+  }
+
+  container.innerHTML = Object.keys(groups).map(groupKey => `
+    <div class="timetable-group">
+      <div class="timetable-group-label">${groupKey}</div>
+      ${groups[groupKey].map(n => `
+        <div class="nom-card ${isNewNomination(n) ? 'new' : ''}">
+          <div class="nom-card-header">
+            <div>
+              <span class="timetable-app-name">${n.appName}</span><br>
+              <span class="nom-title">${n.title}</span>
+              ${isNewNomination(n) ? '<span class="new-badge">Neu</span>' : ''}
+            </div>
+            <div class="nom-actions">
+              <button class="${getNomState(n.id).bookmarked ? 'active' : ''}" onclick="toggleBookmark('${n.id}')" title="Bookmark">⭐</button>
+              <button class="${getNomState(n.id).reminderDate ? 'reminder-active' : ''}" onclick="promptReminder('${n.id}')" title="Erinnerung setzen">🔔</button>
+              <a href="${n.url}" target="_blank" rel="noopener"><button title="Zur Huxley-Detailseite">🔗</button></a>
+            </div>
+          </div>
+          <div class="nom-meta">
+            <span class="type-badge">${nomTypeLabel(n.type)}</span>
+            <span>📢 Publish: <strong>${fmtDateTime(n.publishStartDate)}</strong></span>
+            <span>📝 Eingereicht: ${fmtDateTime(n.submittedDate)}</span>
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `).join('');
+
+  all.forEach(n => markSeen(n.id));
+}
+
+document.getElementById('timetableOverlay').addEventListener('click', (e) => {
+  if (e.target.id === 'timetableOverlay') closeTimetable();
+});
 
 function loadCrmNotes(baseline) {
   // localStorage overrides win over the committed baseline (local edits).
@@ -663,9 +1027,9 @@ function openModal(adamId) {
   // Nominations / IAE
   const nom = nominations[d.adamId];
   const ia = iae[d.adamId];
-  document.getElementById('nomStatus').textContent = nom ? 'geladen' : 'nicht vorhanden';
+  document.getElementById('nomStatus').textContent = nom && nom.data && nom.data.length ? nom.data.length + ' geladen' : 'keine vorhanden';
   document.getElementById('iaeStatus').textContent = ia ? 'geladen' : 'nicht vorhanden';
-  document.getElementById('nomBlock').textContent = nom ? JSON.stringify(nom.data, null, 2) : 'Noch nicht geladen — GitHub Action „Refresh IAE & Nominations“ ausführen.';
+  renderNominationCards(d.adamId);
   document.getElementById('iaeBlock').textContent = ia ? JSON.stringify(ia.data, null, 2) : 'Noch nicht geladen — GitHub Action „Refresh IAE & Nominations“ ausführen.';
 
   document.getElementById('overlay').classList.add('open');

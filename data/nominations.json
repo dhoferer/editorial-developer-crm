@@ -1,90 +1,776 @@
 {
-  "929190059": {
-    "appName": "WOW",
-    "data": [
-      {
-        "title": "Bundesliga | Start of Season 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/b962b3ac-24f8-4322-b87e-cbf328432354"
-      },
-      {
-        "title": "House of the Dragon 3",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/dba91b02-1141-4d46-a636-f5f806abe9f4"
-      },
-      {
-        "title": "Euphoria Staffel 3",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/6355c009-95c9-4ede-af24-88de5cfa5712"
-      },
-      {
-        "title": "Black Week Offer 2025",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/658b53cc-4402-42c6-9f25-908f208f1d51"
-      },
-      {
-        "title": "Anora",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/2165d601-e158-4a92-932e-ce7ecf46159c"
-      }
-    ]
-  },
-  "1569413444": {
-    "appName": "Finary: Budget & Money Tracker",
-    "data": [
-      {
-        "title": "Global improvement",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/77d125ab-3253-48ea-bb32-a0c003fd4c35"
-      }
-    ]
-  },
-  "1500143611": {
-    "appName": "Yuno - General knowledge",
-    "data": [
-      {
-        "title": "NEW: Yuno Quests (On Screen Gameplay)",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/217876d8-50c2-4b51-b013-695923e239eb"
-      }
-    ]
-  },
   "568839295": {
     "appName": "Blinkist: Book Summaries Daily",
     "data": [
       {
-        "title": "Back to Routine Challenge",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/0dc135db-f6eb-4b60-9d45-55c8154add22"
+        "id": "80927863-ebd2-4415-aa77-b032bdd61b1d",
+        "title": "New Year New You 2025",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-29T11:48:44.142474021Z",
+        "publishStartDate": "2024-12-18T11:00:00.001Z",
+        "description": "Start your year strong with Blinkist's \"New Year New You\" campaign! Our app helps you achieve your goals and develop a growth mindset through curated insights from best-selling books on personal development, productivity, relationships, and more.\n\nDiscover our new Blinkist AI tool, which revolutionizes learning. The \"Share to Blinkist\" feature instantly transforms web pages, podcasts, videos, and documents into concise Blinks—our signature format for quick, effective learning. All your content is stored in one place, making knowledge accessible whenever you need it.\n\nTransform lengthy content into bite-sized insights perfect for learning on the go. Let Blinkist AI boost your productivity and help you reach your full potential. Your journey to personal growth starts here.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/80927863-ebd2-4415-aa77-b032bdd61b1d"
       },
       {
-        "title": "Learning Sprint",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/08b2ce20-cf93-4517-a38a-e5c1fa1aede1"
+        "id": "091b82e1-18b9-4d7b-b2cc-94685685d2a5",
+        "title": "Create Better Habits 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-03T08:36:19.658624986Z",
+        "publishStartDate": "2025-01-08T11:00:00.001Z",
+        "description": "Introducing the \"Create Better Habits 2025\" campaign from Blinkist—your ultimate partner in forming positive habits for the new year. Blinkist offers a vast library of over 7,500 titles, providing insights and strategies to enhance your life. Discover practical advice from best-selling books on habit formation, self-discipline, and personal growth.\nExplore diverse content formats, including books, guides, shortcasts, and micro-learning quizzes, designed to fit your busy schedule. Whether commuting or taking a break, Blinkist makes accessing valuable knowledge easy.\nOur innovative AI-driven feature enhances your learning by summarizing extensive content into concise Blinks, perfect for learning on the go. Leverage Blinkist's library and AI capabilities to boost your habit-building journey, unlock your potential, and make 2025 your most productive year yet. With Blinkist, personal development is always within reach.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/091b82e1-18b9-4d7b-b2cc-94685685d2a5"
       },
       {
-        "title": "Reset Your Mind",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/eb73569b-6d98-49f0-8658-80d8489646b5"
+        "id": "6914f1de-fed6-48ee-95f3-242e9c456284",
+        "title": "Blinkist Platinum",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-24T10:50:20.170122866Z",
+        "publishStartDate": "2025-01-24T11:00:00.001Z",
+        "description": "Blinkist Platinum is here, and it’s about to transform how we learn!\nDive into live sessions led by world-class coaches and thought leaders, covering topics that help you master life’s most important skills.\nWhat makes Blinkist Platinum different?\n- Live Learning: 15+ monthly premium sessions led by top-tier coaches and thought leaders.\n- Exclusive Author Chats: Behind-the-scenes insights you won’t find anywhere else.\n- Interactive Growth Tools: Quizzes and visual infographics tailored to your learning goals.\n- Global Learning Network: Connect with 32 million like-minded individuals for shared growth and collaboration.\nAnd don’t forget, Blinkist Platinum continues to offer all the features of Blinkist Premium and Pro, such as:\n- AI Summaries: Summarize articles, PDFs, and videos in seconds.\n- Unlimited Microlearning: 7,500+ titles in 27 categories.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6914f1de-fed6-48ee-95f3-242e9c456284"
       },
       {
-        "title": "Learning on the Go",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/44262cbe-5ebb-4649-bb2f-1bb608bd10c6"
+        "id": "d46fbefc-fda5-4407-b054-4acacc8b6446",
+        "title": "German Elections",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-02-18T09:53:02.266588035Z",
+        "publishStartDate": "2025-02-19T11:00:00.001Z",
+        "description": "Bei Blinkist sind wir überzeugt davon, dass Wissen der Schlüssel ist, um fundierte Entscheidungen zu treffen – besonders, wenn es darum geht, die Zukunft unserer Gesellschaft zu gestalten. Anlässlich der bevorstehenden Bundestagswahl bieten wir dir eine spezielle Kollektion von Blinks kostenlos an, die sich auf die entscheidenden Themen konzentriert, die diesen wichtigen Moment beeinflussen werden. Tauche ein in spannende Titel wie \"Machtverfall\" von Robin Alexander, der das Ende der Ära Merkel beleuchtet, oder \"Teuer!\" von Maurice Höfgen, der die Wahrheit über Inflation und politische Fehler enthüllt. Diese Sammlung deckt eine Vielzahl von Themen ab, von politischen Dynamiken und wirtschaftlichen Herausforderungen bis hin zu kulturellen Veränderungen und historischen Einsichten. Mit diesen Ressourcen möchten wir eine informierte Wählerschaft fördern, die in der Lage ist, positive Veränderungen voranzutreiben. Wir freuen uns darauf, Teil deiner Reise zu mehr Bewusstsein und Verständnis",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/d46fbefc-fda5-4407-b054-4acacc8b6446"
       },
       {
-        "title": "Back To School 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/b52754c0-e53c-482d-b9ae-b030ca75957f"
+        "id": "1fc0285e-b232-4906-b0a0-94d72bc98ca9",
+        "title": "Featuring Request: Blinkist Now Available in Portuguese",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-06-20T15:34:01.493871316Z",
+        "publishStartDate": "2025-07-03T11:00:01Z",
+        "description": "Overview:\nWe’re thrilled to announce that Blinkist, the app that delivers 15-minute summaries of the world’s top non-fiction books, is now available in Portuguese! After years of requests from Portuguese-speaking users, this launch marks a significant milestone in making learning more accessible and impactful for millions of people.\n\nWhy This Matters:\nFor Portuguese speakers, learning in their native language means no more mental translation or missed nuances. It’s about clear, direct access to the world’s best book insights. This launch empowers users to process information faster, retain it better, and apply it to their lives immediately.\n\nKey Features:\n\nLocalized Content: Focused summaries of popular books in business, psychology, and self-development, now in Portuguese.\nFlexible Learning Options: Users can read or listen to summaries during commutes, workouts, or any spare moment in their day.\nProven Impact: Over 87% of Blinkist users report making positive changes in their lives.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/1fc0285e-b232-4906-b0a0-94d72bc98ca9"
       },
       {
-        "title": "Cyber Week Special",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/9a6cfe6f-75c2-46e4-bb73-536da6f60ef9"
+        "id": "bcd7e575-8831-4f04-9c94-0b58d6be4690",
+        "title": "Crush your reading goals with Streaks",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-06-20T15:34:51.076350754Z",
+        "publishStartDate": "2025-07-10T11:00:01Z",
+        "description": "The Refreshed Streaks event celebrates the launch of Blinkist’s completely redesigned habit-tracking feature, tailored to help users build learning habits effortlessly. Unlike rigid systems, Streaks adapts to users’ busy lives, allowing them to set realistic goals and track progress without guilt or pressure.\n\nThis event showcases how Blinkist empowers users to create meaningful daily habits through small, consistent actions. Whether it’s a quick 5-minute read during a coffee break or a deeper dive on the weekend, Streaks celebrates every win, big or small. With 91% of Blinkist users reporting better habits and 87% experiencing positive life changes, this feature embodies the power of progress designed around real life.\n\nRunning from July 10 to July 23, this event highlights how Blinkist transforms learning into a flexible, rewarding experience. Featuring it on the App Store will inspire users to embrace personal growth without the pressure of unrealistic expectat",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/bcd7e575-8831-4f04-9c94-0b58d6be4690"
       },
       {
+        "id": "6855e255-9a39-4598-bfb4-3862b643f9ee",
+        "title": "Share Knowledge in Spaces",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-06-20T15:35:21.796484900Z",
+        "publishStartDate": "2025-07-16T11:00:01Z",
+        "description": "The 'Share Knowledge in Spaces' event introduces Blinkist feature, Spaces, designed to transform how users organize and share knowledge. With Spaces, users can create themed collections of favorite titles, add personal notes, and invite others to explore and discuss together—whether they’re leading a team, running a book club, or collaborating with friends.\n\nThis event highlights how Spaces empowers users to actively engage with content, fostering deeper learning and meaningful connections. By combining Blinkist’s library of 7,500+ concise book insights with tools for collaboration, Spaces helps users save time, remember more, and apply insights effectively in real life.\n\nRunning from July 16 to July 31, this event celebrates the power of shared learning and its real-world impact. Featuring it on the App Store will inspire users to build personal knowledge hubs and spark growth through social learning.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6855e255-9a39-4598-bfb4-3862b643f9ee"
+      },
+      {
+        "id": "6fcc53e1-1f7f-4105-8731-398c3bf054e7",
+        "title": "July Morning Routine Challenge copy",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-06-23T10:28:04.796240095Z",
+        "publishStartDate": "2025-07-18T11:00:01Z",
+        "description": "'Master Your Morning Routine' event introduces Blinkist’s exclusive \"Master Your Morning Routine\" Guide, designed to help users start their day with purpose and energy. Based on insights from the world’s top books on peak performance, this guide reveals science-backed strategies for building powerful morning routines that drive success.\n\nFrom night-before rituals to smart nutrition, meditation, movement, and strategic planning, the Guide offers practical steps that work with users’ natural rhythms—not against them. It’s not about waking up at 5 AM; it’s about creating a routine that fits real life and delivers real results.\n\nThis event celebrates Blinkist’s commitment to helping users develop better habits, with 91% of users reporting positive changes. Running from July 18 to July 30, it’s a perfect opportunity to inspire users to transform their mornings and unlock their full potential. Featuring this event on the App Store will empower users to take control of their day.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6fcc53e1-1f7f-4105-8731-398c3bf054e7"
+      },
+      {
+        "id": "8cb44b46-3443-45dc-a3a5-50abfb3ea13c",
+        "title": "Less Stuff, More Life",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-05T14:39:25.822920577Z",
+        "publishStartDate": "2025-08-05T11:00:01Z",
+        "description": "This minimalism-focused event running from August 5 o August 31 helps users discover how reducing excess creates space for deeper joy, focus, and freedom. The event curates insights from leading minimalism experts, showing practical ways to strip away what doesn't matter and amplify what truly does.\nModern life overwhelms users with endless choices and distractions. This event features content on intentional living, digital minimalism, and finding contentment through simplicity. Users learn to declutter both physical and mental spaces through accessible 15-minute insights.\nThis event reflects Apple's core values of elegant simplicity and thoughtful design. It encourages mindful technology use while demonstrating how premium apps can streamline rather than complicate daily experiences.\nFeaturing this event would inspire users worldwide to embrace intentional living, positioning the App Store as a destination for content that enhances rather than clutters life.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/8cb44b46-3443-45dc-a3a5-50abfb3ea13c"
+      },
+      {
+        "id": "8272122c-0fe0-4372-bb16-9a8cd476a33c",
+        "title": "Take Blinkist to the Beach",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-07-23T12:14:48.037077288Z",
+        "publishStartDate": "2025-08-10T11:00:01Z",
+        "description": "Event: Classic Reads for Beach Days\n\nFrom August 10 to August 24, Blinkist invites users to finally enjoy the classic literature they've always wanted to read, no matter where summer takes them. This event curates timeless novels and stories, condensed into engaging 15-minute reads, making it easy to escape into literary masterpieces during vacation downtime.\n\nPerfect for relaxing by the beach or unwinding at home, this collection helps users discover the key ideas and cultural impact of iconic works without the pressure of finishing a long book. The objective is to make classic literature accessible and enjoyable for everyone, encouraging lifelong learning and personal growth.\n\nThis event aligns with Apple’s values of education and inspiration, offering users a meaningful way to enrich their summer. Featuring “Classic Reads for Beach Days” will position the App Store as a destination for content that’s both relaxing and intellectually rewarding.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/8272122c-0fe0-4372-bb16-9a8cd476a33c"
+      },
+      {
+        "id": "fc4e86ad-79a7-4202-b0ce-2e20a9c9eb5f",
+        "title": "Escape the Comfort Zone in 7 Days Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-05T14:34:37.859408627Z",
+        "publishStartDate": "2025-08-20T11:00:01Z",
+        "description": "This seven-day challenge running from August 20 to August 30 empowers users to rewire their brains and build better habits through science-backed strategies. The event helps users break free from limiting routines and discover their untapped potential.\nMost people stay trapped in familiar patterns that limit growth. This event features neuroscience research and habit formation techniques, providing daily guidance on pushing boundaries through Blinkist's 15-minute format.\nContent includes insights from leading researchers and behavioral experts. Each day presents actionable strategies that users can immediately implement to expand their comfort zones and embrace meaningful discomfort.\nThis embodies Apple's commitment to empowering personal transformation through technology, showing how apps can motivate real behavioral change.\nFeaturing this event would challenge users globally to embrace growth, demonstrating the App Store's role in fostering meaningful improvements.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/fc4e86ad-79a7-4202-b0ce-2e20a9c9eb5f"
+      },
+      {
+        "id": "caaffb95-1325-4cde-ae0b-002935a30cc7",
+        "title": "Master Knowledge in Minutes",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-07-09T10:26:02.143510667Z",
+        "publishStartDate": "2025-08-25T11:00:01Z",
+        "description": "Event: Master Knowledge in Minutes\n\nThis back-to-school event running from August 25th to September 25th showcases Blinkist Pro's revolutionary AI summarization feature, helping students transform overwhelming content into digestible insights. The event demonstrates how AI can summarize any text, video, or article instantly.\n\nStudents face information overload with endless reading assignments and research materials. This event highlights how Blinkist Pro's AI feature solves this challenge by converting dense academic content into clear, actionable summaries within seconds.\n\nThe event aligns with Apple's commitment to educational innovation, showing how AI can enhance learning rather than replace critical thinking. It transforms potentially stressful study sessions into efficient",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/caaffb95-1325-4cde-ae0b-002935a30cc7"
+      },
+      {
+        "id": "e444d3c6-a72d-45c4-8260-74f7ddf42e53",
         "title": "Why EQ Beats IQ",
+        "type": "NEW_CONTENT",
+        "state": "ARCHIVED",
+        "submittedDate": "2025-08-22T15:43:12.260558Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event reveals why emotional intelligence is the real secret to success: at work, in relationships, and beyond. Blinkist distills the essential skills that set true leaders apart: mastering your own emotions, understanding others, and building stronger connections.\n\nUsers discover that being the smartest in the room isn’t enough; it’s EQ that drives real achievement and fulfillment. With practical, engaging insights, this event empowers users to elevate their communication, empathy, and self-awareness.\n\nFeaturing “Why EQ Beats IQ” positions the App Store as a destination for transformative personal growth, helping users unlock their full potential and thrive in every area of life.",
         "url": "https://huxley.itunes.apple.com/v2/nominations/e444d3c6-a72d-45c4-8260-74f7ddf42e53"
       },
       {
-        "title": "Think Fast and Slow",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/f4cab3b7-249e-4091-b063-e8546c0700a1"
-      }
-    ]
-  },
-  "1209129603": {
-    "appName": "calimoto Motorcycle Navigation",
-    "data": [
+        "id": "978c9a9e-1bdb-4b4e-9188-80ba2a1b4eb6",
+        "title": "Good Vibes, Great Life",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-22T15:40:09.076574410Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event empowers users to break free from negativity and embrace a life filled with optimism and possibility. Inspired by “Good Vibes, Great Life”, Blinkist offers practical insights on how to shift your energy, cultivate positive thinking, and vibrate at higher frequencies.\n\nUsers learn that positivity isn’t just a mindset, it’s a transformative way of being that attracts success, joy, and abundance. Through concise, actionable content, this event helps users build habits that foster happiness and personal growth.\n\nFeaturing “Good Vibes, Great Life” highlights the App Store as a hub for inspiration and well-being, encouraging users to create a brighter, more fulfilling future.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/978c9a9e-1bdb-4b4e-9188-80ba2a1b4eb6"
+      },
       {
-        "title": "TomTom2",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/c7521533-be76-472e-b105-26ac8189e4e4"
+        "id": "0deca745-04d6-4fb5-b5cc-a699afd5bcb7",
+        "title": "Gut-Brain Revolution",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-22T15:31:51.220267Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event invites users to explore the fascinating connection between gut health and mental well-being. Drawing on insights from “The Gut-Brain Revolution,” Blinkist reveals how the hidden conversation within our bodies shapes our mood, influences our choices, and impacts our overall health.\n\nThrough accessible, science-backed content, users discover practical ways to support both mind and body by nurturing their gut. The objective is to empower users with knowledge that can lead to healthier habits and a more balanced life.\n\nFeaturing “The Gut-Brain Revolution” positions the App Store as a destination for transformative, evidence-based learning that helps users feel their best, inside and out.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0deca745-04d6-4fb5-b5cc-a699afd5bcb7"
+      },
+      {
+        "id": "f4cab3b7-249e-4091-b063-e8546c0700a1",
+        "title": "Think Fast and Slow",
+        "type": "NEW_CONTENT",
+        "state": "ARCHIVED",
+        "submittedDate": "2025-08-22T15:27:25.277910Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event gives users a practical introduction to the groundbreaking ideas behind “Thinking, Fast and Slow.” With Blinkist’s concise, engaging format, users learn to recognize mental shortcuts and avoid falling into autopilot decision-making.\n\nThe event is designed to help users become more aware of their thinking patterns, empowering them to make better choices in work, relationships, and daily life. By exploring key insights from this influential bestseller, users gain tools to think more critically and act with greater intention.\n\nFeaturing “Think Fast and Slow” highlights the App Store’s commitment to personal growth and lifelong learning, inspiring users to sharpen their minds and approach every decision with confidence.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f4cab3b7-249e-4091-b063-e8546c0700a1"
+      },
+      {
+        "id": "020533f7-b157-4430-a1a6-df67a98d3eb9",
+        "title": "Lass sie doch!",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-22T15:17:08.818487874Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event introduces users to the transformative “Let Them” Theory, a powerful approach to stop wasting energy on things beyond your control. Instead of getting caught up in others’ actions, users learn to set healthy boundaries, focus on their own goals, and prioritize personal growth.\n\nThrough concise, engaging content, this bestseller guides users to let go of frustration and reclaim their energy for what truly matters. The objective is to inspire a more empowered, intentional life, helping users build resilience and self-confidence.\n\nFeaturing “Let Them!” will position the App Store as a destination for practical wisdom and personal development, encouraging users to thrive by focusing on what they can control.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/020533f7-b157-4430-a1a6-df67a98d3eb9"
+      },
+      {
+        "id": "160aee86-2004-4de1-93a6-388c1c47b63c",
+        "title": "Blinkist Shorts",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-22T15:13:48.316053581Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "Blinkist Shorts are an enhanced interactive, visual-first microlearning format, designed for today’s fast-paced world. Inspired by the popularity of Instagram Stories and TikTok videos, Shorts deliver bite-sized, engaging learning experiences that fit seamlessly into any schedule.\n\nThis feature was developed to tackle the all-too-common habit of “doom-scrolling” on social media, offering users a positive, productive alternative. With Blinkist Shorts, users can quickly absorb key ideas and insights in a format that’s both fun and effective—turning idle moments into opportunities for growth.\n\nHighlighting Blinkist Shorts will showcase the App Store as a place where innovation meets well-being, empowering users to make the most of their screen time and discover a healthier way to learn.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/160aee86-2004-4de1-93a6-388c1c47b63c"
+      },
+      {
+        "id": "103e394c-bcc4-4975-b8b2-76c20a8dc0bf",
+        "title": "Think Rich, Build Wealth",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-22T15:11:27.461589987Z",
+        "publishStartDate": "2025-08-31T11:00:01Z",
+        "description": "This event empowers users to take control of their financial future by uncovering the principles behind true wealth and independence. Based on the insights from a New York Times bestselling author and seasoned investor, the event explores the essential lessons that the wealthy pass on to their children, wisdom often missing from traditional education.\n\nThrough engaging, easy-to-digest content, users discover practical strategies for building and maintaining wealth, inspired by the author’s own journey to financial independence and early retirement. The objective is to demystify financial success and make it accessible to everyone, encouraging users to rethink their approach to money.\n\nFeaturing this event will inspire users to pursue greater financial literacy and freedom, positioning the App Store as a hub for personal growth and empowerment.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/103e394c-bcc4-4975-b8b2-76c20a8dc0bf"
+      },
+      {
+        "id": "056ef3cf-7aba-46bb-bfcd-716adec106b7",
+        "title": "Back to Work, Better Than Ever",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-01T07:34:22.981799171Z",
+        "publishStartDate": "2025-09-01T11:00:01Z",
+        "description": "This event captures that powerful September momentum when users return from break feeling recharged and ready to level up. Instead of letting that fresh-start energy fade, Blinkist channels it into actionable career advancement strategies.\n\nThis curated collection delivers the professional insights that separate high achievers from those who stay stuck. Users discover leadership techniques, productivity hacks, and success principles that can transform their trajectory: all in bite-sized formats perfect for busy schedules.\n\nThe objective is to help users harness their post-vacation clarity and motivation, turning it into lasting professional growth. This event speaks to anyone ready to make their comeback count.\n\nFeaturing this event will inspire users to maximize their potential and position the App Store as the catalyst for meaningful career transformation.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/056ef3cf-7aba-46bb-bfcd-716adec106b7"
+      },
+      {
+        "id": "9a8c273d-1412-4654-b713-e823057ec95b",
+        "title": "Fall into Knowledge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-01T07:36:51.270058323Z",
+        "publishStartDate": "2025-09-20T11:00:01Z",
+        "description": "This autumn event invites users to embrace the season of transformation by diving into knowledge that truly matters. As leaves change and routines reset, Blinkist offers the perfect opportunity to cultivate new learning habits that can reshape careers and personal growth.\n\nThe event curates powerful insights and breakthrough ideas designed to help users level up their thinking and approach challenges with fresh perspectives. Whether seeking professional advancement or personal development, users discover the wisdom that separates high achievers from the rest.\n\nThe objective is to inspire users to make this their most successful fall yet, turning seasonal change into meaningful self-improvement. This event taps into autumn's natural energy of renewal and preparation.\n\nFeaturing \"Fall Forward with Blinkist\" will position the App Store as a destination for intentional growth and lifelong learning.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/9a8c273d-1412-4654-b713-e823057ec95b"
+      },
+      {
+        "id": "f3ea2b2a-4593-4fb6-ba16-cb02468fa31c",
+        "title": "The Present Moment Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-10T08:48:41.200307613Z",
+        "publishStartDate": "2025-10-01T11:00:01Z",
+        "description": "This event addresses widespread issues of anxiety, stress, and mental distraction that prevent users from experiencing fulfillment in daily life. With mindfulness and present-moment awareness gaining scientific validation for mental health benefits, this content meets growing demand for practical wellness solutions.\n\nThe challenge format provides structured, actionable techniques for developing present-moment awareness, reducing rumination, and managing anxiety through mindfulness practices. Content draws from established psychological research on attention training and stress reduction.\n\nThis serves users seeking alternatives to medication or therapy for managing everyday stress and improving life satisfaction for people who struggle with information overload and constant future-focused anxiety about work, relationships, and global events.\n\nFeaturing this event positions the App Store as a platform for evidence-based wellness content that provides genuine mental health support.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f3ea2b2a-4593-4fb6-ba16-cb02468fa31c"
+      },
+      {
+        "id": "40ff5646-a915-407f-8880-0add706cc01f",
+        "title": "5-Day Digital Detox Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-10T08:45:05.736684180Z",
+        "publishStartDate": "2025-10-01T11:00:01Z",
+        "description": "This event tackles a pressing modern issue: digital overwhelm and technology addiction affecting productivity, mental health, and relationships.\n\nThe 5-day structured program provides evidence-based strategies for reducing screen dependency and establishing healthier technology boundaries. Content includes practical techniques for managing notifications, creating phone-free zones, and rebuilding sustained attention spans.\n\nThis addresses growing user demand for digital wellness solutions, particularly relevant as remote work and constant connectivity blur life boundaries. The challenge format encourages active participation rather than passive consumption, increasing engagement and behavioral change likelihood.\n\nFeaturing this event demonstrates the App Store's awareness of technology's dual nature—supporting users in developing a more intentional, balanced relationship with their devices while promoting overall wellbeing.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/40ff5646-a915-407f-8880-0add706cc01f"
+      },
+      {
+        "id": "f51276bc-a86e-4d1c-b9e2-9ca3b326dbf8",
+        "title": "Plan A Failed? Option B(ook)",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-10T08:33:13.008846692Z",
+        "publishStartDate": "2025-10-01T11:00:01Z",
+        "description": "This event addresses a universal human experience: dealing with unexpected setbacks, career disruptions, and life changes that derail original plans. With economic uncertainty and rapid societal shifts, users increasingly face situations requiring adaptability and resilience.\n\nThe content draws from psychological research on post-traumatic growth and resilience building, offering evidence-based strategies for recovering from failure, loss, and disappointment. Rather than generic motivational content, it provides practical frameworks for processing setbacks and rebuilding with greater strength.\n\nThis event serves users navigating career transitions, relationship changes, health challenges, or other major life disruptions. Featuring this event positions the App Store as a resource for substantive life guidance during challenging periods, supporting users through genuine difficulties with expert-backed solutions.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f51276bc-a86e-4d1c-b9e2-9ca3b326dbf8"
+      },
+      {
+        "id": "9750ef02-5ce6-4107-89b3-6d02e295d29b",
+        "title": "Reveal Your Secret Superpower",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-10T08:24:03.591330641Z",
+        "publishStartDate": "2025-10-01T11:00:01Z",
+        "description": "This event addresses a widespread issue: millions of people underestimate their own capabilities and miss opportunities for growth. Drawing from \"Hidden Potential\" it explores how individuals can identify and develop talents they didn't know they possessed.\n\nThe content focuses on practical strategies for recognizing overlooked strengths and building skills that lead to meaningful career and personal advancement. This resonates particularly well with users seeking professional development and self-improvement during periods of change or transition.\n\nThe event aligns with current trends around personal empowerment and skill development, offering evidence-based approaches rather than motivational rhetoric. It provides actionable insights that users can immediately apply to their work and relationships.\n\nFeaturing this event supports users in their journey toward self-discovery and growth, positioning the App Store as a trusted resource for substantive personal development content.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/9750ef02-5ce6-4107-89b3-6d02e295d29b"
+      },
+      {
+        "id": "170b5f16-0942-4aec-8fe7-20f3930dd57f",
+        "title": "Keep Your Joy Through Anything",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-06T12:06:10.637284958Z",
+        "publishStartDate": "2025-10-06T11:00:01Z",
+        "description": "This event addresses the challenge of maintaining emotional stability and positive outlook during difficult periods. With increasing global uncertainty, economic pressures, and personal setbacks, users seek practical strategies for emotional resilience rather than temporary motivation.\n\nThe content provides evidence-based techniques for protecting mental well-being during adversity, drawing from positive psychology research and resilience studies. It offers actionable methods for maintaining perspective, managing negative emotions, and cultivating sustainable happiness.\n\nThis serves users facing ongoing stress, life transitions, or challenging circumstances who need tools for emotional regulation and mental strength. The approach focuses on building lasting coping skills rather than surface-level positivity.\n\nFeaturing this event positions the App Store as a resource for substantive mental health support that helps users develop genuine emotional resilience during difficult times.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/170b5f16-0942-4aec-8fe7-20f3930dd57f"
+      },
+      {
+        "id": "5c12af88-4f07-47ae-b4af-6f6d3baef071",
+        "title": "The Present Moment Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-06T12:04:57.741577662Z",
+        "publishStartDate": "2025-10-06T11:00:01Z",
+        "description": "This event addresses widespread anxiety, stress, and mental distraction that prevent users from experiencing fulfillment in daily life. With mindfulness gaining scientific validation for mental health benefits, this content meets growing demand for practical wellness solutions.\n\nThe challenge provides structured techniques for developing present-moment awareness, reducing rumination, and managing anxiety through mindfulness practices. Content draws from established psychological research on attention training and stress reduction.\n\nThis serves users seeking accessible alternatives for managing everyday stress and improving life satisfaction. The approach is particularly relevant as people struggle with information overload and constant future-focused anxiety about work, relationships, and global events.\n\nFeaturing this event positions the App Store as a platform for evidence-based wellness content that provides genuine mental health support through practical guidance.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5c12af88-4f07-47ae-b4af-6f6d3baef071"
+      },
+      {
+        "id": "6d9cb147-b802-4c20-9133-a4972a6507c8",
+        "title": "Meet Your New Self",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-06T12:00:21.900406898Z",
+        "publishStartDate": "2025-10-06T11:00:01Z",
+        "description": "The content provides evidence-based strategies for identifying and changing limiting habits, thought patterns, and behaviors that no longer serve users' goals. Rather than superficial self-help, it offers structured approaches to personal development rooted in behavioral psychology.\n\nThis serves users at transition points in their lives: career changes, relationship shifts, or personal milestones, who recognize the need for intentional growth but lack clear direction.\n\nFeaturing this event positions the App Store as a platform for substantive personal transformation content that helps users create lasting positive change in their lives.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6d9cb147-b802-4c20-9133-a4972a6507c8"
+      },
+      {
+        "id": "38eda301-9f13-4fac-9626-23658f57bc98",
+        "title": "World Mental Health Day",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-10T08:29:44.098565297Z",
+        "publishStartDate": "2025-10-06T11:00:01Z",
+        "description": "Timed with World Mental Health Day, this event addresses the growing mental health crisis affecting millions globally. With anxiety and stress-related disorders at record highs, users increasingly seek accessible, evidence-based resources for mental wellness.\n\nThis curated collection provides practical tools from leading mental health experts, covering stress management, anxiety reduction, and resilience building. The content offers actionable strategies that users can implement immediately, making professional-grade mental health support more accessible through bite-sized formats.\n\nThe timing leverages heightened awareness around mental health advocacy while providing genuine value beyond awareness campaigns. This event serves users who need practical solutions but may not have access to traditional mental health resources.\n\nFeaturing this event demonstrates the App Store's commitment to user wellbeing and positions it as a platform for meaningful, life-improving content during a glob",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/38eda301-9f13-4fac-9626-23658f57bc98"
+      },
+      {
+        "id": "f03b2d96-47b1-4624-bd85-b27879dc3996",
+        "title": "Halloween Discount",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-17T14:59:53.120132716Z",
+        "publishStartDate": "2025-10-10T11:00:01Z",
+        "description": "This Halloween-themed event makes learning engaging and accessible through seasonal storytelling and curated content. The playful approach helps users discover educational material in a fun, non-intimidating way during a time when people seek entertainment.\n\nThe event includes a special discount offer, providing users with affordable access to premium learning content during the Halloween season. Users can explore new topics and ideas while enjoying both the seasonal theme and added value.\n\nThis demonstrates how educational content can be presented creatively to reach broader audiences who might not typically engage with learning apps, while offering genuine savings that make quality education more accessible.\n\nFeaturing this event shows support for innovative approaches to education that combine entertainment value with affordability.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f03b2d96-47b1-4624-bd85-b27879dc3996"
+      },
+      {
+        "id": "42e25956-cbe9-4feb-b3e4-76e3feb6a114",
+        "title": "How to Be Emotionally Strong",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-13T19:52:15.795085252Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "This event addresses the growing need for emotional resilience skills in an increasingly stressful world. Many users struggle with emotional regulation, anxiety, and maintaining stability during challenging periods, seeking practical rather than theoretical guidance.\n\nThe content combines evidence-based emotional intelligence techniques with an accessible, humor-infused approach that makes difficult concepts more digestible. This addresses the common problem of overly clinical or abstract emotional wellness content that users find hard to implement.\n\nThis serves users experiencing workplace stress, relationship challenges, or life transitions who need concrete tools for emotional stability. The approach acknowledges that emotional strength isn't about suppressing feelings but managing them effectively.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/42e25956-cbe9-4feb-b3e4-76e3feb6a114"
+      },
+      {
+        "id": "33795ab2-d773-40a6-a188-f0921eeddf58",
+        "title": "Full Attention Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-13T19:48:49.569151674Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "This event addresses one of the most critical challenges of the digital age: the erosion of sustained attention and deep focus capabilities. Research shows average attention spans have decreased significantly, impacting productivity, learning, and personal satisfaction.\n\nThe challenge provides evidence-based techniques for rebuilding concentration skills and developing sustained focus in an increasingly distracting environment. Content draws from neuroscience research and cognitive psychology to offer practical attention training methods.\n\nThis serves users struggling with digital overwhelm, productivity issues, and difficulty completing meaningful work. The skills are particularly valuable for professionals, students, and anyone seeking to improve performance and reduce mental fatigue from constant task-switching.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/33795ab2-d773-40a6-a188-f0921eeddf58"
+      },
+      {
+        "id": "55b9e265-df9d-49be-8199-99da7fd118e7",
+        "title": "7 Habits Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-13T19:46:46.736995702Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "This event presents one of the most influential personal development frameworks in modern history, based on Stephen Covey's research into effectiveness principles. The 7 Habits have helped millions of users improve productivity, leadership skills, and personal relationships across decades.\n\nThe challenge format transforms theoretical concepts into actionable daily practices, addressing common struggles with time management, goal achievement, and interpersonal effectiveness. Content provides structured implementation strategies rather than abstract principles.\n\nThis serves users seeking proven methodologies for personal and professional development, particularly those in leadership roles or career transitions. The habits framework offers comprehensive life improvement rather than single-issue solutions.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/55b9e265-df9d-49be-8199-99da7fd118e7"
+      },
+      {
+        "id": "409d09ec-a856-44f0-a79c-f37b7a469ea7",
+        "title": "Workshop: Build Bulletproof Boundaries",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-13T19:45:22.070594048Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "This workshop addresses a widespread interpersonal challenge: difficulty setting and maintaining healthy boundaries in personal and professional relationships. Many users struggle with saying no, managing expectations, and protecting their time and energy without damaging relationships.\n\nThe content provides practical communication strategies and psychological frameworks for establishing clear boundaries while maintaining respect and connection. It addresses common boundary-setting obstacles like guilt, fear of conflict, and people-pleasing tendencies.\n\nThis serves users experiencing workplace stress, relationship difficulties, or burnout from overcommitment. The workshop format offers structured, actionable guidance rather than theoretical advice, helping users practice boundary-setting skills in real situations.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/409d09ec-a856-44f0-a79c-f37b7a469ea7"
+      },
+      {
+        "id": "c90ca070-15f2-4251-beb6-b9f7aefaca80",
+        "title": "Unlock Learning This November",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-12T22:43:06.969415866Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "This event introduces significant platform enhancements that improve the core learning experience for users. The upgraded format represents a major content evolution, offering 8000+ enhanced insights with refined 15-minute structures designed for better comprehension and retention.\n\nThe improvements address user feedback about content accessibility and learning effectiveness. Enhanced formatting makes complex topics more digestible while maintaining depth, serving users who want substantial knowledge in time-efficient formats.\n\nThis launch demonstrates ongoing platform innovation and commitment to educational quality. The timing leverages November's focus on skill development and year-end goal achievement, when users typically seek professional and personal growth opportunities.\n\nFeaturing this event showcases the App Store's support for educational platforms that continuously evolve to better serve learners, highlighting meaningful product improvements that enhance user experience and",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c90ca070-15f2-4251-beb6-b9f7aefaca80"
+      },
+      {
+        "id": "9a6cfe6f-75c2-46e4-bb73-536da6f60ef9",
+        "title": "Cyber Week Special",
+        "type": "APP_ENHANCEMENTS",
+        "state": "ARCHIVED",
+        "submittedDate": "2025-11-04T19:41:33.191935Z",
+        "publishStartDate": "2025-11-29T11:00:01Z",
+        "description": "This Cyber Week event leverages the season's focus on digital innovation to showcase enhanced learning technology. The timing aligns with users' increased engagement with digital platforms and their interest in upgrading their digital experiences.\n\nThe event highlights significant platform improvements with 8,000+ enhanced insights in multiple languages (EN, DE, ES, PT) designed for efficient knowledge consumption with new features like Blinkist Shorts or Blinkist AI. This addresses growing demand for time-effective learning solutions that fit busy schedules while maintaining educational depth.\n\nThe special offer provides users access to premium educational content during a period when they're actively seeking digital upgrades and improvements. This serves learners looking to invest in personal development and skill building as they plan for the upcoming year.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/9a6cfe6f-75c2-46e4-bb73-536da6f60ef9"
+      },
+      {
+        "id": "e84fab8f-34a6-46b4-af77-0b63a4805120",
+        "title": "Cyber Week Special",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-13T20:31:05.471313177Z",
+        "publishStartDate": "2025-11-29T11:00:01Z",
+        "description": "This Cyber Week event leverages the season's focus on digital innovation to showcase enhanced learning technology. The timing aligns with users' increased engagement with digital platforms and their interest in upgrading their digital experiences.\n\nThe event highlights significant platform improvements with 8,000+ enhanced insights in multiple languages (EN, DE, ES, PT) designed for efficient knowledge consumption with new features like Blinkist Shorts or Blinkist AI. This addresses growing demand for time-effective learning solutions that fit busy schedules while maintaining educational depth.\n\nThe special offer provides users access to premium educational content during a period when they're actively seeking digital upgrades and improvements. This serves learners looking to invest in personal development and skill building as they plan for the upcoming year.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/e84fab8f-34a6-46b4-af77-0b63a4805120"
+      },
+      {
+        "id": "6606ec6c-ef94-4e10-ba16-f5767dc3031d",
+        "title": "Complete List of Events for Nomination",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-17T10:20:38.052194366Z",
+        "publishStartDate": "2025-12-01T11:00:01Z",
+        "description": "Following guidance from Caspar von Klot-Heydenfeldt, we're submitting this comprehensive file containing our complete event nomination strategy for the upcoming months, organized with event IDs, nomination IDs, dates, and priority indicators.\n\nBold-highlighted events represent our strongest recommendations for featuring, selected based on seasonal relevance, user demand data, and alignment with App Store values. Green-highlighted entries indicate separately nominated events with dedicated submission materials. This list will be kept up-to-date at all times. \n\nThe calendar strategically addresses key user moments: holiday gift-giving, New Year transformation, and seasonal wellness needs.\n\nThis organized approach demonstrates our commitment to quality event programming and partnership with the App Store editorial team. The file enables efficient review and selection of events that best serve your users.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6606ec6c-ef94-4e10-ba16-f5767dc3031d"
+      },
+      {
+        "id": "f92df522-3132-455a-b1f3-50ed79282f91",
+        "title": "Master Your Winter Reset",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:45:20.236539658Z",
+        "publishStartDate": "2025-12-01T11:00:01Z",
+        "description": "This event addresses seasonal wellness challenges and the natural human tendency toward reflection during winter months. Many users struggle with seasonal mood changes, energy fluctuations, and difficulty maintaining motivation during darker periods.\n\nThe content provides strategies for working with natural circadian rhythms and seasonal patterns rather than fighting them. It offers practical approaches to rest, reflection, and goal preparation that align with winter's introspective energy.\n\nThis serves users experiencing seasonal affective symptoms, winter fatigue, or those seeking to use quieter months productively for planning and personal development. The approach validates natural seasonal rhythms while providing actionable wellness strategies.\n\nFeaturing this event positions the App Store as a platform for seasonal wellness content that helps users optimize their health and productivity by understanding and working with natural biological cycles.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f92df522-3132-455a-b1f3-50ed79282f91"
+      },
+      {
+        "id": "02f1c1ac-ff1b-47e0-9e99-ae60e13fca55",
+        "title": "Maximize Life Energy",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:43:13.203899144Z",
+        "publishStartDate": "2025-12-01T11:00:01Z",
+        "description": "This event addresses the widespread issue of fatigue, burnout, and declining vitality that affects millions of users seeking sustainable wellness solutions. With increasing awareness of holistic health approaches, users want comprehensive strategies beyond quick fixes.\n\nThe content provides evidence-based methods for optimizing physical energy, mental clarity, and overall longevity through lifestyle modifications. It covers nutrition, sleep, stress management, and movement practices backed by current health research.\n\nThis serves users experiencing chronic fatigue, work-related burnout, or age-related energy decline who seek practical, sustainable approaches to wellness. The comprehensive approach appeals to those wanting integrated health solutions rather than single-issue remedies.\n\nFeaturing this event positions the App Store as a platform for substantive health and wellness content that helps users make meaningful lifestyle improvements for long-term vitality and well-being.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/02f1c1ac-ff1b-47e0-9e99-ae60e13fca55"
+      },
+      {
+        "id": "60e580ae-b9f2-4ef5-9313-feb3cbf5e0a3",
+        "title": "New Year New Habits",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:54:55.416208Z",
+        "publishStartDate": "2025-12-02T11:00:01Z",
+        "description": "This event capitalizes on the highest motivation period for personal change, when users are most committed to self-improvement and habit formation. New Year represents the strongest behavioral change window, with millions actively seeking transformation strategies.\n\nThe content provides evidence-based habit formation techniques and personal development frameworks that address common resolution failures. It focuses on sustainable behavior change rather than temporary motivation, offering practical systems for lasting transformation.\n\nThis serves users frustrated with past failed resolutions who need structured approaches to meaningful change. The comprehensive approach covers mindset, habits, and goal achievement, appealing to those seeking complete life transformation rather than incremental improvements.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/60e580ae-b9f2-4ef5-9313-feb3cbf5e0a3"
+      },
+      {
+        "id": "28d7b9d7-a4e4-4937-976e-17e2a1e934ba",
+        "title": "Achieve Your 2026 Goals (ES)",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:51:27.161801732Z",
+        "publishStartDate": "2025-12-02T11:00:01Z",
+        "description": "The event is targeting Spanish speaking countries and the content is written in Spanish. \n\nThis event tackles the widespread problem of goal abandonment and chronic procrastination that prevents users from completing meaningful projects. Studies show most people struggle with follow-through, creating significant demand for completion strategies. \n\nThis addresses psychological barriers like perfectionism, self-doubt, and overwhelm that derail goal achievement. It provides evidence-based techniques for overcoming inner resistance and building consistent execution habits.\n\nThis serves users frustrated with past failures to complete goals, particularly those who start projects enthusiastically but struggle to maintain momentum. The timing leverages New Year motivation while providing practical tools for sustained action.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/28d7b9d7-a4e4-4937-976e-17e2a1e934ba"
+      },
+      {
+        "id": "02e4fc28-e303-4495-bd6d-178e71c944c5",
+        "title": "2026 Goals",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:46:43.930868557Z",
+        "publishStartDate": "2025-12-04T11:00:01Z",
+        "description": "This event addresses the common challenge of goal abandonment and lack of follow-through that affects most users attempting significant life changes. Research shows that 92% of people fail to achieve their goals, creating demand for evidence-based achievement strategies.\n\nThe content provides proven methodologies from behavioral psychology and performance research for setting achievable goals, maintaining motivation, and overcoming obstacles. It focuses on systematic approaches rather than motivational rhetoric.\n\nThis serves users preparing for New Year resolutions, career transitions, or major life changes who need structured frameworks for success. The timing leverages natural goal-setting periods when users are most motivated to make meaningful changes.\n\nFeaturing this event positions the App Store as a platform for practical achievement tools that help users bridge the gap between aspiration and accomplishment through scientifically-backed strategies.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/02e4fc28-e303-4495-bd6d-178e71c944c5"
+      },
+      {
+        "id": "099ddf52-7cb2-4a54-a0cc-758e9f517b0b",
+        "title": "Christmas",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-04T19:53:19.231738205Z",
+        "publishStartDate": "2025-12-05T11:00:01Z",
+        "description": "This Christmas event transforms gift-giving into meaningful relationship building through shared learning experiences.\n\nThe event addresses the growing trend toward experiential and meaningful gift-giving, particularly among users seeking alternatives to material consumption. It leverages Christmas's spirit of generosity while promoting intellectual growth and shared discovery.\n\nThis serves users looking for thoughtful, lasting gifts that demonstrate care for recipients' personal development. The timing captures peak gift-giving season when users actively seek presents that create genuine impact rather than temporary satisfaction.\n\nFeaturing this event positions the App Store as supporting meaningful human connections through education, demonstrating how digital platforms can facilitate real-world relationship building and shared experiences",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/099ddf52-7cb2-4a54-a0cc-758e9f517b0b"
+      },
+      {
+        "id": "fc6254b1-fbfe-4457-aaac-b041843c87fc",
+        "title": "Break Procrastination Forever",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-12-04T14:46:21.573211234Z",
+        "publishStartDate": "2026-01-01T11:00:01Z",
+        "description": "This event addresses one of the most common productivity barriers affecting millions of users: chronic procrastination. Research shows procrastination impacts approximately 20% of adults chronically, leading to missed opportunities, increased stress, and diminished life satisfaction.\n\nThe content provides neuroscience-based strategies for understanding and overcoming procrastination patterns, addressing root causes like fear of failure, perfectionism, and executive function challenges. It offers practical techniques for breaking delay cycles and building consistent action habits.\n\nThis serves users frustrated with repeated productivity failures, particularly those who understand what they should do but struggle with execution. The approach goes beyond time management tips to address psychological and neurological factors underlying procrastination.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/fc6254b1-fbfe-4457-aaac-b041843c87fc"
+      },
+      {
+        "id": "175e336f-47d4-4fec-9ad8-6b63abde9cf9",
+        "title": "%1  Better Every Single Day",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-12-04T14:39:46.748469591Z",
+        "publishStartDate": "2026-01-01T11:00:01Z",
+        "description": "This event addresses the common problem of overwhelming goal-setting that leads to burnout and abandonment. Research shows that incremental improvement strategies have significantly higher success rates than dramatic transformation attempts.\n\nThe content explores the compound effect of small, consistent improvements based on behavioral science and habit formation research. It demonstrates how marginal daily gains accumulate into substantial long-term results, making change feel achievable rather than daunting.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/175e336f-47d4-4fec-9ad8-6b63abde9cf9"
+      },
+      {
+        "id": "a071abbb-e0ee-41a8-ae96-d9475f70362d",
+        "title": "Build Winning Habits in 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-17T10:12:18.970874691Z",
+        "publishStartDate": "2026-01-01T11:00:01Z",
+        "description": "This event addresses the fundamental challenge of sustainable behavior change that determines long-term success. Research shows habits account for approximately 40% of daily behaviors, making habit formation critical for achieving meaningful life improvements.\n\nThe content provides evidence-based strategies from behavioral psychology and neuroscience research on habit formation, maintenance, and replacement. It focuses on systematic approaches to building productive patterns rather than relying on willpower alone.\n\nThis serves users seeking lasting change rather than temporary motivation, particularly those frustrated with past failed attempts at habit formation. The timing leverages New Year commitment to self-improvement when users are most receptive to establishing new routines in the new year!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/a071abbb-e0ee-41a8-ae96-d9475f70362d"
+      },
+      {
+        "id": "a4a6e02a-5dc1-4dae-a39a-09684b6d80b8",
+        "title": "2026 Winner's Reading List",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-17T10:09:59.551161898Z",
+        "publishStartDate": "2026-01-01T11:00:01Z",
+        "description": "This event addresses the challenge of information overload and limited reading time that prevents users from accessing influential books. With thousands of titles published annually, users struggle to identify and consume truly impactful content.\n\nThe curated collection features essential books that have demonstrated lasting influence on personal and professional success. It provides efficient access to key insights from foundational texts, serving users who want comprehensive knowledge without extensive time investment.\n\nThis serves ambitious professionals, students, and lifelong learners seeking competitive advantages through strategic knowledge acquisition. The timing leverages New Year motivation for self-improvement and skill development.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/a4a6e02a-5dc1-4dae-a39a-09684b6d80b8"
+      },
+      {
+        "id": "81c6301b-bcc1-4208-b370-3bed9382a397",
+        "title": "Master Productivity Secrets",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-12-04T14:45:35.923037455Z",
+        "publishStartDate": "2026-01-05T11:00:01Z",
+        "description": "This event addresses the productivity gap between high performers and average achievers, revealing research-backed habits that drive exceptional results. With workplace demands increasing and competition intensifying, users seek proven strategies for elevating their performance.\n\nThe content provides evidence-based productivity frameworks derived from studying top performers across industries. It focuses on six core habits that consistently differentiate high achievers, offering practical implementation strategies rather than theoretical concepts.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/81c6301b-bcc1-4208-b370-3bed9382a397"
+      },
+      {
+        "id": "239bb784-9b47-4da6-88cc-050d5734f27b",
+        "title": "The Discipline Code Unlocked",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-12-04T14:44:57.956981Z",
+        "publishStartDate": "2026-01-05T11:00:01Z",
+        "description": "This event addresses the fundamental challenge of self-discipline that determines success across all life areas. Neuroscience research reveals that willpower operates through specific brain mechanisms that can be understood and optimized rather than relying on innate traits.\n\nThe content explores the biological basis of self-control, explaining how brain chemistry, neural pathways, and cognitive processes influence disciplined behavior. It provides science-based strategies for strengthening willpower capacity and overcoming self-sabotage patterns.\n\nThis serves users who struggle with consistency despite strong motivation, particularly those frustrated by repeated discipline failures.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/239bb784-9b47-4da6-88cc-050d5734f27b"
+      },
+      {
+        "id": "c61b32fc-0a2e-408b-9e71-ef0e8518b36f",
+        "title": "Live Longer Live Better",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-17T10:13:43.928973498Z",
+        "publishStartDate": "2026-01-05T11:00:01Z",
+        "description": "This event addresses growing user interest in longevity science and preventive health strategies. With increasing life expectancy and healthcare costs, users seek evidence-based approaches to extending health span and improving quality of life.\n\nThe content provides research-backed strategies for longevity, focusing on accessible lifestyle modifications that deliver significant health benefits with minimal time investment.\n\nThis serves health-conscious users seeking preventive approaches to aging, chronic disease prevention, and vitality maintenance. The practical time commitment addresses common barriers to health improvement while offering substantial benefits.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c61b32fc-0a2e-408b-9e71-ef0e8518b36f"
+      },
+      {
+        "id": "7db40d68-2374-420b-a197-36ded3599131",
+        "title": "Valentine's Day - The Love Prescription",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T15:34:27.343805526Z",
+        "publishStartDate": "2026-02-01T11:00:01Z",
+        "description": "This Valentine's-themed event addresses relationship maintenance challenges that affect couples at all stages. Research shows that relationship satisfaction requires intentional effort, yet most couples lack structured approaches for strengthening their connection.\n\nThe content provides a research-backed 7-day framework from relationship experts for improving intimacy, communication, and emotional connection. It offers practical, evidence-based actions that couples can implement immediately to revitalize their relationships.\n\nThis serves couples experiencing relationship stagnation, communication difficulties, or decreased intimacy who seek expert guidance. The timing leverages Valentine's Day awareness around romantic relationships while providing substantive tools beyond commercial gestures.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/7db40d68-2374-420b-a197-36ded3599131"
+      },
+      {
+        "id": "33d885cf-81f1-4143-8352-bffca283edad",
+        "title": "AI Essentials for 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T08:31:37.943881426Z",
+        "publishStartDate": "2026-02-01T11:00:01Z",
+        "description": "This event addresses the urgent need for AI literacy as artificial intelligence rapidly transforms industries, careers, and daily life. With AI adoption accelerating across sectors, users face pressure to understand and leverage these technologies or risk professional obsolescence.\n\nThe content provides practical guidance on AI applications, career implications, and skill development strategies for the AI era. It focuses on actionable knowledge that helps users integrate AI tools effectively rather than theoretical overviews.\n\nThis serves professionals, students, and business leaders seeking to remain competitive in AI-transformed workplaces. The timing is critical as organizations increasingly expect AI competency across roles, making this knowledge essential rather than optional.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/33d885cf-81f1-4143-8352-bffca283edad"
+      },
+      {
+        "id": "34b19047-b1d6-4488-8b9a-fd3a196eeb7e",
+        "title": "Feel Amazing Inside & Out",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T08:27:49.027848747Z",
+        "publishStartDate": "2026-02-01T11:00:01Z",
+        "description": "This event addresses the growing demand for holistic wellness approaches that integrate physical health, mental performance, and overall vitality. Users increasingly seek comprehensive strategies beyond isolated fitness or nutrition advice.\n\nThe content provides evidence-based guidance on nutrition optimization, strength training, and biohacking techniques for enhancing both physical and cognitive performance. It offers practical, science-backed methods for improving energy, focus, and overall well-being.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/34b19047-b1d6-4488-8b9a-fd3a196eeb7e"
+      },
+      {
+        "id": "d377528f-1a9e-48c0-b94b-4a0f90e81cee",
+        "title": "Make Any Habit Stick",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T08:33:16.072528526Z",
+        "publishStartDate": "2026-02-08T11:00:01Z",
+        "description": "This challenge addresses the widespread frustration of failed habit formation attempts that plague most users trying to create positive change. Neuroscience research shows that understanding brain mechanisms behind habit formation dramatically increases success rates.\n\nThe content explores the psychology and neuroscience of automatic behavior formation, revealing how habits develop at the neurological level. It provides brain-based strategies for creating lasting routines that become effortless rather than requiring constant willpower.\n\nThis serves users exhausted from repeated habit-building failures who need approaches aligned with how the brain actually works. The science-backed methodology offers hope by explaining why previous attempts failed and how to work with natural brain processes.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/d377528f-1a9e-48c0-b94b-4a0f90e81cee"
+      },
+      {
+        "id": "fd1a2fd5-98ca-4102-a532-ee999384a66b",
+        "title": "Valentine's Day - The Love Prescription",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T15:34:13.817693858Z",
+        "publishStartDate": "2026-02-09T11:00:01Z",
+        "description": "This Valentine's-themed event addresses relationship maintenance challenges that affect couples at all stages. Research shows that relationship satisfaction requires intentional effort, yet most couples lack structured approaches for strengthening their connection.\n\nThe content provides a research-backed 7-day framework from relationship experts for improving intimacy, communication, and emotional connection. It offers practical, evidence-based actions that couples can implement immediately to revitalize their relationships.\n\nThis serves couples experiencing relationship stagnation, communication difficulties, or decreased intimacy who seek expert guidance. The timing leverages Valentine's Day awareness around romantic relationships while providing substantive tools beyond commercial gestures.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/fd1a2fd5-98ca-4102-a532-ee999384a66b"
+      },
+      {
+        "id": "cbb2c632-bcb9-4727-92b5-0fe0a82c0225",
+        "title": "Master Productivity Secrets",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T08:42:27.951887476Z",
+        "publishStartDate": "2026-02-15T11:00:01Z",
+        "description": "This event addresses the productivity gap between high performers and average achievers, revealing research-backed habits that drive exceptional results. With workplace demands increasing and competition intensifying, users seek proven strategies for elevating their performance.\n\nThe content provides evidence-based productivity frameworks derived from studying top performers across industries. It focuses on core habits that consistently differentiate high achievers, offering practical implementation strategies rather than theoretical concepts.\n\nThis serves ambitious professionals, entrepreneurs, and students seeking competitive advantages through systematic performance improvement. The research-backed approach appeals to users skeptical of generic productivity advice who want validated methods.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/cbb2c632-bcb9-4727-92b5-0fe0a82c0225"
+      },
+      {
+        "id": "e055f19e-bbae-44d7-8134-ebcf2c70a173",
+        "title": "Outsmart Your Own Brain",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-23T11:21:59.953493368Z",
+        "publishStartDate": "2026-03-01T11:00:01Z",
+        "description": "This event addresses cognitive biases and mental shortcuts that lead to poor decision-making in personal and professional contexts. Behavioral economics research reveals that understanding dual-process thinking dramatically improves judgment quality.\n\nThe content explores the two-system model of human cognition—fast intuitive thinking versus slow deliberate reasoning—and provides strategies for recognizing when each system operates. It offers practical techniques for avoiding common mental traps and making more rational decisions.\n\nThis serves professionals, leaders, and anyone making consequential decisions who want to improve their thinking processes. The science-based approach appeals to users seeking to understand and overcome their own cognitive limitations.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/e055f19e-bbae-44d7-8134-ebcf2c70a173"
+      },
+      {
+        "id": "c025925d-830d-42a9-bbd7-948ce3dc5576",
+        "title": "Let Them! Theory",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-21T08:36:02.149724083Z",
+        "publishStartDate": "2026-03-01T11:00:01Z",
+        "description": "This event addresses the energy drain caused by attempting to control others' behaviors and opinions, a common source of stress and frustration. The \"Let Them\" theory offers a psychological framework for redirecting wasted mental energy toward personal empowerment and growth.\n\nThe content provides practical strategies for releasing the need to manage others' actions, establishing healthy boundaries, and focusing energy on controllable factors. It addresses the psychological roots of people-pleasing and external validation seeking.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c025925d-830d-42a9-bbd7-948ce3dc5576"
+      },
+      {
+        "id": "67c1277e-a73e-431c-8a56-6230873e54ad",
+        "title": "Self-Confidence Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-01-23T11:17:30.981069528Z",
+        "publishStartDate": "2026-03-02T11:00:01Z",
+        "description": "This event addresses the pervasive issue of low self-confidence that limits personal and professional achievement. Research shows self-doubt affects decision-making, career advancement, relationship quality, and overall life satisfaction across demographics.\n\nThe challenge format provides structured, actionable strategies for building genuine self-confidence through addressing negative self-talk, recognizing personal strengths, and developing self-assurance. Content draws from cognitive behavioral therapy and positive psychology research.\n\nThis serves users struggling with imposter syndrome, social anxiety, or self-limiting beliefs that prevent them from pursuing opportunities. The challenge structure encourages active participation and measurable progress rather than passive consumption.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/67c1277e-a73e-431c-8a56-6230873e54ad"
+      },
+      {
+        "id": "1e1705ba-3bf9-4981-acd4-f1e3304cddd4",
+        "title": "Easter 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-13T09:59:59.887958657Z",
+        "publishStartDate": "2026-03-31T11:00:01Z",
+        "description": "Timed for Easter, this event reframes the holiday as a discovery moment, encouraging users to hunt for ideas rather than eggs. It curates bite-sized, 15-minute Blinks from thousands of books across personal growth, science, creativity, and productivity, making deep insights accessible during a season of reflection and renewal.\n\nThe collection solves a common user problem: limited time to find high-quality ideas. By surfacing compact, actionable takeaways, it helps users uncover transformative concepts quickly and turn idle moments into meaningful learning. Featuring this event will drive seasonal engagement and position the App Store as a place for thoughtful, time-efficient discovery.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/1e1705ba-3bf9-4981-acd4-f1e3304cddd4"
+      },
+      {
+        "id": "5bd631ff-8994-41a4-b19e-889472bfa76b",
+        "title": "Own Your Attention Span",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-13T10:20:38.540921267Z",
+        "publishStartDate": "2026-04-01T11:00:01Z",
+        "description": "This event helps users regulateattention. It offers practical, research-backed techniques to protect focus, prioritize high-value tasks, and shape habits that support productivity and wellbeing.\n\nWhy users will engage:\n\nActionable guidance to turn distracting tech into purposeful tools.\nAppeals to professionals, students, and anyone who wants better outcomes from time spent in apps.\nShort, habit-friendly exercises that promote sustained attention and smarter app use.\nObjective: empower users to direct their attention toward productive apps and meaningful work, enhancing both performance and healthy screen habits.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5bd631ff-8994-41a4-b19e-889472bfa76b"
+      },
+      {
+        "id": "b4637640-601e-41d1-811c-4e177160479f",
+        "title": "Bloom Without the Burnout",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-13T10:15:16.540810531Z",
+        "publishStartDate": "2026-04-01T11:00:01Z",
+        "description": "Spring into balance. Grow without the grind.\n\nWhy users will engage:\n\nTimely: spring signals renewal,perfect moment for self-improvement.\nHigh relevance: addresses widespread burnout and desire for sustainable growth.\nPractical value: actionable strategies to boost productivity while protecting wellbeing.\nBroad appeal: workers, caregivers, and career-changers seeking balance.\nHabit-forming: short, applicable lessons encourage repeat use and lasting behaviour change.\nObjective: Help users flourish this season by learning how to progress without sacrificing health, turning seasonal motivation into durable, balanced habits.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/b4637640-601e-41d1-811c-4e177160479f"
+      },
+      {
+        "id": "ba532e2b-7c80-41a0-a109-7d252180f1d7",
+        "title": "Audiobooks",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-13T10:12:57.060593747Z",
+        "publishStartDate": "2026-04-01T11:00:01Z",
+        "description": "Curated audio summaries that let users learn during real-life moments: commutes, workouts, chores. Short, well-narrated Blinks turn idle time into productive listening, making it easy to consume bestsellers and hidden gems without carving out extra hours.\n\nWhy it engages users:\n\nFits busy routines,learning that works while living.\nHigh utility: immediate, actionable takeaways listeners can apply right away.\nBroad appeal: appeals to commuters, fitness listeners, multitaskers.\nEncourages habitual use, easy wins that boost daily retention and session frequency.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/ba532e2b-7c80-41a0-a109-7d252180f1d7"
+      },
+      {
+        "id": "6fc53ade-a752-4a7f-aa53-68729e0a3d70",
+        "title": "World Book Day 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-13T10:04:44.481253986Z",
+        "publishStartDate": "2026-04-01T11:00:01Z",
+        "description": "Timed for World Book Day, this event makes high-quality reading discovery fast and accessible. Curated collection: classics, modern bestsellers, and themed lists help users find their next favorite book in just 15 minutes, solving the common problem of choice overload and limited time.\n\nObjectives: drive discovery, increase engagement with curated collections, and convert casual browsers into regular readers by showcasing the value of concise, insight-first learning. This EAE has global relevance, strong editorial fit for App Store seasonal features, and clear user benefit in promoting lifelong reading habits.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6fc53ade-a752-4a7f-aa53-68729e0a3d70"
+      },
+      {
+        "id": "805178f8-8147-436a-9f79-e1a4764f182f",
+        "title": "Mental Health Month 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-19T14:17:55.799791159Z",
+        "publishStartDate": "2026-05-01T11:00:01Z",
+        "description": "Timed for Mental Health Awareness Month and aligned with Apple Editorial Calendar, this curated collection helps readers address how workplace environments shape wellbeing. It offers evidence-based guidance for spotting warning signs, setting boundaries, and fostering psychologically safe teams, practical tools for employees, managers, and leaders.\n\nRelevance: workplace stress, burnout, and mental-health-related absenteeism are urgent, widespread problems; organizations and individuals are actively seeking actionable solutions that fit into busy schedules.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/805178f8-8147-436a-9f79-e1a4764f182f"
+      },
+      {
+        "id": "6c615431-35e6-4619-8406-307d5ff3260f",
+        "title": "Mother's Day 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-19T14:17:22.119567237Z",
+        "publishStartDate": "2026-05-01T11:00:01Z",
+        "description": "Timed for Mother's Day and aligned with Apple Editorial Calendar, this collection supports modern caregivers balancing family, work, and self-care. It curates practical parenting strategies, evidence-backed self-care routines, and mindset tools that help moms thrive, not just cope, during demanding seasons.\n\nWhy it matters: parents (especially mothers) face burnout and decision fatigue; bite-sized, expert-led insights fit into short breaks and provide immediate, applicable guidance. Content balances parenting techniques with personal wellbeing to strengthen both family life and individual resilience.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6c615431-35e6-4619-8406-307d5ff3260f"
+      },
+      {
+        "id": "dc2d4874-7330-4a93-8b5d-b9aa04f0a16d",
+        "title": "Pride 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-19T14:17:38.811611035Z",
+        "publishStartDate": "2026-06-01T11:00:01Z",
+        "description": "Timed for Pride and aligned with the Apple Editorial Calendar, this collection spotlights LGBTQ+ leaders, activists, and cultural voices whose stories shaped history and continue to drive change. It curates first‑person accounts, biographies, and analysis that illuminate identity, resilience, and the ongoing fight for equality.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/dc2d4874-7330-4a93-8b5d-b9aa04f0a16d"
+      },
+      {
+        "id": "63ff806a-435c-456b-a536-52e0e520d56f",
+        "title": "Father's Day 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-19T14:17:06.672191618Z",
+        "publishStartDate": "2026-06-14T11:00:01Z",
+        "description": "Timed for Father’s Day and aligned with Apple Editorial Calendar, this collection curates practical, research‑backed insights on fatherhood, leadership, and emotional presence. It helps dads balance caregiving, work, and personal growth with bite‑sized lessons they can apply between tasks.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/63ff806a-435c-456b-a536-52e0e520d56f"
+      },
+      {
+        "id": "34c68b90-cc15-41db-8de7-6e8463a66603",
+        "title": "Independence Day 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-03T09:04:02.083809596Z",
+        "publishStartDate": "2026-06-30T11:00:01Z",
+        "description": "Timed for Independence Day, this collection celebrates American literary heritage by curating the novels that shaped the nation's identity—from the American Dream to coming-of-age classics. It offers users a culturally rich, time-efficient way to engage with foundational stories during a holiday when national pride and leisure time naturally intersect.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/34c68b90-cc15-41db-8de7-6e8463a66603"
+      },
+      {
+        "id": "eb73569b-6d98-49f0-8658-80d8489646b5",
+        "title": "Reset Your Mind",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-30T11:14:32.472684080Z",
+        "publishStartDate": "2026-07-01T11:00:01Z",
+        "description": "This summer event addresses a timely tension: users want to unplug and recharge but struggle to break habitual scrolling patterns. It curates stress relief, mindfulness, focus, and sleep insights that help users reclaim mental space, without abandoning their devices entirely.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/eb73569b-6d98-49f0-8658-80d8489646b5"
+      },
+      {
+        "id": "a8320ba2-a305-457a-a039-b220558f01fc",
+        "title": "Summer Vacation",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-01T12:52:47.080118245Z",
+        "publishStartDate": "2026-07-01T11:00:01Z",
+        "description": "Timed for summer, this collection invites users to finally tackle the reading list they've been postponing. It curates classics, fiction, and page-turners in 15-minute formats. Perfect for beach days, holidays, and lazy afternoons when users have more leisure time but less patience for lengthy reads.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/a8320ba2-a305-457a-a039-b220558f01fc"
+      },
+      {
+        "id": "08b2ce20-cf93-4517-a38a-e5c1fa1aede1",
+        "title": "Learning Sprint",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-30T11:16:22.990986475Z",
+        "publishStartDate": "2026-07-26T11:00:01Z",
+        "description": "This 7-day challenge targets the late-summer motivation dip, when routines haven't fully resumed but users feel the pull to refocus. Short daily reads, quick listens, and actionable prompts make re-engaging with learning feel manageable rather than overwhelming.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/08b2ce20-cf93-4517-a38a-e5c1fa1aede1"
+      },
+      {
+        "id": "44262cbe-5ebb-4649-bb2f-1bb608bd10c6",
+        "title": "Learning on the Go",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-30T11:12:04.864212371Z",
+        "publishStartDate": "2026-08-01T11:00:01Z",
+        "description": "This event targets a high-intent usage moment: travel. Whether on road trips, flights, or daily commutes, users have uninterrupted time and genuine appetite for engaging content, making it an ideal opportunity to discover Blinkist's offline and audio features.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/44262cbe-5ebb-4649-bb2f-1bb608bd10c6"
+      },
+      {
+        "id": "b52754c0-e53c-482d-b9ae-b030ca75957f",
+        "title": "Back To School 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-22T14:54:03.002842104Z",
+        "publishStartDate": "2026-08-15T11:00:01Z",
+        "description": "This back-to-season event captures the natural motivation spike users experience after summer breaks, when routines reset and appetite for self-improvement peaks. It reintroduces Blinkist's core value proposition—9,000+ of the world's best books distilled into 15-minute reads—at the moment users are most receptive to building new learning habits.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/b52754c0-e53c-482d-b9ae-b030ca75957f"
+      },
+      {
+        "id": "e4b9b786-7e6f-45ef-b448-0b03f076f3ce",
+        "title": "Latin Heritage Month",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-22T14:52:13.649300480Z",
+        "publishStartDate": "2026-09-15T11:00:01Z",
+        "description": "Timed for Latin Heritage Month, this collection celebrates the rich literary and intellectual tradition of Latin America—curating the voices, thinkers, and ideas that have shaped culture, politics, and society across the region. It makes influential and often underrepresented works accessible in 15-minute reads.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/e4b9b786-7e6f-45ef-b448-0b03f076f3ce"
+      },
+      {
+        "id": "0dc135db-f6eb-4b60-9d45-55c8154add22",
+        "title": "Back to Routine Challenge",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-06-30T11:18:02.542268144Z",
+        "publishStartDate": "2026-10-11T11:00:01Z",
+        "description": "This challenge helps users transform their mornings from reactive to intentional. Small, research-backed habits around planning, energy, and calm give users a structured daily starting point, making the challenge easy to commit to and rewarding to maintain.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0dc135db-f6eb-4b60-9d45-55c8154add22"
       }
     ]
   },
@@ -92,104 +778,14 @@
     "appName": "Jodel: Hyperlocal Community",
     "data": [
       {
+        "id": "ac7d6148-d7b2-446d-865a-e2d1bbcff2f8",
         "title": "FI_Back2School2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-05T07:22:53.957121285Z",
+        "publishStartDate": "2025-08-24T11:00:01Z",
+        "description": "“Back to School” (B2S) is one of Finland’s biggest youth events, helping students ease back into daily life after summer every year. During this year’s B2S-period, Jodel hosts an in-app B2S campaign supporting both new and returning students with useful info, social opportunities, and campus updates. We partner with universities, student unions, and other organizations to provide verified content, Q&A sessions, and local insights. We promote our Student channels during the event, which are hubs for campus news and peer connections, enhanced with in-app games, matchmaking, and offline events. A dedicated event post links all activities, channels, and partner content, updated throughout the campaign. With its strong local student base, Jodel delivers high value during B2S and beyond, making it ideal for App Store featuring in Finland.",
         "url": "https://huxley.itunes.apple.com/v2/nominations/ac7d6148-d7b2-446d-865a-e2d1bbcff2f8"
-      }
-    ]
-  },
-  "6737470910": {
-    "appName": "Emma: Learn Languages",
-    "data": [
-      {
-        "title": "EMMA - New Languages Launch",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/c201c86c-ce7d-49f4-a9b4-269a84f6e831"
-      }
-    ]
-  },
-  "1661308505": {
-    "appName": "ChatOn AI - Chat Bot Assistant",
-    "data": [
-      {
-        "title": "Halloween In-App Event",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/b8fd6edc-2424-44ea-9968-0e8f2bb1d423"
-      },
-      {
-        "title": "Back to School",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/5d0c8c83-e0b6-4fcd-bf51-a036bec0cb44"
-      },
-      {
-        "title": "Pride Month with ChatOn",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/5c79778f-a8c3-4e6e-bea3-528e4375af78"
-      },
-      {
-        "title": "Voice Chat",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/4c807894-31d9-49c4-97f7-3744d1e811b5"
-      },
-      {
-        "title": "Christmas In-App Event",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/ceeab091-a3b8-46b3-a40c-dd744c05e017"
-      }
-    ]
-  },
-  "1595390736": {
-    "appName": "Instinct: Casual Dating App",
-    "data": []
-  },
-  "6751030141": {
-    "appName": "Astra AI: Study & Exam Prep",
-    "data": []
-  },
-  "1454762989": {
-    "appName": "Instories: AI Photo & Video",
-    "data": [
-      {
-        "title": "Mother's Day 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/632a4a96-81b7-4721-90b5-18e944351557"
-      },
-      {
-        "title": "Women's Day & Spring Content 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/02c852bc-b2b3-4677-9be1-34dd2592c94e"
-      },
-      {
-        "title": "Project Sharing",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/afa0aeb9-b859-4109-a4f0-fa25e5df5eab"
-      },
-      {
-        "title": "Halloween 2025: Mini-game",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/0eeb499b-5942-48f3-a676-4abe413b3418"
-      },
-      {
-        "title": "Liquid Glass",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/eb306314-ace2-4384-a101-175fdd494c68"
-      }
-    ]
-  },
-  "6642701963": {
-    "appName": "Ivy: Processed Food Scanner",
-    "data": []
-  },
-  "946099227": {
-    "appName": "AI Calorie Tracker by Yazio",
-    "data": [
-      {
-        "title": "IAE Influencer Event / Summer made Easy",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/217f15c3-e59b-40a2-836e-c881ef57172d"
-      },
-      {
-        "title": "BBQ Event 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/0bc3b22c-9e5d-4cd1-9da7-35c96a74421a"
-      },
-      {
-        "title": "Easter Event 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/3f8e6231-5aa8-4fca-974f-a8ae01f443b5"
-      },
-      {
-        "title": "New Year's 2025/2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/71dfa38f-4c62-48d0-9702-a8b6d4d82aa1"
-      },
-      {
-        "title": "Immune System Boosting Recipes 2025",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/c212fbb4-3e79-415a-a326-610100abfda0"
       }
     ]
   },
@@ -197,49 +793,881 @@
     "appName": "Babbel - Language Learning",
     "data": [
       {
-        "title": "Women's History Month courses",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/800ddf91-f73a-4bf7-b00d-702b826682e3"
+        "id": "0e5d5b29-7191-4907-9b95-63b286e92d90",
+        "title": "Streak Freeze/New Year Offer (Worldwide)",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-22T14:00:22.800081Z",
+        "publishStartDate": "2025-01-01T11:00:00.001Z",
+        "description": "We are running a worldwide in-app event, promoting our enhanced Streaks feature, with the new Streak Freeze option, focusing on keeping motivation for learning languages high in the New Year period. The in-app event has been approved and is going live on January 1st. \n\nDuring January, we'll also be running a New Year's offer in the Babbel app:\n\nMarkets: \na) Germany, Austria, Belgium, France, Italy, Switzerland, United Kingdom, Poland, Sweden, Spain, Australia, Netherlands. (January 3-20 2025)\nb) USA, Canada, Mexico, Brazil (January 6-12 2025)\n\nDiscount: \n55% off on on the 12-month subscription.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0e5d5b29-7191-4907-9b95-63b286e92d90"
       },
       {
-        "title": "Babbel New Year",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/9d5186b2-fe15-430e-98c7-c92a494a9cc2"
+        "id": "23729b6b-67a0-4841-a6ad-908ce62f6e34",
+        "title": "New Year Offer / Streaks (Americas)",
+        "type": "NEW_CONTENT",
+        "state": "ARCHIVED",
+        "submittedDate": "2024-11-22T17:34:37.741059Z",
+        "publishStartDate": "2025-01-06T11:00:00.001Z",
+        "description": "We'll be running a New Year's offer in the Babbel app:\n- Dates: January 6-12 2025\n- Markets: USA, Canada, Mexico, Brazil\n- Discount: 60% off on on the 12-month subscription\n\nThere will be an in-app event accompanying the promo, promoting our enhanced Streaks feature (with the new Streak freeze option), focusing on keeping motivation for learning languages high in the New Year period. The draft of the in-app event has been created and will be updated in the next week or two.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/23729b6b-67a0-4841-a6ad-908ce62f6e34"
       },
       {
-        "title": "Babbel Black Friday Sale '25",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/7810d0a0-1135-4530-a0cc-eb21357d1134"
+        "id": "96acde27-a28c-41bb-b8b0-901198573b60",
+        "title": "Mother Language Day",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-24T15:54:42.907763Z",
+        "publishStartDate": "2025-02-16T11:00:00.001Z",
+        "description": "EDIT 11.02.2025: We had to update the content we will be linking to in our event, and instead of the magazine article, we will be promoting an event linking to our 'English Trips' podcast. The messaging still revolves around Mother Language Day - since the podcast presents stories from countries where English is the official language, like Kenya, the US, India or the Philippines. I've chosen the 2024_02_Mother Language Day_New event below for reference.\n\nOLD DESCRIPTION: For International Mother Language Day (Feb 21), we will be publishing an article in the Babbel app Magazine section about the 10 most spoken mother tongues in the world. We will run an event about it, which is saved in our drafts (2024_02_Mother Language Day). We hope to attract users' attention to the diverse languages that are spoken worldwide and entice them to start their personal language learning journey.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/96acde27-a28c-41bb-b8b0-901198573b60"
       },
       {
-        "title": "Babbel Speak Launch",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/bdfc7245-b103-4b2c-8b7b-4169a865fb42"
+        "id": "0af912c4-5b5f-40a2-908a-65a91eff9c37",
+        "title": "Women's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-02-27T17:03:04.007062846Z",
+        "publishStartDate": "2025-03-03T11:00:00.001Z",
+        "description": "Theme: Gender Equity and empowerment\nWe'd like to promote the third lesson in our \"Gender & Identity\" English course, in which users can learn words and phrases related to campaigning for social justice, including gender equity, protesting against discrimination, and empowerment through language.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0af912c4-5b5f-40a2-908a-65a91eff9c37"
       },
       {
+        "id": "92995ed6-2c57-4764-bc7b-82dfe900e964",
+        "title": "French Language Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-02-27T17:02:53.903647745Z",
+        "publishStartDate": "2025-03-16T11:00:00.001Z",
+        "description": "On the occasion of French Language Day which happens on March 20th we are promoting the \"En Route vers le francais \" podcast, in which users can improve their French and train their listening skills – they join Noémie on her journey through the French-speaking world. From Africa to America, Europe and the Middle East: listen to real stories told by Francophones, and get valuable cultural insights in a learner-friendly format. The series can be fonud in the Explore tab in the Babbel app or on Apple Podcasts.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/92995ed6-2c57-4764-bc7b-82dfe900e964"
+      },
+      {
+        "id": "8084ef0f-d31b-4b5d-9065-6d3256c2c1b5",
+        "title": "English/Spanish Language Day",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-03-14T11:14:59.068413Z",
+        "publishStartDate": "2025-04-20T11:00:00.001Z",
+        "description": "On the occasion of Spanish and English Language Day which happen on April 23rd we are promoting our new AI Conversation Partner feature, in which users can practice practice speaking English or Spanish with AI. This stress-free experience helps users speak confidently in the real world. It's offered for users learning from English, French and German we therefore have to limit the in-app event to the UK, Australia, France, Germany, Austria and Switzerland.  The in-app event will be set up in early April.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/8084ef0f-d31b-4b5d-9065-6d3256c2c1b5"
+      },
+      {
+        "id": "da0217e3-c963-416f-b4c7-5fc43788f9c5",
         "title": "Back to Work | Aug | International",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-15T20:14:21.799054385Z",
+        "publishStartDate": "2025-09-01T11:00:01Z",
+        "description": "As we near the end of summer and gear up to go back to work, we would like to promote Babbel's value for the workplace, whether its for a new job or just to converse with coworkers.  As part of our welcome flow, users have the option to focus on lessons that include job-related vocabulary, offering a more direct and relevant learning experience.  We are focusing on EU countries with our related In-App Event.",
         "url": "https://huxley.itunes.apple.com/v2/nominations/da0217e3-c963-416f-b4c7-5fc43788f9c5"
       },
       {
-        "title": "New Year Offer / Streaks (Americas)",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/23729b6b-67a0-4841-a6ad-908ce62f6e34"
+        "id": "bdfc7245-b103-4b2c-8b7b-4169a865fb42",
+        "title": "Babbel Speak Launch",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-23T11:42:37.517278006Z",
+        "publishStartDate": "2025-10-14T11:00:01Z",
+        "description": "We're proud to introduce \"Babbel Speak\" in this release: a new, dedicated tab where users can confidently practice speaking a language (the feature is in beta in terms of available practice languages).  Inspired by user feedback,  Babbel Speak eliminates the guesswork of where to practice by bringing all speaking activities together in one intuitive space, voice-led and powered by AI, making it easier than ever to build clarity and confidence.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/bdfc7245-b103-4b2c-8b7b-4169a865fb42"
+      },
+      {
+        "id": "7810d0a0-1135-4530-a0cc-eb21357d1134",
+        "title": "Babbel Black Friday Sale  '25",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-27T14:04:05.545889752Z",
+        "publishStartDate": "2025-11-24T11:00:01Z",
+        "description": "Hello Apple team,\n\nWe’d like to nominate Babbel for feature consideration during Black Friday. As a leading language learning platform with localized lessons and strong retention, Babbel fits perfectly with seasonal interest in travel and personal growth.\n\nWe’ve recently updated Babbel Live to Babbel Speak, a new tab where users can confidently practice real conversations. We’d truly appreciate the opportunity to be featured.\n\nThank you,\nChris Curth\nBabbel Marketing",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/7810d0a0-1135-4530-a0cc-eb21357d1134"
+      },
+      {
+        "id": "9d5186b2-fe15-430e-98c7-c92a494a9cc2",
+        "title": "Babbel New Year",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-12-09T17:26:47.208389620Z",
+        "publishStartDate": "2025-12-26T11:00:01Z",
+        "description": "Hello Apple team,\n\nWe’d like to nominate Babbel for New Year feature consideration. With localized lessons, strong retention, and motivating streak features, Babbel aligns well with the season’s focus on fresh starts and personal growth. To help new users set goals for the year ahead, we’re offering 55% off our 12-month plan from December 26 to January 11. We’d greatly appreciate the opportunity to be featured.\n\nThank you,\nChris Curth\nBabbel Marketing",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/9d5186b2-fe15-430e-98c7-c92a494a9cc2"
+      },
+      {
+        "id": "800ddf91-f73a-4bf7-b00d-702b826682e3",
+        "title": "Women's History Month courses",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-02-05T19:31:30.753490451Z",
+        "publishStartDate": "2026-03-01T11:00:01Z",
+        "description": "Hello Apple team,\n\nWe’d like to nominate Babbel for feature consideration during Women’s History Month. This March, we’re highlighting curated content designed to help learners engage with the language of gender equality, feminism, and social justice.\n\nOur expert-led curriculum includes lessons across 14 languages that explore the context and modern usage of inclusive language, as well as the contributions of women to culture and society. These lessons are designed to support thoughtful, informed discussion and reflect Babbel’s ongoing commitment to cultural understanding through communication.\n\nWe’d appreciate your consideration to be featured.\n\nThank you,\nChris Curth\nBabbel Marketing",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/800ddf91-f73a-4bf7-b00d-702b826682e3"
       }
     ]
+  },
+  "929190059": {
+    "appName": "WOW",
+    "data": [
+      {
+        "id": "cd7de901-f86c-4bdd-883e-d94e459b9fca",
+        "title": "The Rookie S7",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-14T15:02:16.624369417Z",
+        "publishStartDate": "2025-01-20T11:00:00.001Z",
+        "description": "Die 7. Staffel von \"The Rookie\" - jetzt exklusiv mit WOW streamen\n\nDie beliebte Erfolgsserie geht in eine neue Runde. Die neuen Folgen der siebten Staffel sind jetzt in der Originalfassung verfügbar und ab 24. Januar auch auf Deutsch.\nDie kompletten Staffeln 1 - 6 stehen ebenfalls zur Verfügung.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/cd7de901-f86c-4bdd-883e-d94e459b9fca"
+      },
+      {
+        "id": "58e668e6-8a59-42f4-9cc9-80d52d9248c0",
+        "title": "Bundesliga | Leverkusen vs. Bayern",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-14T15:23:49.410548312Z",
+        "publishStartDate": "2025-02-13T11:00:00.001Z",
+        "description": "Bundesliga Top-Spiel\nBayer 04 Leverkusen vs. Bayern München am 15.2. live und exklusiv mit WOW streamen.\nDer amtierende Deutsche Meister trifft auf den Rekordmeister!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/58e668e6-8a59-42f4-9cc9-80d52d9248c0"
+      },
+      {
+        "id": "16c1f081-d8a9-4b12-a805-7e0dc087de88",
+        "title": "The White Lotus Staffel 3",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-14T15:07:14.393871615Z",
+        "publishStartDate": "2025-02-17T11:00:00.001Z",
+        "description": "\"THE WHITE LOTUS\" STAFFEL 3 STREAMEN - AB 17.2. EXKLUSIV BEI WOW\n\nDie preisgekrönte HBO-Serie \"The White Lotus\" geht in die dritte Runde und entführt die Zuschauer diesmal in ein luxuriöses thailändisches Resort.\nÜber eine Woche entfalten sich die Geschichten und Intrigen der Gäste und Angestellten, die hinter der glitzernden Fassade des Paradieses aufeinander treffen. Unerwartete Wendungen, komplexe Beziehungen und gut gehütete Geheimnisse verweben sich zu einem spannenden Netz aus Konflikten und Überraschungen.\nOb sich am Ende alles aufklärt oder nur noch chaotischer wird?\n\nAuch in der dritten Staffel verspricht die bissige Satire von Mike White feinsten Humor und große Gefühle.\n\n15 Emmy Awards für Staffeln 1 und 2 der HBO-Satireserie!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/16c1f081-d8a9-4b12-a805-7e0dc087de88"
+      },
+      {
+        "id": "083d65fe-ba01-43d0-a9ee-c9e049f1b013",
+        "title": "Beetlejuice Beetlejuice",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-17T09:14:37.025352901Z",
+        "publishStartDate": "2025-02-28T11:00:00.001Z",
+        "description": "Nach einer unerwarteten Familientragödie kehren drei Generationen der Familie Deetz nach Winter River zurück. Das Leben von Lydia, die noch immer von Beetlejuice heimgesucht wird, gerät völlig aus den Fugen, als ihre rebellische Teenager-Tochter Astrid das rätselhafte Modell der Stadt auf dem Dachboden entdeckt und das Tor zur Welt der Toten unbeabsichtigt geöffnet wird. Sowohl im Diesseits als auch im Jenseits braut sich alsbald Unheil zusammen. Nur eine Frage der Zeit also, bis jemand den Namen Beetlejuice dreimal ausspricht und der spitzbübische Dämon zurückkehrt, um seine ganz eigene Art von Chaos zu verbreiten.\nGenres: Fantasy, Horror, Komödie",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/083d65fe-ba01-43d0-a9ee-c9e049f1b013"
+      },
+      {
+        "id": "5d5f825b-fd80-4597-b012-8a0986ada396",
+        "title": "Gangs of London Staffel 3",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-17T09:24:30.456179662Z",
+        "publishStartDate": "2025-03-20T11:00:00.001Z",
+        "description": "Knallharte Crimeserie mit jeder Menge Action: In der Unterwelt Londons tobt ein brutaler Kampf um die Vorherrschaft im organisierten Verbrechen.\nStaffel 3 ist geplant für den 20.3.25.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5d5f825b-fd80-4597-b012-8a0986ada396"
+      },
+      {
+        "id": "16e11d2c-1110-4932-a66b-03db653c3c77",
+        "title": "Diese Ochsenknechts",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-17T09:19:10.318136281Z",
+        "publishStartDate": "2025-03-25T11:00:00.001Z",
+        "description": "\"Diese Ochsenknechts\" begleitet Natascha Ochsenknecht und ihre erwachsenen Kinder Cheyenne und Wilson Gonzalez bei den Höhen und Tiefen ihres Alltags.\nStaffel 4 ist geplant für den 25.3.25.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/16e11d2c-1110-4932-a66b-03db653c3c77"
+      },
+      {
+        "id": "4cd020e8-7fda-4a8a-9281-611bf1774fb2",
+        "title": "The Last of Us Staffel 2",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-03-04T14:51:17.045609256Z",
+        "publishStartDate": "2025-04-14T11:00:00.001Z",
+        "description": "Die Emmy®-prämierte Drama-Serie kehrt mit einer zweiten Staffel zurück und folgt in den neuen Episoden Joel und Ellie fünf Jahre nach den Geschehnissen der ersten Staffel. Pedro Pascal (\"Game of Thrones\") und Bella Ramsey (\"His Dark Materials\"-Staffel 2) übernehmen erneut die Hauptrollen.  Die siebenteilige Horrorserie startet am 14. April 2025 (jeden Montag eine neue Folge).",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/4cd020e8-7fda-4a8a-9281-611bf1774fb2"
+      },
+      {
+        "id": "a870abfd-0e58-407f-9e3a-b72fc015f195",
+        "title": "And Just Like That... S3",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-04-30T13:09:05.158381341Z",
+        "publishStartDate": "2025-05-29T11:00:01Z",
+        "description": "One of our top highlights in 2025: And Just Like That… S3\n\nSummer starts earlier on WOW this year: the third season of the popular HBO series \"And Just Like That...\" starts exclusively on WOW on May 29, shortly after the US premiere. There will be a new episode every week until the season finale on August 14.\n\nOur favorite New Yorkers are back! In Season 3, Carrie, Charlotte, Miranda & Co. face new challenges involving careers, family, and romantic chaos – as always, with style, wit, and heart. Whether it's a fresh start, self-discovery, or the never-ending game of love: in the city that never sleeps, things are never boring.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/a870abfd-0e58-407f-9e3a-b72fc015f195"
+      },
+      {
+        "id": "cc8d18d0-1ff7-4534-9be1-9ca8689f8118",
+        "title": "Konklave",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-28T12:06:47.911702968Z",
+        "publishStartDate": "2025-06-20T11:00:01Z",
+        "description": "Konklave - mit Ralph Fiennes\nNach dem Tod des Papstes leitet Ralph Fiennes als Kardinal die Wahl – und deckt ein Geheimnis mit Sprengkraft auf. Der oscargekrönte Thriller von Edward Berger (\"Im Westen nichts Neues\") startet am 20.6.25.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/cc8d18d0-1ff7-4534-9be1-9ca8689f8118"
+      },
+      {
+        "id": "2165d601-e158-4a92-932e-ce7ecf46159c",
+        "title": "Anora",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-28T12:10:01.029480242Z",
+        "publishStartDate": "2025-06-21T11:00:01Z",
+        "description": "Anora – eine Sexarbeiterin heiratet einen Oligarchensohn\nEine Sexarbeiterin aus New York und der Sohn eines russischen Oligarchen verlieben sich und heiraten in Las Vegas - zum Entsetzen seiner Familie.\nDie mit fünf Oscars prämierte Tragikomödie startet am 21.6.25.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/2165d601-e158-4a92-932e-ce7ecf46159c"
+      },
+      {
+        "id": "ebd31ce1-a6fc-42bd-b327-7b6ec0613809",
+        "title": "Wicked",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-28T12:03:30.262065876Z",
+        "publishStartDate": "2025-06-27T11:00:01Z",
+        "description": "Wicked – die Vorgeschichte zu \"Der Zauberer von Oz\"\nErster Teil der Verfilmung des Musical-Hits, mit Popstar Ariana Grande und Cynthia Erivo: Der Zauberer von Oz fordert die Freundschaft zweier ungleicher Hexen heraus.\nDas mit zwei Oscars ausgezeichnete Fantasy-Musical startet am 27.6.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/ebd31ce1-a6fc-42bd-b327-7b6ec0613809"
+      },
+      {
+        "id": "658b53cc-4402-42c6-9f25-908f208f1d51",
+        "title": "Black Week Offer 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-21T09:52:00.861549062Z",
+        "publishStartDate": "2025-11-25T11:00:01Z",
+        "description": "We will have a special offer for Black Week from Nov 25th – Dec 1st \n\nWOW Serien and WOW Filme both 50% off:\n\n- 3 months WOW Serien for 3,99€ per month instead of 7,99€ (after 3 months 7,99€ per month)\n- 3 months WOW Filme for 3,99€ per month instead of 7,99€ (after 3 months 7,99€ per month)",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/658b53cc-4402-42c6-9f25-908f208f1d51"
+      },
+      {
+        "id": "6355c009-95c9-4ede-af24-88de5cfa5712",
+        "title": "Euphoria Staffel 3",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-02-05T14:52:49.138048150Z",
+        "publishStartDate": "2026-04-13T11:00:01Z",
+        "description": "Die neuen Folgen der schonungslosen, wilden und schockierenden Dramaserie von Serienschöpfer Sam Levinson (\"The Idol\", \"MaXXXine\") starten am 13. April 2026. Zendaya spielt darin die Hauptrolle als drogenabhängige Schülerin Rue Bennett. Für ihre überzeugende Darstellung in den ersten beiden Staffeln wurde Zendaya mit 2 Emmy® Awards und einem Golden Globe® ausgezeichnet.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6355c009-95c9-4ede-af24-88de5cfa5712"
+      },
+      {
+        "id": "dba91b02-1141-4d46-a636-f5f806abe9f4",
+        "title": "House of the Dragon 3",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-05-28T11:17:04.558205953Z",
+        "publishStartDate": "2026-06-22T11:00:01Z",
+        "description": "Es geht zurück in die Geschichte der mächtigen Herrscherdynastie: Die dritte Staffel „House of the Dragon“ startet am 22. Juni bei WOW, am Tag nach der US-Ausstrahlung. Neue Episoden der achtteiligen Staffel folgen wöchentlich, bis zum Staffelfinale am 10. August. Die ersten beiden Staffeln sind weiterhin abrufbar.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/dba91b02-1141-4d46-a636-f5f806abe9f4"
+      },
+      {
+        "id": "b962b3ac-24f8-4322-b87e-cbf328432354",
+        "title": "Bundesliga | Start of Season 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-07-24T14:34:09.560733051Z",
+        "publishStartDate": "2026-08-26T11:00:01Z",
+        "description": "Die volle Dosis Fußball! Stream den Start in die neue Saison live mit Sky Sport bei WOW\nDie XXL-WM ist vorbei, die Enttäuschung verdaut und endlich kriegst du wieder, was dir wirklich wichtig ist – deinen Verein und der Start in die neue Spielzeit. Freistoß für den FC Bayern, Gegenpressing des BVB, Anschlusstreffer des HSV und das Stadion rastet aus. Überall steigt die Vorfreude auf den Anpfiff und du bist live dabei mit WOW: Bundesliga, 2. Bundesliga, DFB-Pokal, Premier League und die UEFA Europa League, all das kannst du mit Sky Sport bei WOW streamen. Was wir dir bieten? Alle Freitags- und Samstagsspiele der Bundesliga in voller Länge und ALLE Spiele der 2. Bundesliga, des DFB-Pokals und der Premier League in nur einem Abo. Jedes Tor, jeder Freistoß, jede strittige Entscheidung, jedes Mal wenn die Emotionen hochkochen bist du live dabei.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/b962b3ac-24f8-4322-b87e-cbf328432354"
+      }
+    ]
+  },
+  "946099227": {
+    "appName": "AI Calorie Tracker by Yazio",
+    "data": [
+      {
+        "id": "91864b30-8a03-4bda-8403-33d7d443adf1",
+        "title": "Veganuary 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-14T12:02:04.954196680Z",
+        "publishStartDate": "2025-01-01T11:00:00.001Z",
+        "description": "To help our users kick off the new year strong and healthy, we will run a global Veganuary In-App Event for all of January. \n\nIn this event, we will share our special Veganuary recipe collection with 50 delicious, vegan, easy-to-track recipes. With dishes ranging from Thai Peanut Noodle Soup, Vegan Pumpkin Lasagna, Teriyaki Tofu with Roasted Green Onions and Mexican One Pot Pasta to Tiramisu Overnight Oats, Vegan Nut Butter Brownies and Oatmeal Blueberry Pancakes, we have recipes for every taste and occasion.\n\nWith this wide variety of vegan recipes, we not only want to cater to the needs of our vegan users, but also make it as easy as possible for everyone who wants to take the new year as an opportunity to follow a more balanced diet and lifestyle.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/91864b30-8a03-4bda-8403-33d7d443adf1"
+      },
+      {
+        "id": "accb37d3-2234-4c14-9ca2-03b548d15e1c",
+        "title": "Valentine's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-14T05:33:43.134271070Z",
+        "publishStartDate": "2025-02-10T11:00:00.001Z",
+        "description": "Love and affection can be expressed in many different ways. And while a picture might be worth a thousand words, a delicious, home-cooked meal is worth at least a thousand more! \n\nWhether someone’s getting ready for an exciting first-date or wants to surprise their significant other with a 5-course meal at home, our Valentine’s Day recipe collection covers it all. \nHere’s a quick sneak peek: Carrot Ginger Soup, Chicken Parmesan Gnocchi Casserole, Baked Salmon with Pomegranate Relish, Blueberry Crumble, Chocolate Pomegranate Pralines and many more.\n\nTo share this recipe collection, we will run a global Valentine’s Day In-App Event from February 10 to February 14, 2025. It will be localized for EN, DE, FR, IT, NL, ES and ZH.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/accb37d3-2234-4c14-9ca2-03b548d15e1c"
+      },
+      {
+        "id": "f1a14c4d-4258-4eb8-97bb-4779d01ea829",
+        "title": "American Picks 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-14T05:40:15.766932590Z",
+        "publishStartDate": "2025-02-15T11:00:00.001Z",
+        "description": "When people think of American cuisine, the first thing that usually comes to mind are cheeseburgers and fries. But there’s so much more to it than that! \n\nWhile typical fast food dishes play a big part, of course, the American cuisine actually combines all kinds of culinary creations from all over the world. And that’s what we want our users to enjoy and experience first-hand! \n\nWith our In-App Event “American Picks” we will promote our recipe collection with the same name, which contains 50 delicious, healthy takes on American classics. \nHere’s a little taste of what to look forward to: No-Tuna Sandwich, S’mores Bars, Huevos Rancheros, Sweet Potato Black Bean Chili, Baked Butternut Squas Mac & Cheese, Fish Tacos with Coleslaw, Maryland Crab Cakes with Coleslaw, Veggie Breakfast Burrito, Philly Cheesesteak Stuffed Portobellos, BBQ Meatloaf Muffins with Sweet Potato, and many more.\n\nThis In-App Event will run from February 15 to 28, 2025.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f1a14c4d-4258-4eb8-97bb-4779d01ea829"
+      },
+      {
+        "id": "1ab1c442-7fc4-47eb-b383-1499f94c0eca",
+        "title": "Wedding Season 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-04-03T07:18:07.458797965Z",
+        "publishStartDate": "2025-05-01T11:00:01Z",
+        "description": "Since most people want to get married in the summer, spring tends to be the season to get ready for the big day. Besides taking care of all the planning and external factors, a big part of this is also to get yourself ready. What this looks like exactly can vary from person to person, ranging from reaching a certain feel-good weight to taking care of your mental and overall well-being. \n\nTo help the soon-to-be newly-weds feel great inside and out, we’ve created a special “Wedding Prep” recipe collection with 60 light, nutritious and delicious dishes, such as Carrot Zucchini Spaghetti with Avocado Sauce, Thai Lettuce Wraps with Peanut Sauce, Potato Waffles with Dried Tomatoes, Frozen Yogurt Bars, Cherry Nice Cream, and many more.\n\nWe’ll share this recipe collection as part of our In-App Event “Wedding Prep \nDishes”, which will run globally from May 1 to May 11.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/1ab1c442-7fc4-47eb-b383-1499f94c0eca"
+      },
+      {
+        "id": "0d13158c-6379-4546-99e5-2681cc8343e3",
+        "title": "Strawberry Season 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-22T15:05:32.718287177Z",
+        "publishStartDate": "2025-06-13T11:00:01Z",
+        "description": "Summer is full of beautiful little joys, this delicious red berry being one of them! To help people discover its full, tasty potential, we’ve created a whole recipe collection just dedicated to strawberries–from muffins and nice cream to grilled chicken strawberry skewers. \n\nWe’ll share this recipe collection as part of our In-App Event “Scrumptious Strawberry Snacks”, which will run globally from June 13 to June 30, 2025.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0d13158c-6379-4546-99e5-2681cc8343e3"
+      },
+      {
+        "id": "62494a27-f3d9-4b5b-95b1-d319c23d49b9",
+        "title": "AI Food Tracking",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-07-18T10:46:10.921495811Z",
+        "publishStartDate": "2025-08-04T11:00:01Z",
+        "description": "So many people asked for it and now it's finally here: YAZIO AI Food Tracking! With this brand-new feature, users can simply take a picture of their meal and then we'll calculate its calorie and macronutrient contents in seconds. The user can then review our calculation, make adjustments if necessary, and confirm it. That's it! No more tedious weighing every ingredient of your meal or wondering how to track your meal at a restaurant.\n\nAnd it gets even better: The feature is completely free! This is very unusual, but we decided not to hide this feature behind a paywall because we want to make healthy nutrition accessible to and enjoyable for everyone and we believe this feature will play a huge part in that. \n\nCurrently, this feature is available in DE and US and we'll run an In-App Event (ID: 6748689774) in these two countries from August 4 to September 4 to promote this new feature.\nA global roll-out will follow in the near future as well.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/62494a27-f3d9-4b5b-95b1-d319c23d49b9"
+      },
+      {
+        "id": "a4a21937-cd80-43ac-b75d-1fb12e7ffe52",
+        "title": "Back to School 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-07T14:03:14.213676936Z",
+        "publishStartDate": "2025-09-05T11:00:01Z",
+        "description": "September marks the end of summer. And that means: it's Back to School time! This not only affects kids and students who are literally going back to school, but anyone who's going back to their normal schedule after enjoying the more easy-going-vibe of summer. \nSince going back to one's normal schedule can get pretty hectic, we created a brand-new Meal Prep recipe collection that should help our users stay on track by always having a delicious, nutritious meal at hand despite busy everyday life–from Gnocchi Salad and Honey Garlic Chicken Fried Rice to Chocolate Banana Chia Pudding and Sheet Pan Strawberry Pancakes.\n\nTo promote this new recipe collection, we'll run a global In-App Event (https://apps.apple.com/us/app/id946099227?eventid=6746490610), which will be localized for EN, DE, FR, IT, NL, ES and ZH.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/a4a21937-cd80-43ac-b75d-1fb12e7ffe52"
+      },
+      {
+        "id": "e1136387-51d2-488f-b66a-bcb7d430fd01",
+        "title": "Halloween 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-08T10:30:02.587392253Z",
+        "publishStartDate": "2025-10-13T11:00:01Z",
+        "description": "Trick or Treat!\n\nWell, with our Halloween In-App Event in October there will actually only be treats this year as we'll be sharing our special Halloween recipe collection. This collection consists of 50 recipes, from Mini Mummy Pizzas to No Bake Pumpkin Bites and Butternut Mole Enchiladas, which not only taste great but also look the part, turning any Halloween party into an unforgettable event.\n\nWith this global In-App Event (https://apps.apple.com/us/app/id946099227?eventid=6748753753) we want to help people worldwide enjoy Halloween to the fullest while still enjoying tasty and nutritious food–thus staying on track with their health goals–at the same time.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/e1136387-51d2-488f-b66a-bcb7d430fd01"
+      },
+      {
+        "id": "c212fbb4-3e79-415a-a326-610100abfda0",
+        "title": "Immune System Boosting Recipes 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-12T10:37:06.441475427Z",
+        "publishStartDate": "2025-11-01T11:00:01Z",
+        "description": "While winter has many beautiful things to offer, it's also the time that's most challenging for our immune system, unfortunately. So why not do everything you can to support it? \n\nThat's what we asked ourselves when we came up with our \"Immune System Boosters\" recipe collection. As the name says, it consists of 50 recipes which aren't only easy to prepare and taste delicious, but are also packed with nutrients that can help stay healthy throughout the colder time of year. Here's a little sneak peek: Orange Shakshuka with Butternut Squash, Sushi Bowl with Salmon, Sweet Potato Black Bean Chili, Matcha Black Sesame Nice Cream, and many more.\n\nTo support as many people as possible, we'll run a global In-App Event (https://apps.apple.com/us/app/id946099227?eventid=6749446208) in November.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c212fbb4-3e79-415a-a326-610100abfda0"
+      },
+      {
+        "id": "71dfa38f-4c62-48d0-9702-a8b6d4d82aa1",
+        "title": "New Year's 2025/2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-27T14:25:13.453876178Z",
+        "publishStartDate": "2025-12-25T11:00:01Z",
+        "description": "If you look closely, most New Year's resolutions have to do with habits–whether it's getting rid of bad habits or building new, healthy habits. And for many, this can feel like an overwhelming and intimidating challenge, especially after the initial drive and motivation start to subside. But that's not how it has to be.\n\nWith our New Year's In-App Event (https://apps.apple.com/us/app/id946099227?eventid=6749693885), we want to show as many people as possible that healthy habits aren't as scary or unattainable as they might think, and that healthy, balanced eating can actually be fun and delicious.\nThis event will feature our \"Brand-new recipes\" recipe collection, which consists of 80 of our most recent additions to our recipe database, including Vegan Bao Buns, Gyro Soup, Chicken Pan Pizza with Jalapeños, Pistachio Muffins, Lemon Cake, and many more.\n\nThanks a lot in advance for considering us for a featuring!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/71dfa38f-4c62-48d0-9702-a8b6d4d82aa1"
+      },
+      {
+        "id": "3f8e6231-5aa8-4fca-974f-a8ae01f443b5",
+        "title": "Easter Event 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-03T18:44:10.191673903Z",
+        "publishStartDate": "2026-04-01T11:00:01Z",
+        "description": "Easter represents renewal — a moment to reset routines, rediscover balance, and enjoy seasonal food. That’s the idea behind our upcoming Easter In-App Event.\n\nWe’ll introduce a curated Easter recipe collection featuring spring-inspired dishes that feel celebratory while supporting healthy habits. To drive engagement, we’ll incorporate a playful in-app Easter Egg Hunt connected to themed emails and push notifications, encouraging discovery and retention throughout the holiday period.\n\nThe campaign includes a seasonal icon update, a global In-App Event, and a localized version for Germany with market-specific creatives. We’ll reinforce visibility through increased social media activity and coordinated email moments before, during, and after Easter.\n\nThank you for considering us for featuring.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/3f8e6231-5aa8-4fca-974f-a8ae01f443b5"
+      },
+      {
+        "id": "0bc3b22c-9e5d-4cd1-9da7-35c96a74421a",
+        "title": "BBQ Event 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-26T10:57:40.785120171Z",
+        "publishStartDate": "2026-05-08T11:00:01Z",
+        "description": "BBQ season marks the start of longer days, outdoor moments, and shared meals — a time when food becomes a social experience. That’s the inspiration behind our upcoming BBQ In-App Event.\n\nWe’ll launch a curated BBQ recipe collection featuring crowd-pleasing dishes designed for outdoor cooking — from lighter, healthy options to indulgent seasonal favorites. The goal is to help users enjoy BBQ season without compromising on balance, making healthy choices feel natural and enjoyable.\n\nTo drive engagement, the event will be supported by push notifications and increased social media activity aligned with peak seasonal interest. We’ll also introduce a BBQ-themed icon update to reinforce visibility and relevance across the App Store.\n\nThe event will run globally from May 8th to May 22nd, following a post-Easter UA ramp-up to maximize reach and impact.\n\nThank you for considering us for featuring — we’re excited to bring BBQ season to life for our users.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0bc3b22c-9e5d-4cd1-9da7-35c96a74421a"
+      },
+      {
+        "id": "217f15c3-e59b-40a2-836e-c881ef57172d",
+        "title": "IAE Influencer Event / Summer made Easy",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-05-15T10:08:41.881060523Z",
+        "publishStartDate": "2026-06-01T11:00:01Z",
+        "description": "Summer Made Simple is a seasonal in-app event designed to help users get ready for summer with delicious, low-effort recipes made with five ingredients or less. The event will highlight our few_ingredients recipe cluster, making healthy eating feel simple, practical, and inspiring during a moment when many users are looking for lighter, easier meal ideas.\n\nWe plan to launch the event on June 1st to align with a major influencer activation, which we expect to bring strong attention and traffic to the app. The experience will also be supported by a new Diary Card, CRM pushes to re-engage users, and a summer-themed app icon for two weeks.\n\nBy combining in-app content, seasonal creative assets, CRM, influencer marketing, and App Store promotion, this event is built to create a cohesive summer moment that drives discovery, engagement, and recipe exploration.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/217f15c3-e59b-40a2-836e-c881ef57172d"
+      }
+    ]
+  },
+  "1209129603": {
+    "appName": "calimoto Motorcycle Navigation",
+    "data": [
+      {
+        "id": "c7521533-be76-472e-b105-26ac8189e4e4",
+        "title": "TomTom2",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-27T09:56:52.457398460Z",
+        "publishStartDate": "2025-09-12T11:00:01Z",
+        "description": "Road closures aren´t a problem anymore: calimoto makes it unique.\nOur riders have been asking for this for years and now it’s finally here, exclusively in calimoto and unmatched in the motorcycle navigation market. In close collaboration with TomTom, calimoto now detects closed and restricted roads directly on the map and automatically reroutes around them. Riders can see detailed POIs, plan tours without interruptions, and stay flexible even when closures appear mid-ride. This feature delivers real value: more control, safety, and freedom for motorcyclists. It’s a first in our category, solving a major pain point and showcasing strong technical innovation. Its uniqueness, user demand, and impact on the riding experience make it a standout candidate for an Apple Store feature nomination.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c7521533-be76-472e-b105-26ac8189e4e4"
+      }
+    ]
+  },
+  "1454762989": {
+    "appName": "Instories: AI Photo & Video",
+    "data": [
+      {
+        "id": "7e16c7a9-194b-418d-9b28-5145909dd03c",
+        "title": "Thanksgiving 2024",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-19T19:12:03.762199483Z",
+        "publishStartDate": "2024-11-27T11:00:00.001Z",
+        "description": "Hi App Store Team,\n\nWith Thanksgiving just around the corner, we excited to help users create meaningful and engaging content to celebrate this special season. We’re going to add a collection of Thanksgiving-themed templates, perfect for creating festive Reels and Stories effortlessly.\n\nThese templates are designed to:\n- Inspire creativity with warm, seasonal designs.\n- Simplify content creation for Thanksgiving gatherings, promotions, and messages of gratitude.\n- Enable users to create polished content in just minutes, even with no prior editing experience.\n\nWe believe these features align perfectly with the spirit of Thanksgiving and will resonate strongly with users during the holiday season.\n\nLooking forward to hearing your thoughts!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/7e16c7a9-194b-418d-9b28-5145909dd03c"
+      },
+      {
+        "id": "e3f2118a-ff91-4e8a-9644-1b8a02405b45",
+        "title": "Black Friday 2024",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-19T19:06:24.361151271Z",
+        "publishStartDate": "2024-11-27T11:00:00.001Z",
+        "description": "Hi App Store team,\n\nWe want to nominate our new Black Friday offer for featuring.\nDates: Black Friday: November 22 - December 1\n\nWe have implemented a gamified approach where the user will be invited to play a Fortune Wheel where they will win a discount.\nA random fortune wheel offering users discounts from 20% to 70%, triggered after the onboarding paywall, via push notifications, or from the main page.\n\nAlso we’ve added fresh, ready-to-use Black Friday and Cyber Monday-themed templates, because we understand that Reels and Stories templates are especially helpful for small businesses, making it simpler to create eye-catching Black Friday content.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/e3f2118a-ff91-4e8a-9644-1b8a02405b45"
+      },
+      {
+        "id": "526fa073-02b0-4bf2-a4fe-10911cb0cb92",
+        "title": "Christmas 2024/25",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-12-13T21:20:27.435948Z",
+        "publishStartDate": "2024-12-25T11:00:00.001Z",
+        "description": "Instories is ready for the holiday season!\n\nWe’ve recently added exclusive Christmas-themed content, including festive stickers and templates designed specifically for Reels creation.\n\nWith these new features, users can easily craft joyful, shareable holiday content—perfect for celebrating the season with family and friends. Our Christmas update has been thoughtfully designed to bring creativity and fun to users during this special time of year.\nWe believe this update aligns with the seasonal spirit and provides a delightful experience for App Store users.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/526fa073-02b0-4bf2-a4fe-10911cb0cb92"
+      },
+      {
+        "id": "7547dfa5-dcb3-4c7c-b4bc-06821f0dd4d0",
+        "title": "New Year recaps 2024/25",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-12-13T21:51:20.074479596Z",
+        "publishStartDate": "2025-01-01T11:00:00.001Z",
+        "description": "Our future update brings exclusive New Year’s content to help users celebrate 2024 in style!\nWe’ve added Reels templates designed for year-in-review recaps, as well as vibrant New Year-themed stickers and creative elements.\nThis update inspires users to share unforgettable memories with engaging content!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/7547dfa5-dcb3-4c7c-b4bc-06821f0dd4d0"
+      },
+      {
+        "id": "03d63f54-d5b5-43b6-8c70-feb9914d99f9",
+        "title": "Super Bowl 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-18T19:03:44.280600493Z",
+        "publishStartDate": "2025-02-08T11:00:00.001Z",
+        "description": "We are excited to share the latest update for our app, specially designed for the upcoming Super Bowl 2025! This update includes exclusive football-themed content, such as stickers, custom filters, and high-quality templates tailored for Reels and Stories.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/03d63f54-d5b5-43b6-8c70-feb9914d99f9"
+      },
+      {
+        "id": "6696cffa-5eb0-4b2e-8e57-11413ad59c40",
+        "title": "Saint Valentine's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-18T19:18:36.027687668Z",
+        "publishStartDate": "2025-02-14T11:00:00.001Z",
+        "description": "We’re thrilled to share our special Valentine’s Day update for Instories, designed to help users express love and creativity during this romantic season! This update introduces exclusive Valentine’s-themed content, including heartfelt stickers, elegant templates, and custom filters tailored for creating stunning Reels and Stories.\n\nIn addition to this, we’ve added exciting gamification mechanics to boost user engagement.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6696cffa-5eb0-4b2e-8e57-11413ad59c40"
+      },
+      {
+        "id": "3353462c-d311-4aad-b2ce-5a54ac403352",
+        "title": "Women's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-02-18T18:01:31.170457611Z",
+        "publishStartDate": "2025-03-03T11:00:00.001Z",
+        "description": "Celebrate the power of women! 💜✨ Instories presents bold, modern templates inspired by creativity, resilience, and equality to honor International Women’s Day. Whether you’re sharing inspiring stories, highlighting achievements, or expressing solidarity, our AI-powered video editor makes it effortless. Let’s amplify voices, embrace diversity, and celebrate the incredible women shaping our world!\n\nWe’re adding 12+ templates +2 library set to help users create meaningful content for this global day of recognition and empowerment.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/3353462c-d311-4aad-b2ce-5a54ac403352"
+      },
+      {
+        "id": "585774de-00dc-4ede-b328-697654cd7872",
+        "title": "St. Patrick's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.029295638Z",
+        "publishStartDate": "2025-03-04T00:00:00Z",
+        "description": "Get ready for a shamrock-filled St. Patrick’s Day! 🍀 Instories is bringing you festive stickers, fun Reels templates, and magical effects to make your celebrations stand out. From golden coins to lucky clovers, we’ve got everything to help you create eye-catching content with just a few taps. Let the creativity flow and share the luck!  We're adding 6+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/585774de-00dc-4ede-b328-697654cd7872"
+      },
+      {
+        "id": "601ded8f-47df-462a-8ac0-fe434d8abe36",
+        "title": "Easter 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.084458710Z",
+        "publishStartDate": "2025-03-05T00:00:00Z",
+        "description": "Hop into the Easter spirit with Instories! 🐰🥚 We’ve packed this update with perfect templates and adorable stickers to make your Easter Reels and Stories extra festive. Capture every joyful moment—from egg hunts to family gatherings—with stylish transitions and animated edits. Let’s make this Easter egg-stra special!  We're adding 20+ templates + library sets",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/601ded8f-47df-462a-8ac0-fe434d8abe36"
+      },
+      {
+        "id": "5a390b1d-3dc6-4f28-9209-8a5b49080e8d",
+        "title": "Earth Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:27.953087650Z",
+        "publishStartDate": "2025-03-06T00:00:00Z",
+        "description": "Celebrate Earth Day with creative storytelling! 🌍💚 Instories is launching eco-inspired templates, nature-themed stickers to highlight sustainability and love for our planet. Whether you’re spreading awareness or capturing the beauty of nature, our AI-powered tools help you make an impact. Let’s create for a greener future! We're adding 10+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5a390b1d-3dc6-4f28-9209-8a5b49080e8d"
+      },
+      {
+        "id": "2e6e0eea-2afd-4f00-9b1d-17ea0425f20d",
+        "title": "Teacher's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:27.993537196Z",
+        "publishStartDate": "2025-03-07T00:00:00Z",
+        "description": "Thank you, teachers! 🍎📚 Instories is celebrating Teacher’s Day with heartfelt templates, inspiring fonts, and stickers to express gratitude. Whether you're a student sharing appreciation or an educator inspiring the next generation, our AI-enhanced editor makes it easy to create meaningful Reels and Stories. Let’s honor the incredible work of teachers everywhere!\n We're adding 6+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/2e6e0eea-2afd-4f00-9b1d-17ea0425f20d"
+      },
+      {
+        "id": "bf2d0369-b0ba-4284-8fa8-806376bf21a9",
+        "title": "Memorial day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.067187964Z",
+        "publishStartDate": "2025-03-09T00:00:00Z",
+        "description": "Honoring heroes with Instories. 🇺🇸 On Memorial Day, we’re offering patriotic-themed templates to help you create respectful and heartfelt tributes. Whether sharing memories or expressing gratitude, our tools make it easy to craft powerful visual stories. We're adding 6+ templates",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/bf2d0369-b0ba-4284-8fa8-806376bf21a9"
+      },
+      {
+        "id": "803b9f29-160e-4c54-824e-7c4ed42750c4",
+        "title": "Father's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.064705220Z",
+        "publishStartDate": "2025-03-11T00:00:00Z",
+        "description": "Dads deserve the spotlight! 🎉💙 Instories brings you bold fonts, classic filters, and stylish templates to create heartfelt Father’s Day content. Whether it's throwback moments or funny dad jokes, our AI-powered video editor makes storytelling easier than ever. Let’s celebrate the fathers who inspire us every day!\n We're adding 6+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/803b9f29-160e-4c54-824e-7c4ed42750c4"
+      },
+      {
+        "id": "40c46b0b-1d2d-40fe-b417-8111ddf24595",
+        "title": "Halloween 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.104343015Z",
+        "publishStartDate": "2025-03-16T00:00:00Z",
+        "description": "Spooky season is here! 🎃👻 Instories is haunting your feed with eerie templates, chilling effects, and creepy-cool stickers. Whether you’re sharing costumes, horror stories, or Halloween party moments, our AI-powered tools bring the magic of the season to life. Let’s make your Reels frightfully fun! We're adding 30+ templates + many libraries",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/40c46b0b-1d2d-40fe-b417-8111ddf24595"
+      },
+      {
+        "id": "8fb01751-1ffc-49f1-b082-fbc359896281",
+        "title": "Mother's Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-05T14:52:25.797304794Z",
+        "publishStartDate": "2025-05-05T11:00:01Z",
+        "description": "We have created 20 new templates dedicated to Mother's Day. With their help, users will be able to quickly create heartfelt and aesthetic videos and reels to congratulate the closest people in the world — their mothers, or share with the world the joy of their own motherhood.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/8fb01751-1ffc-49f1-b082-fbc359896281"
+      },
+      {
+        "id": "46c01ef9-b567-4a93-8b80-e5c814be2d8c",
+        "title": "Independence Day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:27.984053Z",
+        "publishStartDate": "2025-07-01T11:00:01Z",
+        "description": "Stars, stripes, and stunning edits! 🇺🇸🎇 Instories is bringing you patriotic templates, bold fonts, and firework-inspired effects for your 4th of July Reels. Whether you’re capturing BBQs, parades, or fireworks, our AI tools help you create vibrant, eye-catching content in seconds. Let’s celebrate freedom with creativity! We're adding 6+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/46c01ef9-b567-4a93-8b80-e5c814be2d8c"
+      },
+      {
+        "id": "3f9c03ad-4925-4788-8cb8-fe369bf9a4bd",
+        "title": "Vacation Season 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.176761Z",
+        "publishStartDate": "2025-07-16T11:00:01Z",
+        "description": "Vacation mode: ON! 🌴✈️ Instories is packed with summer-ready templates, travel-inspired stickers, and cinematic transitions to make your vacation Reels pop! Whether you’re lounging on the beach or exploring new destinations, our editor helps you turn moments into memories effortlessly.\n We're adding 20+ templates + seasonal effects and transitions",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/3f9c03ad-4925-4788-8cb8-fe369bf9a4bd"
+      },
+      {
+        "id": "be3c0119-4da2-46b3-9c14-331c2865c698",
+        "title": "Labor day 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.109117Z",
+        "publishStartDate": "2025-08-29T11:00:01Z",
+        "description": "Celebrate hard work with creativity! 💼✨ Instories is rolling out stylish templates and inspiring stickers to honor Labor Day. Whether you're spotlighting achievements or enjoying the long weekend, our AI editor helps you create engaging, high-quality content effortlessly. We're adding 6+ templates + 1 library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/be3c0119-4da2-46b3-9c14-331c2865c698"
+      },
+      {
+        "id": "eb306314-ace2-4384-a101-175fdd494c68",
+        "title": "Liquid Glass",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-19T15:05:28.491251143Z",
+        "publishStartDate": "2025-09-29T11:00:01Z",
+        "description": "Our app brings a fresh creative twist inspired by Apple’s new Liquid Glass design language. We’ve introduced a unique collection of stickers and visual effects that replicate this fluid, glass-like aesthetic. These elements allow users to enhance their photos and stories with a modern, elegant look that feels perfectly aligned with today’s design trends.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/eb306314-ace2-4384-a101-175fdd494c68"
+      },
+      {
+        "id": "0eeb499b-5942-48f3-a676-4abe413b3418",
+        "title": "Halloween 2025: Mini-game",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-02T15:48:15.334298910Z",
+        "publishStartDate": "2025-10-24T11:00:01Z",
+        "description": "This Halloween, InStories is launching a special in-app mini-game to celebrate the holiday and engage our community with a fun, interactive experience.\nThe game is already live in the app, and we are ready for promotion.\n\nPlayers receive a festive push notification inviting them to join the game.\nAfter tapping Start the game, a pumpkin bursts open with flying emojis.\n\nBy tapping on the emojis, users can instantly reveal a surprise discount.\nThe game can be replayed unlimited times, but the maximum discount available is 70% off. There are 7 discount tiers (10%, 20%, 30%, 40%, 50%, 60%, 70%), which keeps the experience dynamic and rewarding.\n\nThis seasonal mini-game brings a sense of fun and festivity directly inside the app, while encouraging users to come back and explore. It creates a timely, engaging moment that enhances user experience and drives higher retention during the holiday period.\n\nWe’ve attached a short presentation with visuals showing how the game works in the app.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/0eeb499b-5942-48f3-a676-4abe413b3418"
+      },
+      {
+        "id": "aa397b3f-d6b9-4262-b3b0-74d5d0e243ea",
+        "title": "Black Friday 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.111014Z",
+        "publishStartDate": "2025-11-24T11:00:01Z",
+        "description": "Flash deals deserve flashy content! ⚡🛍️ Instories is here with bold templates, eye-catching fonts, and animated stickers to help you promote Black Friday like a pro. Whether you’re sharing top deals or hunting for discounts, our AI-powered editor makes content creation effortless. Let’s make this sale season unforgettable! We're adding 30+ templates + many libraries",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/aa397b3f-d6b9-4262-b3b0-74d5d0e243ea"
+      },
+      {
+        "id": "f329df5b-e761-4a98-b914-a3b9269348d3",
+        "title": "Cyber Monday 2025",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.089464Z",
+        "publishStartDate": "2025-11-24T11:00:01Z",
+        "description": "Click, shop, create! 🖥️🛒 Instories is your secret weapon for Cyber Monday promotions. Our sleek templates, neon effects, and modern fonts help your Reels and Stories stand out. Whether you’re a seller or a shopper, our AI-powered tools make your content shine. Let’s go viral this Cyber Monday! We're adding 6+ templates + library set",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/f329df5b-e761-4a98-b914-a3b9269348d3"
+      },
+      {
+        "id": "afa0aeb9-b859-4109-a4f0-fa25e5df5eab",
+        "title": "Project Sharing",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-11-21T15:53:08.005127306Z",
+        "publishStartDate": "2025-12-13T11:00:01Z",
+        "description": "Many professional InStories users collaborate with teammates or clients throughout the creative process and need a fast way to share and work on projects together. Until now, this mostly happened through exporting and sending project files back and forth.\n\nWith this update, InStories introduces project link sharing with collaborative editing. Users can generate a link to a project and share it with colleagues or customers, giving them access to the same file rather than separate copies. Everyone involved can work on the project — make adjustments, update timing, formatting, and layout — directly in the shared workspace.\n\nThis creates a smoother feedback loop and keeps teams aligned: no duplicated files, no mismatched versions, and no need to constantly re-export. For designers, marketers, social media managers, agencies and content teams, link-based collaboration turns InStories into a shared creative environment where decisions can be made quickly and work can move forward together.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/afa0aeb9-b859-4109-a4f0-fa25e5df5eab"
+      },
+      {
+        "id": "8dd54dff-2fbb-4c4d-9ade-42792028b6a8",
+        "title": "Xmas 2025/26",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.113203Z",
+        "publishStartDate": "2025-12-25T11:00:01Z",
+        "description": "Make your holiday content sparkle! 🎄✨ Instories is packed with festive templates for business, cozy filters, and charming stickers to bring Christmas magic to your Reels. Whether sharing family traditions, gifts, or holiday cheer, our AI-powered editor makes every moment shine. Let’s create a winter wonderland together! We're adding 30+ templates + many libraries",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/8dd54dff-2fbb-4c4d-9ade-42792028b6a8"
+      },
+      {
+        "id": "6a3fdcd2-4577-4ed9-9136-e03d8a248530",
+        "title": "New Year 2025/26",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-01-30T21:40:28.104101440Z",
+        "publishStartDate": "2025-12-26T00:00:00Z",
+        "description": "New Year, new content! 🎆🥂 Instories is here with stylish recap templates, glowing filters, and elegant fonts to help you reflect on 2025 and ring in 2026 with style. Whether you’re sharing highlights or setting resolutions, our AI-powered editor ensures every Reel feels cinematic. Let’s start the year with creativity! We're adding 30+ templates + many libraries",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/6a3fdcd2-4577-4ed9-9136-e03d8a248530"
+      },
+      {
+        "id": "02c852bc-b2b3-4677-9be1-34dd2592c94e",
+        "title": "Women's Day & Spring Content 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-02-20T12:28:29.163674Z",
+        "publishStartDate": "2026-03-08T11:00:01Z",
+        "description": "We’ve introduced a new collection of spring-themed templates inspired by International Women’s Day and seasonal content trends. The update includes fresh layouts, vibrant visuals, and ready-to-use designs for empowering posts, stories, and short-form videos.\n\nUsers can easily create celebratory and inspirational content tailored for social media, making it simple to share messages of appreciation, confidence, and new beginnings throughout the season.\n\nIf International Women’s Day is not a fit for featuring, our new spring-themed templates also offer a broader seasonal angle and would be equally relevant for spring collections.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/02c852bc-b2b3-4677-9be1-34dd2592c94e"
+      },
+      {
+        "id": "632a4a96-81b7-4721-90b5-18e944351557",
+        "title": "Mother's Day 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-04-23T11:38:54.649288380Z",
+        "publishStartDate": "2026-05-10T11:00:01Z",
+        "description": "We’re launching a dedicated Mother’s Day template collection designed for both personal and business use. It includes story and post templates, as well as short video layouts for heartfelt greetings and seasonal campaigns.\n\nUsers can quickly create emotional and visually appealing content - from personal messages to branded social media posts. Templates are easy to customize and can be enhanced with AI tools for more unique and engaging results.\n\nOur product offers an all-in-one creative flow, combining inspiration, AI generation, and full editing in a single app, making content creation fast and accessible for everyone.\n\nThe collection is suitable for a wide audience: individuals, content creators, and small businesses promoting Mother’s Day offers, gifts, and services.\n\nIf featuring during the holiday period isn’t possible, the content also fits well into broader spring and family-themed collections.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/632a4a96-81b7-4721-90b5-18e944351557"
+      }
+    ]
+  },
+  "1500143611": {
+    "appName": "Yuno - General knowledge",
+    "data": [
+      {
+        "id": "217876d8-50c2-4b51-b013-695923e239eb",
+        "title": "NEW: Yuno Quests (On Screen Gameplay)",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-11T14:57:54.993422460Z",
+        "publishStartDate": "2025-09-30T11:00:01Z",
+        "description": "We are thrilled to announce the release of our largest feature update in the past two years. Starting September 30th, users will gain access to on-screen learning, available under the new “Play” menu.\nThis feature is designed for small, low-friction daily learning experiences. Each quest (e.g., Da Vinci) is divided into 4–12 contextually relevant learning blocks, allowing users to progress at their own pace. Each block takes about one minute to complete, teaches a handful of essential facts, and immediately follows with a quiz to maximize knowledge retention.\nAt launch, we will publish around 60 quests per language (EN & DE), covering a wide range of subjects—History, Economics, Politics, Art, Science, and more. This results in roughly 30,000 new interactive questions to engage and challenge our users.\nIn addition, we are upgrading the overall app experience with richer animations & improved gameplay haptics,\n\nUse this account to try it out: \nAccount: apple@gaiali.com\nPW: Apple#25",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/217876d8-50c2-4b51-b013-695923e239eb"
+      }
+    ]
+  },
+  "1569413444": {
+    "appName": "Finary: Budget & Money Tracker",
+    "data": [
+      {
+        "id": "77d125ab-3253-48ea-bb32-a0c003fd4c35",
+        "title": "Global improvement",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-09-08T10:44:39.731548175Z",
+        "publishStartDate": "2025-09-08T11:00:01Z",
+        "description": "We have made significant improvements to our app in recent weeks:\n\t•\tLaunched the new Subscription Scanner feature\n\t•\tLaunched the new Budget feature\n\t•\tadd a widget for home screen\n\t•\tEnhanced performance\n\t•\tRefreshed and improved UI\n\t•\tFixed many bugs\n\nWe believe this is a great momentum for us to be featured on the App Store.\n\t•\tOur ranking has remained stable for over a year on the French App Store (4.7 average rating).\n\t•\tWe are still highlighted as an “indispensable finance app” in the Finance category.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/77d125ab-3253-48ea-bb32-a0c003fd4c35"
+      }
+    ]
+  },
+  "1595390736": {
+    "appName": "Instinct: Casual Dating App",
+    "data": []
+  },
+  "1661308505": {
+    "appName": "ChatOn AI - Chat Bot Assistant",
+    "data": [
+      {
+        "id": "7a29b7d5-d436-45d9-9153-00829c278b47",
+        "title": "Thanksgiving In-App Event",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-20T13:43:09.610170Z",
+        "publishStartDate": "2024-11-22T11:00:00.001Z",
+        "description": "Thanksgiving is all about gratitude, cozy vibes, and lots of delicious food—and this in-app event will help users savor every aspect of the holiday!\n\nWith our special prompts, users have easy access to detailed steps for cooking the perfect turkey, creating beloved stuffing recipes, or mixing up an apple punch that will impress the whole family. Finding a great family movie is a breeze too—users can instantly pull up a list of heartwarming favorites to choose from. And for history buffs or just the curious at heart, there’s a special prompt that shares the origin of Thanksgiving—a perfect refresher or something helpful for Thanksgiving newbies.\n\nThis Thanksgiving event is here to make the holiday more memorable, heartfelt, and fun for everyone.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/7a29b7d5-d436-45d9-9153-00829c278b47"
+      },
+      {
+        "id": "ceeab091-a3b8-46b3-a40c-dd744c05e017",
+        "title": "Christmas In-App Event",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-12-07T08:30:14.571702597Z",
+        "publishStartDate": "2024-12-11T11:00:00.001Z",
+        "description": "This holiday season, ChatOn is bringing festive magic straight to its users! With our merry Christmas in-app event, they’ll dive into a joyful collection of Christmas prompts perfect for every holiday moment. From mouthwatering recipes to wow loved ones and creative decorating tips that turn homes into winter wonderlands to holiday tunes that set the perfect mood and iconic movies that bring back the magic of Christmas—there’s something for everyone. \nChatOn is always by its users’ side to create unforgettable Christmas memories and fill their homes with joy, laughter, and plenty of holiday cheer.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/ceeab091-a3b8-46b3-a40c-dd744c05e017"
+      },
+      {
+        "id": "13c92020-48c9-4116-95ce-26b24bfc2196",
+        "title": "Turkish Localization",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-11-21T09:15:38.048763841Z",
+        "publishStartDate": "2024-12-20T11:00:00.001Z",
+        "description": "We’re expanding not only ChatOn’s capabilities but also its linguistic horizons. So, we're thrilled to announce that our chatbot now speaks Turkish! After tons of work behind the scenes, we’re ready to help Turkish-speaking users in their native language. Whether it's for work, creativity, or problem-solving, they can now chat with ChatOn to get faster responses, clearer communication, and enhanced productivity. It's a whole new level of convenience and efficiency for them.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/13c92020-48c9-4116-95ce-26b24bfc2196"
+      },
+      {
+        "id": "82a7b3e0-8fe6-4eaf-b9fc-8f68ffdaf060",
+        "title": "Claude 3.5 Sonnet",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2024-12-06T10:33:34.501185335Z",
+        "publishStartDate": "2025-01-20T11:00:00.001Z",
+        "description": "We’re excited to introduce the new Claude 3.5 Sonnet in ChatOn! Designed to tackle even the toughest questions with unmatched speed and precision, this model helps our users save their time and effort. Whether it's writing essays, solving complex math problems, coding, or generating caption ideas, they can count on fast, on-the-go assistance for virtually any task. With this powerful model, ChatOn users can get more done, faster and easier than ever before!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/82a7b3e0-8fe6-4eaf-b9fc-8f68ffdaf060"
+      },
+      {
+        "id": "4c807894-31d9-49c4-97f7-3744d1e811b5",
+        "title": "Voice Chat",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-04-16T12:27:01.846499141Z",
+        "publishStartDate": "2025-05-07T11:00:01Z",
+        "description": "We’re excited to introduce our brand-new Voice Chat—the hands-free way to communicate with ChatOn. Now, our users can talk to AI just like they would to a real person. Whether they’re on the go, cooking, or just feeling like chatting without typing, this feature makes it easier than ever to get the answers they need. They can simply ask their question out loud and listen to the bot’s response here and now. It’s quick, convenient, and adds a whole new layer of ease to their ChatOn experience.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/4c807894-31d9-49c4-97f7-3744d1e811b5"
+      },
+      {
+        "id": "5c79778f-a8c3-4e6e-bea3-528e4375af78",
+        "title": "Pride Month with ChatOn",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-05-14T10:34:21.087401Z",
+        "publishStartDate": "2025-05-31T11:00:01Z",
+        "description": "This Pride Month, ChatOn introduces Celebrate Pride—a vibrant, thoughtfully designed prompt collection created to spark learning, connection, and self-expression around LGBTQ+ themes. From iconic culture moments to powerful stories, fashion inspiration, and allyship tips, these prompts help users explore what Pride really means and how to join in with heart and confidence.\nThe Celebrate Pride collection isn't just a seasonal update—it’s part of a broader mission to make technology more human. Because we believe progress starts with a question—and sometimes, that question may lead to a better world.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5c79778f-a8c3-4e6e-bea3-528e4375af78"
+      },
+      {
+        "id": "5d0c8c83-e0b6-4fcd-bf51-a036bec0cb44",
+        "title": "Back to School",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-07-18T12:12:42.896826Z",
+        "publishStartDate": "2025-08-15T11:00:01Z",
+        "description": "We get it—getting back into the school routine after a long break isn’t easy. That’s why we created the dynamic, ready-to-use Back to School prompt collection: to help students feel confident, organized, and ready to take on anything. \n\nFrom improving study habits and creating comfortable workspaces to staying on top of tasks and making smart financial choices—these prompts are designed to help students feel less overwhelmed and more motivated.\n\nPaired with advanced features like OCR for scanning homework, Doc Master for editing documents in any format, Text-to-Image for creating visuals for presentations, YouTube Summary for getting the gist of educational videos, and an additional set of prompts for rewriting and summarizing texts, the Back to School collection becomes a powerful tool for both learning and growth.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/5d0c8c83-e0b6-4fcd-bf51-a036bec0cb44"
+      },
+      {
+        "id": "b8fd6edc-2424-44ea-9968-0e8f2bb1d423",
+        "title": "Halloween In-App Event",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-10-22T09:21:01.813697Z",
+        "publishStartDate": "2025-10-27T11:00:01Z",
+        "description": "For Halloween enthusiasts, those still getting into the spirit, or just curious first-timers, the latest ChatOn event is here to make the holiday extra fun. With our spooky prompts, users will quickly find standout costume ideas, explore Halloween traditions, discover must-see horror films, try delicious recipes, and get inspired to create jaw-dropping decor.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/b8fd6edc-2424-44ea-9968-0e8f2bb1d423"
+      }
+    ]
+  },
+  "6737470910": {
+    "appName": "Emma: Learn Languages",
+    "data": [
+      {
+        "id": "c201c86c-ce7d-49f4-a9b4-269a84f6e831",
+        "title": "EMMA - New Languages Launch",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-03-19T10:44:11.544228682Z",
+        "publishStartDate": "2026-03-23T11:00:01Z",
+        "description": "Emma is expanding its AI-powered language learning experience to support new target languages: French, German, Brazilian and Italian. \nEmma is a real-time conversational AI tutor brought to life through a expressive 3D avatar. Unlike traditional flashcard or grammar-drill apps, Emma engages learners in natural, spoken conversations from the very first session, correcting pronunciation, adapting to each learner's level, and building \ngenuine speaking confidence.\nWith this update, Emma's conversational AI engine will be available to speakers of new languages, dramatically expanding our addressable audience and bringing real-time spoken practice to learners who have never had access to an AI conversation partner in their native language.",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/c201c86c-ce7d-49f4-a9b4-269a84f6e831"
+      }
+    ]
+  },
+  "6751030141": {
+    "appName": "Astra AI: Study & Exam Prep",
+    "data": []
+  },
+  "6642701963": {
+    "appName": "Ivy: Processed Food Scanner",
+    "data": []
   },
   "6744290388": {
     "appName": "Splash - Impostor Game",
     "data": [
       {
-        "title": "Splash World Cup 2026",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/9f69668a-060a-407e-8053-fa7396b2df7b"
-      },
-      {
-        "title": "Bonjour, Hola, Ciao! Splash adds 3 New Languages",
-        "url": "https://huxley.itunes.apple.com/v2/nominations/14893107-6d9e-4c21-9b2c-9d383956ffd8"
-      },
-      {
+        "id": "07b3b559-f319-46ce-b811-651deafb801e",
         "title": "Back to School Fun with Splash",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-19T07:25:05.663257693Z",
+        "publishStartDate": "2025-08-28T11:00:01Z",
+        "description": "This fall, we want to celebrate Back to School with something special for our community:\n\n- 50% off the regular price for a limited time\n- A brand-new game release that our players have been eagerly awaiting\n\nSplash has quickly become a favorite on the schoolyard and after class, where students connect, play, and compete together. Even teachers have told us how much fun they’re having with it!\n\nThis update captures the spirit of students reconnecting with friends, playing together, and enjoying fresh challenges as the school year begins. With this promotion, we’re giving both new and returning players a reason to jump back in.",
         "url": "https://huxley.itunes.apple.com/v2/nominations/07b3b559-f319-46ce-b811-651deafb801e"
       },
       {
+        "id": "f45a9214-4ede-416e-9ff3-6ae8c85aee21",
         "title": "Liquid Glass x Splash",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-14T08:49:50.807962427Z",
+        "publishStartDate": "2025-09-15T11:00:01Z",
+        "description": "Splash will support Liquid Glass from day one. We are finalizing implementation and will be fully ready for the iOS 26 launch.",
         "url": "https://huxley.itunes.apple.com/v2/nominations/f45a9214-4ede-416e-9ff3-6ae8c85aee21"
+      },
+      {
+        "id": "14893107-6d9e-4c21-9b2c-9d383956ffd8",
+        "title": "Bonjour, Hola, Ciao! Splash adds 3 New Languages",
+        "type": "APP_ENHANCEMENTS",
+        "state": "SUBMITTED",
+        "submittedDate": "2025-08-19T07:29:22.483784248Z",
+        "publishStartDate": "2025-10-06T11:00:01Z",
+        "description": "Splash is going global! Our entire app, including EVERY game, will be fully translated and localized into Italian, Spanish, and French soon.\n\nThis update makes Splash more accessible than ever, allowing millions of new players to enjoy the same fun, competitive, and social experiences in their own language. From in-game dialogue to menus and instructions, every detail has been carefully localized to feel natural and engaging.\n\nMore languages will follow right after! :)",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/14893107-6d9e-4c21-9b2c-9d383956ffd8"
+      },
+      {
+        "id": "9f69668a-060a-407e-8053-fa7396b2df7b",
+        "title": "Splash World Cup 2026",
+        "type": "NEW_CONTENT",
+        "state": "SUBMITTED",
+        "submittedDate": "2026-04-20T08:27:02.698739622Z",
+        "publishStartDate": "2026-06-08T11:00:01Z",
+        "description": "We're celebrating the soccer championship in Splash with tons of events and a brand new game, so our users can have the perfect time during this year's World Cup!\n\nSpecial theming: Our most-played games (including Impostor Game) are getting brand new World Cup 26 categories\nNew game! We're currently developing a brand new game with a World Cup championship theme\n\nWe've got even more planned in the app, like a raffle and soccer-themed game cards, so World Cup 26 in Splash is going to be amazing! We'd love to show this off to the world and make even more people happy playing Splash with their friends. We're super proud of our 4.8 rating from over 200,000 users!",
+        "url": "https://huxley.itunes.apple.com/v2/nominations/9f69668a-060a-407e-8053-fa7396b2df7b"
       }
     ]
   }
